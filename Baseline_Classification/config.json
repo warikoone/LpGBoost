@@ -1,0 +1,7 @@
+{
+"wordEmbeddingPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/Baseline_Classification/src/com/prj/bundle/resource/GoogleNews-vectors-negative300.bin",
+"seedFrame":"3",
+"predictFilePath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/Baseline_Classification/src/com/prj/bundle/resource/predictStream.txt",
+"corpusIconTrainingPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/Baseline_Classification/src/com/prj/bundle/resource/training/instancedOriginalStream.txt",
+"corpusIconTestPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/Baseline_Classification/src/com/prj/bundle/resource/test/instancedOriginalStream.txt"
+}
