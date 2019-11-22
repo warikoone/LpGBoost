@@ -30,7 +30,6 @@ public class RegexUtility {
 			int endIndex = (tempMatch.end()-1);
 			String nonCharGroup = tempMatch.group(0);
 			String replacePattern = "";
-			//System.out.println("\n\t patternBuilder 2 ::"+nonCharGroup +"\t>>"+ startIndex+"\t>>"+endIndex);
 			if(!nonCharGroup.matches("\\s")){
 				// add escape characters to non letter, non digit and non space match 
 				replacePattern = "\\".concat(nonCharGroup);
@@ -42,16 +41,12 @@ public class RegexUtility {
 			if((startIndex == 0) && (endIndex != tokenString.length()-1)){
 				tempPatternBuilder.append(replacePattern);
 				tokenString = tokenString.substring(endIndex+1,tokenString.length());
-				//System.out.println("\nstart 0 \t"+tokenString+"\t"+tempPatternBuilder.toString());
 			}else if((startIndex != 0) && (endIndex == tokenString.length()-1)){
 				tempPatternBuilder.append(tokenString.substring(0,startIndex).concat(replacePattern));
 				tokenString = "";
-				//System.out.println("\n end full\t"+tokenString+"\t"+tempPatternBuilder.toString());
 			}else if((startIndex != 0) && (endIndex != tokenString.length()-1)){
-				//System.out.println("^^^^\t"+tokenString.substring(0, startIndex).concat(replacePattern));
 				tempPatternBuilder.append(tokenString.substring(0, startIndex).concat(replacePattern));
 				tokenString = tokenString.substring(endIndex+1,tokenString.length());
-				//System.out.println("\n middle \t"+tokenString+"\t"+tempPatternBuilder.toString());
 			}else if((startIndex == 0) && (endIndex == 0)){
 				tempPatternBuilder.append(replacePattern);
 				tokenString="";
