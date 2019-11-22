@@ -160,9 +160,7 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 	private TreeMap<Integer, String> enforcePatternMatch(StringBuilder currentString, 
 			NavigableMap<Integer, ArrayList<String>> parsedProteinPatternList, String entityType) {
 		
-		//System.out.println("\n\t currentString>>"+currentString.toString());
 		ArrayList<LinkedList<String>> relationPairArray = this.relationPairs;
-		//System.out.println("\n\t ETYPE>>>"+entityType+"\t>>"+relationPairArray);
 		/**
 		 * Match each pair from the relation table with the mentions in the instance.
 		 * Replace paired entities with respective annotation mentions
@@ -175,31 +173,7 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 				int index=1, flag=0, count = 0;
 				String targetString = currentString.toString();
 				LinkedList<String> tier1Value = tier1Itr.next();
-				//System.out.println("\n\t pair::"+tier1Value);
 				if(tier1Value.size() == 1){
-					/**
-					String[] relationCategory = tier1Value.iterator().next().split("\\#");
-					// Check for corresponding entry type
-					if(relationCategory[0].equalsIgnoreCase(entityType)){
-						ArrayList<String> tempArray = new ArrayList<>(Arrays.asList(targetString.split("\\s+")));
-						Iterator<String> tier3Itr = tempArray.iterator();
-						StringBuilder tier1BufferBuilder = new StringBuilder();
-						while(tier3Itr.hasNext()){
-							String tier3StrValue = tier3Itr.next();
-							Matcher entityMatcher = Pattern.compile(relationCategory[1]).matcher(tier3StrValue);
-							if(entityMatcher.find()){
-								tier3StrValue = entityMatcher.replaceAll(entityType.concat("T"));
-								tier1BufferBuilder.append(tier3StrValue
-										.concat(String.valueOf(index)).concat(" "));
-								tier1BufferBuilder.append(tier3StrValue
-										.concat(String.valueOf(index+1)).concat(" "));
-								flag=1;
-							}else{
-								tier1BufferBuilder.append(tier3StrValue.concat(" "));
-							}
-						}
-						targetString = tier1BufferBuilder.toString().trim();
-					}**/
 					System.err.println("\n\t Single Entry error");
 					System.exit(0);
 				}else{
@@ -209,7 +183,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 						String[] relationCategory = tier2Itr.next().split("\\#");
 						// Check for corresponding entry type
 						if(relationCategory[0].equalsIgnoreCase(entityType)){
-							//System.out.println("\t\t\t>>"+relationCategory[1]);
 							Matcher entityMatcher = Pattern.compile(relationCategory[1]).matcher(targetString);
 							if(entityMatcher.find()){
 								count++;
@@ -223,10 +196,8 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 							String[] relationCategory = tier2Itr.next().split("\\#");
 							// Check for corresponding entry type
 							if(relationCategory[0].equalsIgnoreCase(entityType)){
-								//System.out.println("\t\t\t>>"+relationCategory[1]);
 								Matcher entityMatcher = Pattern.compile(relationCategory[1]).matcher(targetString);
 								if(entityMatcher.find()){
-									//System.out.println("\t\t\t>>"+entityMatcher.start());
 									targetString = entityMatcher.replaceFirst(entityType.concat("T"+String.valueOf(index)));
 									index++;
 								}
@@ -256,7 +227,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 							decoyTreeMap.put(relationIndex, checkString);
 						}
 					}
-					//System.out.println("\t updated>>>"+checkString);
 					relationIndex++;
 				}
 			}
@@ -282,13 +252,15 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 						decoyTreeMap.put(relationIndex, checkString);
 					}
 				}
-				//System.out.println("\t rel 0 updated>>>"+checkString);
 				relationIndex++;
 			}
 		}
 		return(decoyTreeMap);
 	}
 	
+	/**
+	* character wise pattern matching of tokensized expression with exception of alpha numeric characters
+	**/
 	private ArrayList<String> splitByPattern(String token, 
 			String matchPattern, String maskPattern) {
 
@@ -297,19 +269,16 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 		if(terminalMatcher.find()){
 			if (terminalMatcher.end() == token.length()){
 				// terminal symbol match
-				//System.out.println(" terminal:: "+token);
 				revisedList.addAll(splitByPattern(token.substring(0, terminalMatcher.start()), 
 						matchPattern, maskPattern));
 				revisedList.add(token.substring(terminalMatcher.start(), terminalMatcher.end()));
 			}else if(terminalMatcher.start() == 0){
 				// start symbol match
-				//System.out.println(" start:: "+token);
 				revisedList.add(token.substring(terminalMatcher.start(), terminalMatcher.end()));
 				revisedList.addAll(splitByPattern(token.substring(terminalMatcher.end(), token.length()), 
 						matchPattern, maskPattern));
 			}else{
 				// mid-symbol match
-				//System.out.println(" middle:: "+token);
 				Matcher tokenEntityMatcher = Pattern.compile(maskPattern).matcher(token);
 				if(tokenEntityMatcher.find()){
 					revisedList.add(token.substring(0, terminalMatcher.start()));
@@ -321,7 +290,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 		if(revisedList.isEmpty()){
 			ArrayList<String> decoyList = new ArrayList<>();
 			char[] charArray = token.toCharArray();
-			//System.out.println("\t"+token);
 			for(int i=(charArray.length-1);i>=0;i--){
 				if(String.valueOf(charArray[i]).matches(matchPattern)){
 					decoyList.add(String.valueOf(charArray[i]));
@@ -335,7 +303,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 				revisedList.addAll(decoyList);
 			}
 		}
-		//System.out.println("\n rev>>"+revisedList);
 		return(revisedList);
 	}
 
@@ -373,7 +340,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 			}
 		}
 		abstractString = reformAbstractString.toString().trim();
-		//System.out.println("\n abstractPosTagger>"+abstractString);
 		
 		List<ArrayList<String>> complexSet = new ArrayList<>();
 		ArrayList<String> wordList = new ArrayList<>();
@@ -385,7 +351,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 		while(tokenItr.hasNext()){
 			Token currentToken = tokenItr.next();
 			//substitute delimiters pos tags
-			//System.out.print("\nbefore \t"+currentToken.baseForm+"\t"+currentToken.pos);
 			Matcher baseFormMatcher = Pattern.compile("\\W+").matcher(currentToken.baseForm);
 			if (baseFormMatcher.matches()){
 				currentToken.pos="SYM";
@@ -402,7 +367,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 				}
 				currentToken.pos=currentToken.baseForm;
 			}
-			//System.out.print("\nafter::\t"+currentToken.baseForm+"\t"+currentToken.pos);
 			
 			posTagList.add(currentToken.pos);
 			wordList.add(currentToken.baseForm);
@@ -469,12 +433,7 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 			endIndex.add(subMatcher.end());
 			patternIndex.add(subMatcher.group(0).trim());
 		}
-		/**
-		int i=0;
-		while(i < startIndex.size()){
-			System.out.println("\t"+startIndex.get(i)+"\t"+endIndex.get(i)+"\t"+patternIndex.get(i));
-			i++;
-		}*/
+		
 		ret.add(startIndex);
 		ret.add(endIndex);
 		ret.add(patternIndex);
@@ -495,6 +454,9 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 		return(complexHashSet);
 	}
 	
+	/**
+	* check for lower word case
+	**/
 	private boolean checkWordForLowerCase(String charString) {
 		
 		//screen the characters for presence of Lower case and rule it out as part of another sentence
@@ -513,26 +475,26 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 		}
 	}	
 	
+	/**
+	* find the terminal symbols (?!.)
+	**/
 	private String recursiveTerminalSymbolCheck(String sentence, int sentenceSize) {
 		
 		// iteratively remove non period operators from the rare of the sentence
-		//System.out.println("\n\t>>"+String.valueOf(sentence.charAt(sentenceSize))+"\tindex>>"+sentenceSize);
 		if(String.valueOf(sentence.charAt(sentenceSize)).matches("\\.|\\?|\\!")){
 			return(sentence);
 		}else{
-			//System.out.println("\n\t>>"+sentence.substring(0,sentenceSize));
 			if(sentenceSize != 0){
 				sentence = recursiveTerminalSymbolCheck(sentence.substring(0,sentenceSize), sentenceSize-1);
 			}else{
 				return null;
 			}
 		}
-		//System.out.println("\n\t>>"+sentence);
 		return sentence;
 	}
 
 	/**
-	 * 
+	 * Filter out the pre-defined tags from pubmed abstracts
 	 * @param cacheSentence 
 	 * @param string
 	 * @return 
@@ -617,7 +579,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 	@Override
 	public ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayList<String>>>>> call() 
 			throws Exception {
-		//System.out.println("\n\t inside call");
 		ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayList<String>>>>> taggedSentences = 
 				new ArrayList<>();
 		HashMap<String, TreeMap<Integer,ArrayList<ArrayList<String>>>> subTaggedSentences = new HashMap<>();
@@ -631,7 +592,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 			while(singleSentenceItr.hasNext()){
 				StringBuilder cacheSentence = new StringBuilder();
 				String singleSentence = singleSentenceItr.next();
-				//System.out.println("\t"+ singleSentence);
 				//check if there are more than 2 sentences in the input sentences
 				String reformattedString = checkDocumentStructure(singleSentence);
 				int terminalFlag = 0;
@@ -683,13 +643,10 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 				tier2BufferList = posTagMap.get(relIndex);
 			}
 			for(String sentence : sentences){
-				//System.out.println(relIndex+"\t"+sentence);
 				
 				//POS tagging
 				List<ArrayList<String>> decoyAbstractList = 
 						abstractPosTagger(sentence.toString());
-				//System.out.println("\t>>"+decoyAbstractList.get(0));
-				//System.out.println("\t>>"+decoyAbstractList.get(1));
 				tier1BufferList.add(decoyAbstractList.get(0));
 				tier2BufferList.add(decoyAbstractList.get(1));
 			}
@@ -703,7 +660,9 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 		haltThreadProcess();
 		return(taggedSentences);
 	}
-	
+	/**
+	* Find all possible paired combinations from candidate instances for bio-entity relation detection tasks
+	**/
 	private TreeMap<Integer, ArrayList<LinkedList<Integer>>> 
 	callPairCombination(ArrayList<String> bufferList) {
 
@@ -783,6 +742,9 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 		return(returnTreeMap);
 	}
 	
+	/**
+	* binning of candidate instances based on classes for a supervised learning setting
+	**/
 	private TreeMap<Integer, LinkedHashMap<String, String>> generateClassInstances(
 			String docId, String resourceType, Integer sentIndex, ArrayList<String> bufferList,
 			TreeMap<Integer, ArrayList<LinkedList<Integer>>> bufferMap, 
@@ -797,7 +759,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 			if(tier1ResultBufferMap.containsKey(tier1MapValue.getKey())){
 				tier2ResultBufferMap = tier1ResultBufferMap.get(tier1MapValue.getKey());
 			}
-			//System.out.println("\n\t"+tier1MapValue.getKey()+"\t"+tier1MapValue.getValue());
 			while(tier2Itr.hasNext()){
 				ArrayList<String> tier1BufferList = new ArrayList<>(bufferList);
 				LinkedList<Integer> tier2LList = tier2Itr.next();
@@ -824,9 +785,7 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 				//if(tier1MapValue.getKey() == -1){
 					for(String term : tier2ResultBufferMap.keySet()){
 						Matcher matchPattern = Pattern.compile(subPattern).matcher(term);
-						//System.out.println("ter>>"+term+"\t"+subIndex);
 						if(matchPattern.find()){
-							//System.out.println(">>"+term);
 							if(Pattern.compile(subPattern).matcher(term).find()){
 								filterPatternList.add(term);
 							}
@@ -838,11 +797,9 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 				//}
 				
 				String subIndex = subPattern.concat(String.valueOf((filterPatternList.size()+1)));
-				//System.out.println("\n\t"+tier1MapValue.getKey()+"\t"+subIndex+"\t"+currentString);
 				
 				//if (!tier2ResultBufferMap.values().contains(currentString)){
 				if (fillStatus){
-					//System.out.println("add>>>"+subIndex);
 					tier2ResultBufferMap.put(subIndex, currentString);
 				}
 			}
@@ -850,7 +807,10 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 		}
 		return(tier1ResultBufferMap);
 	}
-
+	
+	/**
+	* Instance token normalization
+	**/
 	private ArrayList<String> normalizationForDuplicateTesting(LinkedList<Integer> bufferLList, 
 			ArrayList<String> bufferArray) {
 		
@@ -870,6 +830,9 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 		return(bufferArray);
 	}
 	
+	/**
+	* Remove duplicate pair mentions
+	**/
 	private TreeMap<Integer, ArrayList<LinkedList<Integer>>> removeInstanceDuplicates(
 			TreeMap<Integer, ArrayList<LinkedList<Integer>>> tier1BufferMap,
 			ArrayList<String> bufferArray, TreeMap<Integer, ArrayList<ArrayList<String>>> bufferMap) {
@@ -880,7 +843,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 				ArrayList<String> tier1BufferArray = new ArrayList<>(bufferArray);
 				// re-frame the candidate instance
 				LinkedList<Integer> compareList = new LinkedList<>(tier1Itr.next());
-				//System.out.println("compareList>>"+compareList);
 				tier1BufferArray = normalizationForDuplicateTesting(compareList, tier1BufferArray);
 				Iterator<Map.Entry<Integer, ArrayList<ArrayList<String>>>> tier2Itr = 
 						bufferMap.entrySet().iterator();
@@ -889,18 +851,15 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 					Iterator<ArrayList<String>> tier3Itr = tier2MapValue.getValue().iterator();
 					while(tier3Itr.hasNext()){
 						ArrayList<String> tier3ListValue = tier3Itr.next();
-						//System.out.println(tier3ListValue);
 						ArrayList<Integer> tier2BufferArray = new ArrayList<>(
 								IntStream.range(0, tier3ListValue.size())
 								.boxed().collect(Collectors.toList()));
 						LinkedList<Integer> pairedList = new LinkedList<>(tier2BufferArray.stream()
 								.filter(index -> tier3ListValue.get(index).matches("TRIGGERPRI"))
 								.collect(Collectors.toList()));
-						//System.out.println(pairedList);
 						ArrayList<String> tier3BufferArray = new ArrayList<>(tier3ListValue);
 						tier3BufferArray = normalizationForDuplicateTesting(pairedList, tier3BufferArray);
 						if(tier1BufferArray.equals(tier3BufferArray)){
-							//System.out.println("\t>>"+tier1BufferMap.get(-1)+"\t>>"+pairedList+"\t>>"+compareList);
 							tier1Itr.remove();
 							break;
 						}
@@ -925,7 +884,6 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 				ArrayList<String> tier2ListValue = tier2Itr.next();
 				TreeMap<Integer, ArrayList<LinkedList<Integer>>> tier2ResultBufferMap = 
 						callPairCombination(tier2ListValue);
-				//System.out.println("\n\t>>"+tier1MapValue.getKey()+"\t"+tier2ListValue);
 				
 				tier2ResultBufferMap = removeInstanceDuplicates(tier2ResultBufferMap, 
 						new ArrayList<>(tier2ListValue), new TreeMap<>(bufferMap));
@@ -981,10 +939,7 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 				//System.exit(0);
 			//}**/
 				i++;
-				/**
-				if(i==34){
-					break;
-				}**/
+				
 				/**
 				 * Gather entity pattern list
 				 */
@@ -993,14 +948,12 @@ implements Callable<ArrayList<HashMap<String, TreeMap<Integer, ArrayList<ArrayLi
 				if(normaliseInstance.proteinEntities.containsKey(docId)){
 					parsedProteinPatternList = normaliseInstance.proteinEntities.get(docId);
 				}
-				//System.out.println(" parsedProteinPatternList>>>"+parsedProteinPatternList);
 				
 				ArrayList<LinkedList<String>> relationList = new ArrayList<>();
 				if(normaliseInstance.relationCollection.containsKey(docId)){
 					TreeMap<Integer, ArrayList<String>> relationTree = 
 							normaliseInstance.relationCollection.get(docId);
 					for(ArrayList<String> tempList : relationTree.values()){
-						//System.out.println("\n\t ::"+tempList);
 						//tempList = resetListOrder(tempList);
 						relationList.add(new LinkedList<>());
 					}
