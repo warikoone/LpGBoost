@@ -1,0 +1,1000 @@
+AIMed_d30@1	Isolation of human PROTEINT1 and its binding specificity with PROTEINT2
+AIMed_d30@2	We screen protein for interaction with PROTEINT1 and clone the full-length cDNA of human PROTEINT2 which encode 1225 amino acid
+AIMed_d30@3	Yeast two-hybrid assay GST binding assay and immunoprecipitation demonstrate that PROTEINT1 interact with a hydrophilic loop region in the endoproteolytic C-terminal fragment of PROTEINT2 but not with that of PROTEINT0
+AIMed_d30@6	We also find another PROTEINT0 PROTEINT1 interact with PROTEINT2
+AIMed_d192@1	Activation of PROTEINT0 PROTEINT1 mediate by PROTEINT0 PROTEINT2
+AIMed_d192@2	The PROTEINT0 PROTEINT1 PROTEINT0 convert enzyme PROTEINT2 process the inactive PROTEINT0 precursor to the proinflammatory cytokine
+AIMed_d192@2	The PROTEINT0 PROTEINT0 PROTEINT1 convert enzyme PROTEINT2 process the inactive PROTEINT0 precursor to the proinflammatory cytokine
+AIMed_d192@3	PROTEINT1 be also show to cleave the precursor of PROTEINT0 PROTEINT2 PROTEINT0 at the authentic processing site with high efficiency thereby activate PROTEINT0 and facilitate its export
+AIMed_d192@3	PROTEINT1 be also show to cleave the precursor of PROTEINT0 PROTEINT0 PROTEINT2 at the authentic processing site with high efficiency thereby activate PROTEINT0 and facilitate its export
+AIMed_d192@3	PROTEINT1 be also show to cleave the precursor of PROTEINT0 PROTEINT0 PROTEINT0 at the authentic processing site with high efficiency thereby activate PROTEINT2 and facilitate its export
+AIMed_d143@6	The result show that PROTEINT1 and PROTEINT0 can both stimulate cell proliferation induce similar pattern of protein tyrosine phosphorylation and activate the same proto-oncogene PROTEINT2 expression in TF-1 cell
+AIMed_d143@6	The result show that PROTEINT0 and PROTEINT1 can both stimulate cell proliferation induce similar pattern of protein tyrosine phosphorylation and activate the same proto-oncogene PROTEINT2 expression in TF-1 cell
+AIMed_d138@1	Interaction of mammalian splicing factor PROTEINT1 with PROTEINT2 and relation of its 60-kD subunit to yeast PROTEINT0
+AIMed_d138@5	PROTEINT1 interact with PROTEINT2 in the presence of PROTEINT0 to generate a structure similar to 17S PROTEINT0 which suggest a function for PROTEINT0 and PROTEINT0 in the incorporation of PROTEINT0 into the spliceosome
+AIMed_d37@2	PROTEINT1 be first characterize as a receptor for PROTEINT2 PROTEINT0 and PROTEINT0 and be rapidly show to be the main coreceptor for M-tropic human immunodeficiency virus HIV 1 strain and simian immunodeficiency virus SIV
+AIMed_d37@2	PROTEINT1 be first characterize as a receptor for PROTEINT0 PROTEINT2 and PROTEINT0 and be rapidly show to be the main coreceptor for M-tropic human immunodeficiency virus HIV 1 strain and simian immunodeficiency virus SIV
+AIMed_d37@2	PROTEINT1 be first characterize as a receptor for PROTEINT0 PROTEINT0 and PROTEINT2 and be rapidly show to be the main coreceptor for M-tropic human immunodeficiency virus HIV 1 strain and simian immunodeficiency virus SIV
+AIMed_d37@6	We find that in addition to PROTEINT1 PROTEINT0 and PROTEINT0 five other CC-chemokine could compete for 125 I PROTEINT2 binding PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT0 binding be characterize by IC 50 value of 0.22 2.14 5.89 29.9 and 21.7 nmol/L respectively
+AIMed_d37@6	We find that in addition to PROTEINT0 PROTEINT1 and PROTEINT0 five other CC-chemokine could compete for 125 I PROTEINT2 binding PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT0 binding be characterize by IC 50 value of 0.22 2.14 5.89 29.9 and 21.7 nmol/L respectively
+AIMed_d37@6	We find that in addition to PROTEINT0 PROTEINT0 and PROTEINT1 five other CC-chemokine could compete for 125 I PROTEINT2 binding PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT0 binding be characterize by IC 50 value of 0.22 2.14 5.89 29.9 and 21.7 nmol/L respectively
+AIMed_d37@6	We find that in addition to PROTEINT0 PROTEINT0 and PROTEINT0 five other CC-chemokine could compete for 125 I PROTEINT1 binding PROTEINT2 PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT0 binding be characterize by IC 50 value of 0.22 2.14 5.89 29.9 and 21.7 nmol/L respectively
+AIMed_d37@6	We find that in addition to PROTEINT0 PROTEINT0 and PROTEINT0 five other CC-chemokine could compete for 125 I PROTEINT1 binding PROTEINT0 PROTEINT2 PROTEINT0 PROTEINT0 and PROTEINT0 binding be characterize by IC 50 value of 0.22 2.14 5.89 29.9 and 21.7 nmol/L respectively
+AIMed_d37@6	We find that in addition to PROTEINT0 PROTEINT0 and PROTEINT0 five other CC-chemokine could compete for 125 I PROTEINT1 binding PROTEINT0 PROTEINT0 PROTEINT2 PROTEINT0 and PROTEINT0 binding be characterize by IC 50 value of 0.22 2.14 5.89 29.9 and 21.7 nmol/L respectively
+AIMed_d37@6	We find that in addition to PROTEINT0 PROTEINT0 and PROTEINT0 five other CC-chemokine could compete for 125 I PROTEINT1 binding PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT2 and PROTEINT0 binding be characterize by IC 50 value of 0.22 2.14 5.89 29.9 and 21.7 nmol/L respectively
+AIMed_d37@6	We find that in addition to PROTEINT0 PROTEINT0 and PROTEINT0 five other CC-chemokine could compete for 125 I PROTEINT1 binding PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT2 binding be characterize by IC 50 value of 0.22 2.14 5.89 29.9 and 21.7 nmol/L respectively
+AIMed_d37@7	Among these ligand PROTEINT1 have the remarkable property of binding PROTEINT2 with high affinity without elicit a functional response PROTEINT0 could also inhibit the activation of PROTEINT0 by PROTEINT0 and may therefore be consider as a natural antagonist for PROTEINT0
+AIMed_d37@7	Among these ligand PROTEINT0 have the remarkable property of binding PROTEINT0 with high affinity without elicit a functional response PROTEINT1 could also inhibit the activation of PROTEINT0 by PROTEINT0 and may therefore be consider as a natural antagonist for PROTEINT2
+AIMed_d37@7	Among these ligand PROTEINT0 have the remarkable property of binding PROTEINT0 with high affinity without elicit a functional response PROTEINT0 could also inhibit the activation of PROTEINT1 by PROTEINT2 and may therefore be consider as a natural antagonist for PROTEINT0
+AIMed_d37@9	Chemokine that could compete with high affinity for PROTEINT0 binding could also compete for monomeric PROTEINT0 binding although with variable potency maximal PROTEINT1 binding inhibition be 80 for PROTEINT2 but only 30 for PROTEINT0
+AIMed_d37@9	Chemokine that could compete with high affinity for PROTEINT0 binding could also compete for monomeric PROTEINT0 binding although with variable potency maximal PROTEINT1 binding inhibition be 80 for PROTEINT0 but only 30 for PROTEINT2
+AIMed_d37@10	PROTEINT1 could compete efficiently for PROTEINT2 binding but be however find to be a weak inhibitor of HIV infection probably as a consequence of its inability to downregulate the receptor
+AIMed_d195@1	Competitive binding of PROTEINT1 and PROTEINT0 to the PROTEINT2
+AIMed_d195@1	Competitive binding of PROTEINT0 and PROTEINT1 to the PROTEINT2
+AIMed_d195@3	The activity of NMDA N-methyl-D-aspartate receptor be mechanosensitive and dependent on the integrity of PROTEINT0 suggest a functionally important interaction between NMDA receptor and the postsynaptic cytoskeleton PROTEINT0 a member of the PROTEINT0 family of PROTEINT0 bind protein be identify here as a brain postsynaptic density protein that colocalize in dendritic spine with NMDA receptor and the putative NMDA receptor-clustering molecule PROTEINT0 PROTEINT1 bind by its central rod domain to the cytoplasmic tail of both PROTEINT0 and PROTEINT0 subunit of the PROTEINT2 and can be immunoprecipitate with NMDA receptor and PROTEINT0 from rat brain
+AIMed_d195@3	The activity of NMDA N-methyl-D-aspartate receptor be mechanosensitive and dependent on the integrity of PROTEINT0 suggest a functionally important interaction between NMDA receptor and the postsynaptic cytoskeleton PROTEINT0 a member of the PROTEINT0 family of PROTEINT0 bind protein be identify here as a brain postsynaptic density protein that colocalize in dendritic spine with NMDA receptor and the putative NMDA receptor-clustering molecule PROTEINT0 PROTEINT1 bind by its central rod domain to the cytoplasmic tail of both PROTEINT0 and PROTEINT0 subunit of the PROTEINT0 and can be immunoprecipitate with NMDA receptor and PROTEINT2 from rat brain
+AIMed_d144@1	The PROTEINT1 associate with the PROTEINT2 catalytic subunit
+AIMed_d144@5	In vitro-binding assay demonstrate that PROTEINT1 isoform preferentially bind the hypophosphorylate form of PROTEINT2
+AIMed_d144@6	Moreover similar PROTEINT1 sequence be require for binding PROTEINT2 and PROTEINT0
+AIMed_d144@6	Moreover similar PROTEINT1 sequence be require for binding PROTEINT0 and PROTEINT2
+AIMed_d221@1	A region of the beta subunit of the PROTEINT0 PROTEINT1 different from box 1 interact with PROTEINT2 and be sufficient to activate the PROTEINT0 Stat pathway and induce an antiviral state
+AIMed_d45@2	A mutant form of human PROTEINT0 PROTEINT1 PROTEINT0 SC1 that bind one PROTEINT0 PROTEINT2 PROTEINT0 receptor alpha chain PROTEINT0 PROTEINT0 have be design and characterize
+AIMed_d45@2	A mutant form of human PROTEINT0 PROTEINT1 PROTEINT0 SC1 that bind one PROTEINT0 PROTEINT0 PROTEINT0 receptor alpha chain PROTEINT0 PROTEINT2 have be design and characterize
+AIMed_d45@4	Isothermal titration calorimetry show that PROTEINT0 PROTEINT1 form a 1:1 complex with its high-affinity receptor PROTEINT0 PROTEINT2 with an affinity of 27 9 nM
+AIMed_d45@8	The AB loop of PROTEINT0 adopt conformation similar to the order loop of PROTEINT0 observe in the crystal structure of the PROTEINT1 PROTEINT2 PROTEINT0 R alpha complex
+AIMed_d45@11	Despite bind to only one PROTEINT1 PROTEINT0 R alpha PROTEINT2 be biologically active in cell proliferation MHC class I induction and anti-viral assay
+AIMed_d45@12	This suggest that one domain of PROTEINT1 be sufficient to recruit PROTEINT2 PROTEINT0 R alpha and PROTEINT0 PROTEINT0 into a complex competent for elicit biological activity
+AIMed_d45@12	This suggest that one domain of PROTEINT1 be sufficient to recruit PROTEINT0 PROTEINT0 R alpha and PROTEINT0 PROTEINT2 into a complex competent for elicit biological activity
+AIMed_d136@4	Monoclonal antibody to the beta chain of the PROTEINT0 receptor inhibit the biological activity of PROTEINT0 and PROTEINT0 compete for binding with PROTEINT0 indicate that PROTEINT1 use component of the PROTEINT0 PROTEINT2
+AIMed_d94@5	When Ca2 i change be monitor in stably transfecte human embryonic kidney 293 cell PROTEINT1 PROTEINT0 and PROTEINT0 be both potent agonist for PROTEINT2 and PROTEINT0
+AIMed_d94@5	When Ca2 i change be monitor in stably transfecte human embryonic kidney 293 cell PROTEINT1 PROTEINT0 and PROTEINT0 be both potent agonist for PROTEINT0 and PROTEINT2
+AIMed_d94@5	When Ca2 i change be monitor in stably transfecte human embryonic kidney 293 cell PROTEINT0 PROTEINT0 and PROTEINT1 be both potent agonist for PROTEINT2 and PROTEINT0
+AIMed_d94@5	When Ca2 i change be monitor in stably transfecte human embryonic kidney 293 cell PROTEINT0 PROTEINT0 and PROTEINT1 be both potent agonist for PROTEINT0 and PROTEINT2
+AIMed_d94@6	However PROTEINT1 be also an agonist for PROTEINT2 but not PROTEINT0 PROTEINT0 be an agonist for PROTEINT0 but not PROTEINT0
+AIMed_d94@6	However PROTEINT0 be also an agonist for PROTEINT0 but not PROTEINT0 PROTEINT1 be an agonist for PROTEINT2 but not PROTEINT0
+AIMed_d39@1	PROTEINT1 suppress the function of PROTEINT0 homodimer via interaction with PROTEINT2 PROTEINT0
+AIMed_d39@1	PROTEINT1 suppress the function of PROTEINT0 homodimer via interaction with PROTEINT0 PROTEINT2
+AIMed_d39@3	Here we show that PROTEINT1 PROTEINT0 a negative regulator of PROTEINT2 be a candidate to mediate the function of PROTEINT0 in the cell
+AIMed_d39@3	Here we show that PROTEINT0 PROTEINT1 a negative regulator of PROTEINT2 be a candidate to mediate the function of PROTEINT0 in the cell
+AIMed_d39@4	We screen for protein that bind to PROTEINT1 from a human embryonic brain cDNA library use the two-hybrid method and isolate one clone encode the PROTEINT2 PROTEINT0 gene
+AIMed_d39@4	We screen for protein that bind to PROTEINT1 from a human embryonic brain cDNA library use the two-hybrid method and isolate one clone encode the PROTEINT0 PROTEINT2 gene
+AIMed_d39@5	The binding of PROTEINT1 PROTEINT0 to full-length PROTEINT2 be confirm in vitro by pull-down assay and in vivo by immunoprecipitation assay with human sample include AD brain
+AIMed_d39@5	The binding of PROTEINT0 PROTEINT1 to full-length PROTEINT2 be confirm in vitro by pull-down assay and in vivo by immunoprecipitation assay with human sample include AD brain
+AIMed_d39@7	Chloramphenicol acetyltransferase assay in F9 cell show that PROTEINT0 suppress transactivation by PROTEINT1 PROTEINT2 but not by PROTEINT0 PROTEINT0 heterodimer consistent with the report function of PROTEINT0 PROTEINT0
+AIMed_d39@7	Chloramphenicol acetyltransferase assay in F9 cell show that PROTEINT0 suppress transactivation by PROTEINT0 PROTEINT0 but not by PROTEINT1 PROTEINT2 heterodimer consistent with the report function of PROTEINT0 PROTEINT0
+AIMed_d42@9	Use antibody-mediated immunofluorescence copatching of epitope-tagged receptor we provide evidence in live cell for preexist heteromeric PROTEINT1 PROTEINT2 and PROTEINT0 PROTEINT0 and homomeric PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and also PROTEINT0 PROTEINT0 oligomer in the absence of ligand
+AIMed_d42@9	Use antibody-mediated immunofluorescence copatching of epitope-tagged receptor we provide evidence in live cell for preexist heteromeric PROTEINT0 PROTEINT0 and PROTEINT1 PROTEINT2 and homomeric PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and also PROTEINT0 PROTEINT0 oligomer in the absence of ligand
+AIMed_d42@9	Use antibody-mediated immunofluorescence copatching of epitope-tagged receptor we provide evidence in live cell for preexist heteromeric PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 and homomeric PROTEINT1 PROTEINT2 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and also PROTEINT0 PROTEINT0 oligomer in the absence of ligand
+AIMed_d42@9	Use antibody-mediated immunofluorescence copatching of epitope-tagged receptor we provide evidence in live cell for preexist heteromeric PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 and homomeric PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT2 PROTEINT0 PROTEINT0 and also PROTEINT0 PROTEINT0 oligomer in the absence of ligand
+AIMed_d42@9	Use antibody-mediated immunofluorescence copatching of epitope-tagged receptor we provide evidence in live cell for preexist heteromeric PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 and homomeric PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT2 and also PROTEINT0 PROTEINT0 oligomer in the absence of ligand
+AIMed_d42@9	Use antibody-mediated immunofluorescence copatching of epitope-tagged receptor we provide evidence in live cell for preexist heteromeric PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 and homomeric PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and also PROTEINT1 PROTEINT2 oligomer in the absence of ligand
+AIMed_d42@10	PROTEINT1 binding significantly increase hetero and homo-oligomerization except for the PROTEINT2 homo-oligomer which bind ligand poorly in the absence of PROTEINT0
+AIMed_d42@10	PROTEINT0 binding significantly increase hetero and homo-oligomerization except for the PROTEINT1 homo-oligomer which bind ligand poorly in the absence of PROTEINT2
+AIMed_d131@2	cDNA clone encode a human PROTEINT1 PROTEINT0 from a Burkitt lymphoma cell line BJAB express a 90 to 110 kDa polypeptide in COS7 cell that bind PROTEINT2 specifically
+AIMed_d131@2	cDNA clone encode a human PROTEINT0 PROTEINT1 from a Burkitt lymphoma cell line BJAB express a 90 to 110 kDa polypeptide in COS7 cell that bind PROTEINT2 specifically
+AIMed_d131@3	The predict amino acid sequence of PROTEINT0 be 60 identical and 73 similar to mouse PROTEINT0 PROTEINT0 PROTEINT1 express in an PROTEINT0 dependent mouse pro-B cell line Ba/F3 bind PROTEINT2 with high affinity 200 to 250 pM and the transfecte cell exhibit a proliferative response to PROTEINT0
+AIMed_d178@3	In vitro and in nonproliferating cell PROTEINT1 associate with and inhibit cyclin/cycin-dependent kinase CDK holoenzyme contain either PROTEINT2 PROTEINT0 or PROTEINT0
+AIMed_d178@3	In vitro and in nonproliferating cell PROTEINT1 associate with and inhibit cyclin/cycin-dependent kinase CDK holoenzyme contain either PROTEINT0 PROTEINT2 or PROTEINT0
+AIMed_d178@3	In vitro and in nonproliferating cell PROTEINT1 associate with and inhibit cyclin/cycin-dependent kinase CDK holoenzyme contain either PROTEINT0 PROTEINT0 or PROTEINT2
+AIMed_d178@6	In addition PROTEINT1 associate with three different CDK PROTEINT2 PROTEINT0 and PROTEINT0
+AIMed_d178@6	In addition PROTEINT1 associate with three different CDK PROTEINT0 PROTEINT2 and PROTEINT0
+AIMed_d178@6	In addition PROTEINT1 associate with three different CDK PROTEINT0 PROTEINT0 and PROTEINT2
+AIMed_d178@8	The amount of PROTEINT1 and PROTEINT0 associate with PROTEINT2 do not change in a cell cycle-dependent fashion in contrast the amount of PROTEINT0 associate with PROTEINT0 be low in early G1 cell and increase to a maximum in mid-G1 phase reach a steady-state level in late G1-phase cell
+AIMed_d178@8	The amount of PROTEINT0 and PROTEINT1 associate with PROTEINT2 do not change in a cell cycle-dependent fashion in contrast the amount of PROTEINT0 associate with PROTEINT0 be low in early G1 cell and increase to a maximum in mid-G1 phase reach a steady-state level in late G1-phase cell
+AIMed_d178@8	The amount of PROTEINT0 and PROTEINT0 associate with PROTEINT0 do not change in a cell cycle-dependent fashion in contrast the amount of PROTEINT1 associate with PROTEINT2 be low in early G1 cell and increase to a maximum in mid-G1 phase reach a steady-state level in late G1-phase cell
+AIMed_d178@12	In contrast PROTEINT1 complex contain PROTEINT2 be incapable of phosphorylate PROTEINT0
+AIMed_d77@5	We show that the carboxy terminal tail of PROTEINT1 associate directly with the amino terminal head of type II epidermal keratin include PROTEINT2 PROTEINT0 PROTEINT0 and PROTEINT0
+AIMed_d77@5	We show that the carboxy terminal tail of PROTEINT1 associate directly with the amino terminal head of type II epidermal keratin include PROTEINT0 PROTEINT2 PROTEINT0 and PROTEINT0
+AIMed_d77@5	We show that the carboxy terminal tail of PROTEINT1 associate directly with the amino terminal head of type II epidermal keratin include PROTEINT0 PROTEINT0 PROTEINT2 and PROTEINT0
+AIMed_d77@5	We show that the carboxy terminal tail of PROTEINT1 associate directly with the amino terminal head of type II epidermal keratin include PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT2
+AIMed_d77@6	We have engineer and purify recombinant PROTEINT1 head and PROTEINT2 tail and we demonstrate direct interaction in vitro by solution-binding assay and by ligand blot assay
+AIMed_d77@8	We have identify an 18-amino acid residue stretch in the PROTEINT1 head that be conserve only among type II epidermal keratin and that appear to play some role in PROTEINT2 tail binding
+AIMed_d213@9	We show that the physical interaction between PROTEINT1 and PROTEINT2 a coactivator for PROTEINT0 be not sufficient for repression of PROTEINT0 mediate transcription
+AIMed_d213@9	We show that the physical interaction between PROTEINT0 and PROTEINT1 a coactivator for PROTEINT2 be not sufficient for repression of PROTEINT0 mediate transcription
+AIMed_d103@1	Cloning and characterization of PROTEINT1 PROTEINT2 and PROTEINT0 three subunit of the human transcription factor PROTEINT0
+AIMed_d103@1	Cloning and characterization of PROTEINT1 PROTEINT0 and PROTEINT2 three subunit of the human transcription factor PROTEINT0
+AIMed_d103@1	Cloning and characterization of PROTEINT0 PROTEINT1 and PROTEINT2 three subunit of the human transcription factor PROTEINT0
+AIMed_d103@5	We show that PROTEINT1 interact with PROTEINT2 both in vitro and intracellularly in contrast to its Drosophila homologue PROTEINT0 also interact directly with PROTEINT0
+AIMed_d103@5	We show that PROTEINT0 interact with PROTEINT0 both in vitro and intracellularly in contrast to its Drosophila homologue PROTEINT1 also interact directly with PROTEINT2
+AIMed_d103@6	Deletion analysis indicate that PROTEINT1 and PROTEINT0 bind to distinct domain of PROTEINT2 PROTEINT0 also interact with PROTEINT0 but it interact more strongly with PROTEINT0 and PROTEINT0
+AIMed_d103@6	Deletion analysis indicate that PROTEINT0 and PROTEINT1 bind to distinct domain of PROTEINT2 PROTEINT0 also interact with PROTEINT0 but it interact more strongly with PROTEINT0 and PROTEINT0
+AIMed_d103@6	Deletion analysis indicate that PROTEINT0 and PROTEINT0 bind to distinct domain of PROTEINT0 PROTEINT1 also interact with PROTEINT2 but it interact more strongly with PROTEINT0 and PROTEINT0
+AIMed_d103@6	Deletion analysis indicate that PROTEINT0 and PROTEINT0 bind to distinct domain of PROTEINT0 PROTEINT1 also interact with PROTEINT0 but it interact more strongly with PROTEINT2 and PROTEINT0
+AIMed_d103@6	Deletion analysis indicate that PROTEINT0 and PROTEINT0 bind to distinct domain of PROTEINT0 PROTEINT1 also interact with PROTEINT0 but it interact more strongly with PROTEINT0 and PROTEINT2
+AIMed_d103@7	The binding of PROTEINT1 and PROTEINT0 require distinct domain of PROTEINT2
+AIMed_d103@7	The binding of PROTEINT0 and PROTEINT1 require distinct domain of PROTEINT2
+AIMed_d103@8	As observe with the homologous Drosophila protein PROTEINT1 interact directly with PROTEINT2 however additional interaction between PROTEINT0 and PROTEINT0 or PROTEINT0 be detect
+AIMed_d103@8	As observe with the homologous Drosophila protein PROTEINT0 interact directly with PROTEINT0 however additional interaction between PROTEINT1 and PROTEINT2 or PROTEINT0 be detect
+AIMed_d103@8	As observe with the homologous Drosophila protein PROTEINT0 interact directly with PROTEINT0 however additional interaction between PROTEINT1 and PROTEINT0 or PROTEINT2 be detect
+AIMed_d70@5	A bacterially express 318-amino acid fragment PROTEINT1 418-736 contain the amphipathic helix region be able to bind PROTEINT0 PROTEINT2
+AIMed_d214@1	Proto-oncoprotein PROTEINT1 interact with PROTEINT2 in activate thymocyte and peripheral T cell
+AIMed_d214@2	The molecular adapter PROTEINT1 be rapidly tyrosine phosphorylated follow stimulation through the PROTEINT0 and associate with PROTEINT0 homology domain-2 SH2 SH3 domain-containing adapter such as PROTEINT2 PROTEINT0 and PROTEINT0 which interact with guanine nucleotide exchange factor specific for the Ras family
+AIMed_d214@2	The molecular adapter PROTEINT1 be rapidly tyrosine phosphorylated follow stimulation through the PROTEINT0 and associate with PROTEINT0 homology domain-2 SH2 SH3 domain-containing adapter such as PROTEINT0 PROTEINT2 and PROTEINT0 which interact with guanine nucleotide exchange factor specific for the Ras family
+AIMed_d214@2	The molecular adapter PROTEINT1 be rapidly tyrosine phosphorylated follow stimulation through the PROTEINT0 and associate with PROTEINT0 homology domain-2 SH2 SH3 domain-containing adapter such as PROTEINT0 PROTEINT0 and PROTEINT2 which interact with guanine nucleotide exchange factor specific for the Ras family
+AIMed_d214@5	Here we show that PROTEINT1 and PROTEINT2 form inducible molecular complex in PROTEINT0 activate murine thymocyte and peripheral T cell as well as pervanadate-treated T cell
+AIMed_d214@6	PROTEINT1 PROTEINT2 interaction be also detectable in freshly isolate T cell from gene-targeted mouse that lack the T cell-specific inhibitory receptor PROTEINT0 in which PROTEINT0 be hyperphosphorylate on tyrosine residue
+AIMed_d214@7	The interaction between PROTEINT1 and PROTEINT2 be directly mediate via the SH2 domain of PROTEINT0 and be dependent on tyrosine phosphorylation of PROTEINT0
+AIMed_d214@8	In addition we show that the conserve motif Y699 MTP present in PROTEINT1 be the bind site for the PROTEINT2 SH2 domain in vitro
+AIMed_d171@1	Crystal structure of the PROTEINT1 cyclin-dependent-kinase inhibitor bind to the PROTEINT2 PROTEINT0 complex
+AIMed_d171@1	Crystal structure of the PROTEINT1 cyclin-dependent-kinase inhibitor bind to the PROTEINT0 PROTEINT2 complex
+AIMed_d171@1	Crystal structure of the PROTEINT0 cyclin-dependent-kinase inhibitor bind to the PROTEINT1 PROTEINT2 complex
+AIMed_d171@2	The crystal structure of the human PROTEINT1 inhibitory domain bind to the phosphorylate PROTEINT2 PROTEINT0 PROTEINT0 complex have be determine at 2.3 angstrom
+AIMed_d171@2	The crystal structure of the human PROTEINT1 inhibitory domain bind to the phosphorylate PROTEINT0 PROTEINT0 PROTEINT2 complex have be determine at 2.3 angstrom
+AIMed_d171@2	The crystal structure of the human PROTEINT0 inhibitory domain bind to the phosphorylate PROTEINT1 PROTEINT0 PROTEINT2 complex have be determine at 2.3 angstrom
+AIMed_d171@3	PROTEINT1 bind the complex as an extend structure interact with both PROTEINT2 and PROTEINT0
+AIMed_d171@3	PROTEINT1 bind the complex as an extend structure interact with both PROTEINT0 and PROTEINT2
+AIMed_d176@1	Interaction of PROTEINT1 a mediator of PROTEINT0 assembly with heat shock protein PROTEINT2 and PROTEINT0
+AIMed_d176@1	Interaction of PROTEINT1 a mediator of PROTEINT0 assembly with heat shock protein PROTEINT0 and PROTEINT2
+AIMed_d176@6	Since PROTEINT1 be typically find in a complex with PROTEINT2 and PROTEINT0 we have further characterize its interaction with these protein
+AIMed_d176@6	Since PROTEINT1 be typically find in a complex with PROTEINT0 and PROTEINT2 we have further characterize its interaction with these protein
+AIMed_d176@7	PROTEINT1 can bind either PROTEINT2 or PROTEINT0 independently and in an ATP-independent manner
+AIMed_d176@7	PROTEINT1 can bind either PROTEINT0 or PROTEINT2 independently and in an ATP-independent manner
+AIMed_d176@8	Since PROTEINT0 and PROTEINT0 do not readily associate on their own it appear that PROTEINT0 be the central organize component of an PROTEINT1 PROTEINT2 PROTEINT0 complex
+AIMed_d176@9	Mutational analysis of PROTEINT1 indicate that the N terminus be require for PROTEINT2 binding and a central region contain tetratricopeptide repeat motif be necessary for bind PROTEINT0 and PROTEINT0
+AIMed_d176@9	Mutational analysis of PROTEINT1 indicate that the N terminus be require for PROTEINT0 binding and a central region contain tetratricopeptide repeat motif be necessary for bind PROTEINT2 and PROTEINT0
+AIMed_d176@9	Mutational analysis of PROTEINT1 indicate that the N terminus be require for PROTEINT0 binding and a central region contain tetratricopeptide repeat motif be necessary for bind PROTEINT0 and PROTEINT2
+AIMed_d176@10	The PROTEINT1 PROTEINT2 PROTEINT0 multichaperone complex be highly dynamic and do not appear to be affect by the PROTEINT0 bind drug geldanamycin
+AIMed_d176@11	The interaction of PROTEINT1 and PROTEINT2 in intermediate PROTEINT0 complex be show to be distinct from their separate interaction in early PROTEINT0 complex PROTEINT0 or in mature PROTEINT0 complex hsp90
+AIMed_d79@1	The PROTEINT1 protein bind to PROTEINT2 a zinc-finger protein that share an epitope with the adenovirus PROTEINT0 protein
+AIMed_d167@1	The PROTEINT1 glucose transporter interact with PROTEINT2 and PROTEINT0
+AIMed_d167@1	The PROTEINT1 glucose transporter interact with PROTEINT0 and PROTEINT2
+AIMed_d167@5	Follow immunoprecipitation with an anticalnexin antiserum a cross-linker-independent association be observe between PROTEINT1 and PROTEINT2
+AIMed_d167@6	In addition the anti-calnexin antiserum immunoprecipitate a UV-dependent cross-linking product consist of PROTEINT1 and a protein of approximately 60 kDa designate PROTEINT2 PROTEINT0 of 60 kDa
+AIMed_d167@6	In addition the anti-calnexin antiserum immunoprecipitate a UV-dependent cross-linking product consist of PROTEINT1 and a protein of approximately 60 kDa designate PROTEINT0 PROTEINT2 of 60 kDa
+AIMed_d167@7	Both the PROTEINT1 PROTEINT2 and the PROTEINT0 PROTEINT0 interaction be dependent on the presence of a correctly modify oligosaccharide group on PROTEINT0 a characteristic of many PROTEINT0 interaction
+AIMed_d167@7	Both the PROTEINT0 PROTEINT0 and the PROTEINT1 PROTEINT2 interaction be dependent on the presence of a correctly modify oligosaccharide group on PROTEINT0 a characteristic of many PROTEINT0 interaction
+AIMed_d167@9	PROTEINT1 the soluble homologue of PROTEINT0 be also show to interact with PROTEINT2 only when the protein bear a correctly modify oligosaccharide group
+AIMed_d167@10	Thus our datum show that both PROTEINT1 and PROTEINT0 interact with PROTEINT2 in a glycosylation-dependent manner
+AIMed_d167@10	Thus our datum show that both PROTEINT0 and PROTEINT1 interact with PROTEINT2 in a glycosylation-dependent manner
+AIMed_d68@5	Association between PROTEINT1 and PROTEINT2 PROTEINT0 be detect in the HeLa cell
+AIMed_d68@5	Association between PROTEINT1 and PROTEINT0 PROTEINT2 be detect in the HeLa cell
+AIMed_d205@1	Thymocyte activation induce the association of PROTEINT1 and PROTEINT0 with PROTEINT2
+AIMed_d205@1	Thymocyte activation induce the association of PROTEINT0 and PROTEINT1 with PROTEINT2
+AIMed_d205@6	We investigate whether PROTEINT1 which bind to tyrosine-phosphorylated PROTEINT2 interact with PROTEINT0 follow T cell activation
+AIMed_d205@7	PROTEINT0 activity and the regulatory PROTEINT0 subunit of PROTEINT1 associate with PROTEINT2 in pervanadate-stimulated but not in unstimulated thymocyte
+AIMed_d205@10	A PROTEINT1 PROTEINT0 associate with PROTEINT2 and specifically with the Y429-Y441 phosphopeptide in stimulate thymocyte
+AIMed_d205@10	A PROTEINT0 PROTEINT1 associate with PROTEINT2 and specifically with the Y429-Y441 phosphopeptide in stimulate thymocyte
+AIMed_d205@11	We conclude that stimulation of thymocyte with pervanadate induce the recruitment of PROTEINT1 and PROTEINT0 to PROTEINT2
+AIMed_d205@11	We conclude that stimulation of thymocyte with pervanadate induce the recruitment of PROTEINT0 and PROTEINT1 to PROTEINT2
+AIMed_d112@1	Human spleen tyrosine kinase PROTEINT1 associate with the Src-family kinase PROTEINT2 PROTEINT0 and a PROTEINT0
+AIMed_d112@1	Human spleen tyrosine kinase PROTEINT1 associate with the Src-family kinase PROTEINT0 PROTEINT2 and a PROTEINT0
+AIMed_d112@1	Human spleen tyrosine kinase PROTEINT1 associate with the Src-family kinase PROTEINT0 PROTEINT0 and a PROTEINT2
+AIMed_d112@3	Here we show that PROTEINT1 and PROTEINT2 from human B lymphocyte can interact directly
+AIMed_d112@4	PROTEINT1 and PROTEINT2 coimmunoprecipitate from mature and activate B-cell line and gel-purified PROTEINT0 and PROTEINT0 reassociate in vitro demonstrate their direct interaction
+AIMed_d112@4	PROTEINT0 and PROTEINT0 coimmunoprecipitate from mature and activate B-cell line and gel-purified PROTEINT1 and PROTEINT2 reassociate in vitro demonstrate their direct interaction
+AIMed_d112@5	This PROTEINT1 PROTEINT2 interaction may be dependent on the stage of B-cell differentiation since PROTEINT0 PROTEINT0 association be not detect in pre-B and myeloma cell line and PROTEINT0 from an immature B-cell line do not reassociate with PROTEINT0 in vitro
+AIMed_d112@5	This PROTEINT0 PROTEINT0 interaction may be dependent on the stage of B-cell differentiation since PROTEINT1 PROTEINT2 association be not detect in pre-B and myeloma cell line and PROTEINT0 from an immature B-cell line do not reassociate with PROTEINT0 in vitro
+AIMed_d112@9	Sequential immunoprecipitation identify the 72-kDa protein associate with PROTEINT1 as PROTEINT2
+AIMed_d112@10	The 120-kDa serine/threonine phosphorylate protein that coprecipitate with PROTEINT0 resemble the PROTEINT1 associate PROTEINT2 by several criterion
+AIMed_d112@11	Thus PROTEINT1 may serve as a link between PROTEINT2 and PROTEINT0 couple the B-cell antigen receptor to the phosphatidylinositol pathway
+AIMed_d112@11	Thus PROTEINT1 may serve as a link between PROTEINT0 and PROTEINT2 couple the B-cell antigen receptor to the phosphatidylinositol pathway
+AIMed_d112@11	Thus PROTEINT0 may serve as a link between PROTEINT1 and PROTEINT2 couple the B-cell antigen receptor to the phosphatidylinositol pathway
+AIMed_d169@5	We have clone a cDNA encode an PROTEINT1 binding protein PROTEINT2 from the Caki-1 human renal carcinoma cell line
+AIMed_d169@8	COS-7 cell transfecte with the PROTEINT1 cDNA bind PROTEINT2 with high affinity but do not bind PROTEINT0
+AIMed_d66@3	PROTEINT1 show genetic interaction with the PROTEINT2 gene suggest that it function at START by interact with the PROTEINT0 protein
+AIMed_d66@3	PROTEINT1 show genetic interaction with the PROTEINT0 gene suggest that it function at START by interact with the PROTEINT2 protein
+AIMed_d66@6	PROTEINT1 produce in E coli bind and activate the PROTEINT2 protein in extract from human G1 cell and antibody against PROTEINT0 immunoprecipitate a histone H1 kinase from HeLa cell
+AIMed_d66@7	The interaction between PROTEINT1 and PROTEINT2 or PROTEINT0 may be important at the G1 to S transition in human cell
+AIMed_d66@7	The interaction between PROTEINT1 and PROTEINT0 or PROTEINT2 may be important at the G1 to S transition in human cell
+AIMed_d202@1	Crystal structure of the PROTEINT1 PROTEINT0 complexe with PROTEINT2
+AIMed_d202@5	The binding of PROTEINT1 or PROTEINT0 to PROTEINT2 be an early step in PROTEINT0 signal transduction and block this interaction may therefore be a useful target for the development of new drug
+AIMed_d202@5	The binding of PROTEINT0 or PROTEINT1 to PROTEINT2 be an early step in PROTEINT0 signal transduction and block this interaction may therefore be a useful target for the development of new drug
+AIMed_d202@6	Here we report the three-dimensional structure of PROTEINT1 bind to the extracellular domain of PROTEINT2 PROTEINT0 at 2.5 A resolution
+AIMed_d202@6	Here we report the three-dimensional structure of PROTEINT1 bind to the extracellular domain of PROTEINT0 PROTEINT2 at 2.5 A resolution
+AIMed_d202@7	PROTEINT1 bind to PROTEINT2 with a 1:1 stoichiometry
+AIMed_d202@8	The crystal structure show that PROTEINT1 consist of three immunoglobulin-like domain which wrap around PROTEINT2 in a manner distinct from the structure of previously describe cytokine-receptor complex
+AIMed_d115@1	Interaction with PROTEINT1 subunit of PROTEINT0 be require for transcriptional activation by PROTEINT2
+AIMed_d115@4	Use a yeast interaction assay we find that PROTEINT1 bind the PROTEINT2 subunit of PROTEINT0 and that PROTEINT0 s transcriptional activation domain be the region involve in this binding
+AIMed_d115@7	The correlation of PROTEINT1 PROTEINT2 binding with transcriptional activation suggest that PROTEINT0 be a critical target for PROTEINT0 activate transcription
+AIMed_d115@7	The correlation of PROTEINT0 PROTEINT0 binding with transcriptional activation suggest that PROTEINT1 be a critical target for PROTEINT2 activate transcription
+AIMed_d82@3	Previously a mammalian protein that directly associate with PROTEINT1 rapamycin have be identify and its encoding gene have be clone from both human designate PROTEINT2 Brown E.J Albers M.W Shin T.B Ichikawa K Keith C.T Lane W.S Schreiber S.L 1994 Nature London 369 756-758 and rat designate PROTEINT0 Sabatini D.M Erdjument-Bromage H Lui M Tempst P Snyder S.H 1994 Cell 78 35-43
+AIMed_d82@5	Use an in vitro transcription/translation assay method couple with proteolysis study we have identify an 11-kDa PROTEINT1 rapamycin-binding domain within PROTEINT2
+AIMed_d120@1	Specific binding of the transglutaminase PROTEINT1 to PROTEINT2
+AIMed_d120@8	Immunoblotting study be use to confirm the binding of PROTEINT1 from fresh platelet lysate to the PROTEINT2 fusion protein
+AIMed_d120@9	PROTEINT1 also be show to coprecipitate with PROTEINT2 in immunoprecipitation study and to colocalize with PROTEINT0 in immunofluorescence study of intact glass-activated platelet
+AIMed_d120@10	The datum thus demonstrate specific binding of platelet PROTEINT1 to PROTEINT2 and suggest that PROTEINT0 may participate in the cellular localization and/or enzymatic regulation of platelet PROTEINT0
+AIMed_d120@10	The datum thus demonstrate specific binding of platelet PROTEINT0 to PROTEINT0 and suggest that PROTEINT1 may participate in the cellular localization and/or enzymatic regulation of platelet PROTEINT2
+AIMed_d53@3	Kaposi' sarcoma-associated herpesvirus encode a functional homolog of human PROTEINT1 PROTEINT0 that activate human PROTEINT2
+AIMed_d53@3	Kaposi' sarcoma-associated herpesvirus encode a functional homolog of human PROTEINT0 PROTEINT1 that activate human PROTEINT2
+AIMed_d53@4	In the 2.4 angstrom crystal structure of the extracellular signaling assembly between viral PROTEINT1 and human PROTEINT2 two complex be cross-linked into a tetramer through direct interaction between the immunoglobulin domain of PROTEINT0 and site III of viral PROTEINT0 which be necessary for receptor activation
+AIMed_d53@4	In the 2.4 angstrom crystal structure of the extracellular signaling assembly between viral PROTEINT0 and human PROTEINT0 two complex be cross-linked into a tetramer through direct interaction between the immunoglobulin domain of PROTEINT1 and site III of viral PROTEINT2 which be necessary for receptor activation
+AIMed_d53@5	Unlike human PROTEINT1 which use many hydrophilic residue the viral cytokine largely use hydrophobic amino acid to contact PROTEINT2 which enhance the complementarity of the viral PROTEINT0 PROTEINT0 binding interface
+AIMed_d53@5	Unlike human PROTEINT0 which use many hydrophilic residue the viral cytokine largely use hydrophobic amino acid to contact PROTEINT0 which enhance the complementarity of the viral PROTEINT1 PROTEINT2 binding interface
+AIMed_d85@1	PROTEINT1 physically associate with PROTEINT2 through Src homology 3 domain
+AIMed_d85@4	Study in vivo and in vitro demonstrate a highly specific interaction between the SH3 domain of PROTEINT1 and PROTEINT2
+AIMed_d85@7	The main PROTEINT1 region implicate in the association with PROTEINT2 be find to be the carboxy-terminal SH3 domain
+AIMed_d127@1	Interaction of PROTEINT1 and gamma c chain with PROTEINT2 and PROTEINT0 implication for XSCID and XCID
+AIMed_d127@1	Interaction of PROTEINT1 and gamma c chain with PROTEINT0 and PROTEINT2 implication for XSCID and XCID
+AIMed_d127@5	PROTEINT1 and PROTEINT0 associate with PROTEINT2 and gamma c respectively PROTEINT0 induce PROTEINT0 PROTEINT0 and increase PROTEINT0 gamma c association
+AIMed_d127@5	PROTEINT0 and PROTEINT1 associate with PROTEINT2 and gamma c respectively PROTEINT0 induce PROTEINT0 PROTEINT0 and increase PROTEINT0 gamma c association
+AIMed_d127@5	PROTEINT0 and PROTEINT0 associate with PROTEINT0 and gamma c respectively PROTEINT0 induce PROTEINT1 PROTEINT2 and increase PROTEINT0 gamma c association
+AIMed_d54@1	PROTEINT1 PROTEINT0 a novel growth factor that bind to PROTEINT2 and beta receptor
+AIMed_d54@1	PROTEINT0 PROTEINT1 a novel growth factor that bind to PROTEINT2 and beta receptor
+AIMed_d54@5	Competition binding and immunoprecipitation study on cell bear both PROTEINT0 and beta receptor reveal a high affinity binding of recombinant GFD PROTEINT1 to PROTEINT2 homodimer and PROTEINT0 beta heterodimer
+AIMed_d54@5	Competition binding and immunoprecipitation study on cell bear both PROTEINT0 and beta receptor reveal a high affinity binding of recombinant GFD PROTEINT1 to PROTEINT0 homodimer and PROTEINT2 beta heterodimer
+AIMed_d28@3	We have identify a new TNF-related ligand designate human PROTEINT1 PROTEINT0 PROTEINT2 and its human receptor PROTEINT0 an ortholog of the recently discover murine PROTEINT0 PROTEINT0 4
+AIMed_d28@3	We have identify a new TNF-related ligand designate human PROTEINT0 PROTEINT1 PROTEINT0 and its human receptor PROTEINT2 an ortholog of the recently discover murine PROTEINT0 PROTEINT0 4
+AIMed_d28@3	We have identify a new TNF-related ligand designate human PROTEINT0 PROTEINT0 PROTEINT1 and its human receptor PROTEINT2 an ortholog of the recently discover murine PROTEINT0 PROTEINT0 4
+AIMed_d129@12	These antibody specifically immunoprecipitate PROTEINT1 in complex with PROTEINT2 in all tissue test and can be use to immunoaffinity isolate progesterone receptor complex from chicken oviduct cytosol
+AIMed_d184@1	PROTEINT1 induce interaction of primary HIV-1 PROTEINT2 glycoprotein with the chemokine receptor PROTEINT0
+AIMed_d184@3	Here we show that a complex of PROTEINT1 the exterior envelope glycoprotein of macrophage-tropic primary HIV-1 and soluble PROTEINT2 interact specifically with PROTEINT0 and inhibit the binding of the natural PROTEINT0 ligand PROTEINT0 and PROTEINT0 ref 7 8
+AIMed_d184@3	Here we show that a complex of PROTEINT1 the exterior envelope glycoprotein of macrophage-tropic primary HIV-1 and soluble PROTEINT0 interact specifically with PROTEINT2 and inhibit the binding of the natural PROTEINT0 ligand PROTEINT0 and PROTEINT0 ref 7 8
+AIMed_d184@3	Here we show that a complex of PROTEINT0 the exterior envelope glycoprotein of macrophage-tropic primary HIV-1 and soluble PROTEINT1 interact specifically with PROTEINT2 and inhibit the binding of the natural PROTEINT0 ligand PROTEINT0 and PROTEINT0 ref 7 8
+AIMed_d184@4	The apparent affinity of the interaction between PROTEINT1 and PROTEINT2 be dramatically low in the absence of soluble PROTEINT0
+AIMed_d184@5	Additionally in the absence of PROTEINT0 an interaction between a two-domain PROTEINT1 fragment and PROTEINT2 be observe
+AIMed_d184@6	A PROTEINT1 fragment retain the PROTEINT2 bind site and overlap epitope be able to interact with PROTEINT0 only if the V3 loop which can specify HIV-1 tropism and chemokine receptor choice be also present on the molecule
+AIMed_d184@6	A PROTEINT1 fragment retain the PROTEINT0 bind site and overlap epitope be able to interact with PROTEINT2 only if the V3 loop which can specify HIV-1 tropism and chemokine receptor choice be also present on the molecule
+AIMed_d184@7	Neutralize antibody direct against either PROTEINT0 induce or V3 epitope on PROTEINT0 block the interaction of PROTEINT1 PROTEINT2 complex with PROTEINT0
+AIMed_d184@7	Neutralize antibody direct against either PROTEINT0 induce or V3 epitope on PROTEINT0 block the interaction of PROTEINT1 PROTEINT0 complex with PROTEINT2
+AIMed_d184@7	Neutralize antibody direct against either PROTEINT0 induce or V3 epitope on PROTEINT0 block the interaction of PROTEINT0 PROTEINT1 complex with PROTEINT2
+AIMed_d152@1	PROTEINT1 PROTEINT2 and PROTEINT0 PROTEINT0 interaction define two distinct PROTEINT0 signal transduction pathway
+AIMed_d152@1	PROTEINT0 PROTEINT0 and PROTEINT1 PROTEINT2 interaction define two distinct PROTEINT0 signal transduction pathway
+AIMed_d152@4	Here we show that PROTEINT1 directly interact with PROTEINT2 and PROTEINT0 signal transducer that activate PROTEINT0 and induce apoptosis respectively
+AIMed_d152@4	Here we show that PROTEINT1 directly interact with PROTEINT0 and PROTEINT2 signal transducer that activate PROTEINT0 and induce apoptosis respectively
+AIMed_d152@4	Here we show that PROTEINT0 directly interact with PROTEINT1 and PROTEINT0 signal transducer that activate PROTEINT2 and induce apoptosis respectively
+AIMed_d152@4	Here we show that PROTEINT0 directly interact with PROTEINT0 and PROTEINT1 signal transducer that activate PROTEINT2 and induce apoptosis respectively
+AIMed_d183@1	The cytokine-activated tyrosine kinase PROTEINT1 activate PROTEINT2 in a PROTEINT0 dependent manner
+AIMed_d183@2	PROTEINT1 a member of the Janus kinase superfamily be find to interact functionally with PROTEINT2 a central component of the PROTEINT0 PROTEINT0 signal transduction pathway
+AIMed_d183@3	PROTEINT1 and several other cytokine that be know to activate PROTEINT0 PROTEINT2 be also find to stimulate PROTEINT0 PROTEINT0 activity toward PROTEINT0 in mammalian cell
+AIMed_d183@3	PROTEINT0 and several other cytokine that be know to activate PROTEINT0 PROTEINT0 be also find to stimulate PROTEINT0 PROTEINT1 activity toward PROTEINT2 in mammalian cell
+AIMed_d183@4	In the baculovirus coexpression system PROTEINT1 be activate by PROTEINT2 in the presence of PROTEINT0
+AIMed_d183@5	Under these condition a ternary complex of PROTEINT1 PROTEINT2 and PROTEINT0 be observe
+AIMed_d183@7	In addition PROTEINT1 phosphorylate PROTEINT2 at site different from those phosphorylate by PROTEINT0
+AIMed_d183@7	In addition PROTEINT0 phosphorylate PROTEINT1 at site different from those phosphorylate by PROTEINT2
+AIMed_d183@8	In mammalian cell treat with either erythropoietin or interferon-gamma a small fraction of PROTEINT1 coimmunoprecipitate with PROTEINT2 in lysate of cell in which PROTEINT0 be activate as judge by its state of tyrosine phosphorylation
+AIMed_d183@9	Take together these datum suggest that PROTEINT1 and PROTEINT2 cooperate to activate PROTEINT0
+AIMed_d177@9	We have select such mutation in the transcription factor PROTEINT1 that affect its ability to heterodimerize with PROTEINT2
+AIMed_d78@7	Here we demonstrate that PROTEINT1 specifically bind two cellular ligand PROTEINT2 PROTEINT0 and PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0
+AIMed_d78@7	Here we demonstrate that PROTEINT1 specifically bind two cellular ligand PROTEINT0 PROTEINT2 and PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0
+AIMed_d78@7	Here we demonstrate that PROTEINT1 specifically bind two cellular ligand PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT2 PROTEINT0 PROTEINT0
+AIMed_d78@7	Here we demonstrate that PROTEINT1 specifically bind two cellular ligand PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 PROTEINT2 PROTEINT0
+AIMed_d78@7	Here we demonstrate that PROTEINT1 specifically bind two cellular ligand PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT2
+AIMed_d78@10	It have be show that PROTEINT0 trigger apoptosis of various tumor cell include HT29 cell that express both PROTEINT0 PROTEINT1 receptor PROTEINT2 and PROTEINT0 PROTEINT0 receptor
+AIMed_d78@11	Our datum suggest that PROTEINT0 inhibit the interaction of PROTEINT1 with PROTEINT2 PROTEINT0 and PROTEINT0 thereby suppress PROTEINT0 mediate HT29 cell death
+AIMed_d78@11	Our datum suggest that PROTEINT0 inhibit the interaction of PROTEINT1 with PROTEINT0 PROTEINT2 and PROTEINT0 thereby suppress PROTEINT0 mediate HT29 cell death
+AIMed_d78@11	Our datum suggest that PROTEINT0 inhibit the interaction of PROTEINT1 with PROTEINT0 PROTEINT0 and PROTEINT2 thereby suppress PROTEINT0 mediate HT29 cell death
+AIMed_d170@5	The phagocyte PROTEINT0 be a complex of membrane PROTEINT0 comprise of subunit PROTEINT1 and PROTEINT2 and three cytosol protein PROTEINT0 PROTEINT0 and PROTEINT0 that translocate to membrane and bind to PROTEINT0
+AIMed_d170@5	The phagocyte PROTEINT0 be a complex of membrane PROTEINT0 comprise of subunit PROTEINT0 and PROTEINT0 and three cytosol protein PROTEINT1 PROTEINT2 and PROTEINT0 that translocate to membrane and bind to PROTEINT0
+AIMed_d170@5	The phagocyte PROTEINT0 be a complex of membrane PROTEINT0 comprise of subunit PROTEINT0 and PROTEINT0 and three cytosol protein PROTEINT1 PROTEINT0 and PROTEINT0 that translocate to membrane and bind to PROTEINT2
+AIMed_d170@5	The phagocyte PROTEINT0 be a complex of membrane PROTEINT0 comprise of subunit PROTEINT0 and PROTEINT0 and three cytosol protein PROTEINT0 PROTEINT1 and PROTEINT0 that translocate to membrane and bind to PROTEINT2
+AIMed_d170@5	The phagocyte PROTEINT0 be a complex of membrane PROTEINT0 comprise of subunit PROTEINT0 and PROTEINT0 and three cytosol protein PROTEINT0 PROTEINT0 and PROTEINT1 that translocate to membrane and bind to PROTEINT2
+AIMed_d170@6	This be the first report to demonstrate that two of cytosolic component of PROTEINT0 PROTEINT1 bind to PROTEINT2 each other
+AIMed_d102@1	The PROTEINT1 susceptibility gene product bind directly to the human PROTEINT0 PROTEINT0 associate factor PROTEINT2
+AIMed_d102@7	Furthermore we demonstrate that PROTEINT1 bind directly to PROTEINT2 in vitro and in vivo
+AIMed_d102@8	These result suggest that PROTEINT1 can confer transcriptional regulation and possibly cell cycle control and tumor suppression through an interaction with PROTEINT0 in particular with PROTEINT2
+AIMed_d71@5	We present evidence that PROTEINT0 PROTEINT1 and PROTEINT0 44 specifically phosphorylate these site and that their phosphorylation positively regulate the transact activity of PROTEINT2
+AIMed_d71@5	We present evidence that PROTEINT0 PROTEINT0 and PROTEINT1 44 specifically phosphorylate these site and that their phosphorylation positively regulate the transact activity of PROTEINT2
+AIMed_d215@1	Induction of cell migration by PROTEINT1 cleavage of PROTEINT2
+AIMed_d215@3	Specific cleavage of PROTEINT1 PROTEINT0 by PROTEINT2 PROTEINT0 be show to induce migration of breast epithelial cell
+AIMed_d215@3	Specific cleavage of PROTEINT1 PROTEINT0 by PROTEINT0 PROTEINT2 be show to induce migration of breast epithelial cell
+AIMed_d215@3	Specific cleavage of PROTEINT0 PROTEINT1 by PROTEINT2 PROTEINT0 be show to induce migration of breast epithelial cell
+AIMed_d215@3	Specific cleavage of PROTEINT0 PROTEINT1 by PROTEINT0 PROTEINT2 be show to induce migration of breast epithelial cell
+AIMed_d215@4	PROTEINT1 cleave the PROTEINT2 PROTEINT0 subunit at residue 587 expose a putative cryptic promigratory site on PROTEINT0 that trigger cell motility
+AIMed_d215@6	Cleavage of PROTEINT1 by PROTEINT2 and the result activation of the PROTEINT0 cryptic site may provide new target for modulation of tumor cell invasion and tissue remodeling
+AIMed_d179@1	PROTEINT1 stimulate tyrosine phosphorylation of PROTEINT2 PROTEINT0 PROTEINT0 receptor substrate 1 and its association with PROTEINT0 and the PROTEINT0
+AIMed_d179@1	PROTEINT0 stimulate tyrosine phosphorylation of PROTEINT1 PROTEINT0 PROTEINT0 receptor substrate 1 and its association with PROTEINT2 and the PROTEINT0
+AIMed_d179@1	PROTEINT0 stimulate tyrosine phosphorylation of PROTEINT1 PROTEINT0 PROTEINT0 receptor substrate 1 and its association with PROTEINT0 and the PROTEINT2
+AIMed_d179@4	In the present study we demonstrate that PROTEINT1 stimulate tyrosine phosphorylation of PROTEINT0 PROTEINT2 PROTEINT0 the major cytoplasmic substrate of the PROTEINT0 PROTEINT0
+AIMed_d179@4	In the present study we demonstrate that PROTEINT1 stimulate tyrosine phosphorylation of PROTEINT0 PROTEINT0 PROTEINT2 the major cytoplasmic substrate of the PROTEINT0 PROTEINT0
+AIMed_d179@5	The PROTEINT1 induce phosphorylation of PROTEINT2 be rapid and transient occur within 30 s of treatment and diminish thereafter
+AIMed_d179@7	Follow PROTEINT0 stimulation we observe a time and dose-dependent association of PROTEINT1 with the PROTEINT0 regulatory subunit of PROTEINT2 PROTEINT0
+AIMed_d179@7	Follow PROTEINT0 stimulation we observe a time and dose-dependent association of PROTEINT1 with the PROTEINT0 regulatory subunit of PROTEINT0 PROTEINT2
+AIMed_d179@9	We have previously report that tyrosine phosphorylation of PROTEINT1 and its association with the PROTEINT2 PROTEINT0 complex may contribute to the activation of the PROTEINT0 pathway by PROTEINT0
+AIMed_d179@9	We have previously report that tyrosine phosphorylation of PROTEINT1 and its association with the PROTEINT0 PROTEINT2 complex may contribute to the activation of the PROTEINT0 pathway by PROTEINT0
+AIMed_d179@9	We have previously report that tyrosine phosphorylation of PROTEINT0 and its association with the PROTEINT1 PROTEINT2 complex may contribute to the activation of the PROTEINT0 pathway by PROTEINT0
+AIMed_d179@10	We report here that PROTEINT1 also interact with tyrosine-phosphorylated PROTEINT2 in response to PROTEINT0
+AIMed_d105@1	Two distinct and independent site on PROTEINT1 trigger PROTEINT2 dimer formation and signalling
+AIMed_d105@2	The helical cytokine PROTEINT1 and its specific binding subunit PROTEINT2 form a 1:1 complex which by promote homodimerization of the signalling subunit PROTEINT0 on the surface of target cell trigger intracellular response
+AIMed_d105@6	We demonstrate here that both the site 2 and site 3 PROTEINT1 variant complexe with PROTEINT2 bind a single PROTEINT0 molecule but be unable to dimerize it whereas the combined site 2/3 variant lose the ability to interact with PROTEINT0
+AIMed_d105@6	We demonstrate here that both the site 2 and site 3 PROTEINT1 variant complexe with PROTEINT0 bind a single PROTEINT2 molecule but be unable to dimerize it whereas the combined site 2/3 variant lose the ability to interact with PROTEINT0
+AIMed_d105@6	We demonstrate here that both the site 2 and site 3 PROTEINT0 variant complexe with PROTEINT1 bind a single PROTEINT2 molecule but be unable to dimerize it whereas the combined site 2/3 variant lose the ability to interact with PROTEINT0
+AIMed_d105@8	Immunoprecipitation experiment further reveal that the fully assemble receptor complex be compose of two PROTEINT1 two PROTEINT2 and two PROTEINT0 molecule
+AIMed_d105@8	Immunoprecipitation experiment further reveal that the fully assemble receptor complex be compose of two PROTEINT1 two PROTEINT0 and two PROTEINT2 molecule
+AIMed_d105@8	Immunoprecipitation experiment further reveal that the fully assemble receptor complex be compose of two PROTEINT0 two PROTEINT1 and two PROTEINT2 molecule
+AIMed_d76@1	The T-cell antigen PROTEINT1 act as a receptor and substrate for the protein-tyrosine kinase PROTEINT2
+AIMed_d76@2	PROTEINT1 be a T-cell-specific antigen which bind to the B-cell antigen PROTEINT2 and act as a coreceptor in the stimulation of T-cell growth
+AIMed_d76@3	PROTEINT1 associate with the PROTEINT0 PROTEINT2 PROTEINT0 PROTEINT0 complex and be rapidly phosphosphorylate on tyrosine residue as a result of PROTEINT0 PROTEINT0 ligation
+AIMed_d76@3	PROTEINT0 associate with the PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT2 complex and be rapidly phosphosphorylate on tyrosine residue as a result of PROTEINT0 PROTEINT0 ligation
+AIMed_d76@3	PROTEINT0 associate with the PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT2 complex and be rapidly phosphosphorylate on tyrosine residue as a result of PROTEINT0 PROTEINT0 ligation
+AIMed_d76@5	In this study we demonstrate that PROTEINT1 be couple to the protein-tyrosine kinase PROTEINT2 and can act as a substrate for PROTEINT0
+AIMed_d76@5	In this study we demonstrate that PROTEINT1 be couple to the protein-tyrosine kinase PROTEINT0 and can act as a substrate for PROTEINT2
+AIMed_d76@10	The binding of PROTEINT1 to PROTEINT2 induce a 10 to 15-fold increase in PROTEINT0 catalytic activity as measure by in vitro kinase analysis
+AIMed_d76@11	In vivo labelling with 32P i also show a four to fivefold increase in Y-394 occupancy in PROTEINT1 when associate with PROTEINT2
+AIMed_d76@12	The use of glutathione S-transferase-Lck fusion protein in precipitation analysis show that the SH2 domain of PROTEINT1 could recognize PROTEINT2 as express in the baculovirus expression system
+AIMed_d76@13	PROTEINT1 interaction PROTEINT0 PROTEINT2 represent a novel variant of a PROTEINT0 ex in which receptor can also serve as substrate ABSTRACT TRUNCATED AT 250 WORDS
+AIMed_d212@1	Interaction between PROTEINT1 protein and PROTEINT2 in response to DNA damage
+AIMed_d212@4	Because cell lack the protein tyrosine kinase PROTEINT0 be also defective in radiation-induced G1 arrest we investigate the possibility that PROTEINT1 might interact with PROTEINT2 in response to radiation damage
+AIMed_d212@5	Here we show that PROTEINT1 bind PROTEINT2 constitutively in control cell but not in AT cell
+AIMed_d212@6	Our result demonstrate that the SH3 domain of PROTEINT1 interact with a DPAPNPPHFP motif residue 1,373-1,382 of PROTEINT2
+AIMed_d212@8	These finding indicate that PROTEINT1 be involve in the activation of PROTEINT2 by DNA damage and this interaction may in part mediate radiation-induced G1 arrest
+AIMed_d43@5	Although the individual amino acid in PROTEINT1 involve in binding to PROTEINT2 PROTEINT0 and those in PROTEINT0 involve in binding to PROTEINT0 have be map in this domain the Trk amino acid that provide specificity remain unclear
+AIMed_d43@5	Although the individual amino acid in PROTEINT1 involve in binding to PROTEINT0 PROTEINT2 and those in PROTEINT0 involve in binding to PROTEINT0 have be map in this domain the Trk amino acid that provide specificity remain unclear
+AIMed_d43@5	Although the individual amino acid in PROTEINT0 involve in binding to PROTEINT0 PROTEINT0 and those in PROTEINT1 involve in binding to PROTEINT2 have be map in this domain the Trk amino acid that provide specificity remain unclear
+AIMed_d43@7	The result Trk variant recruit binding of PROTEINT1 equivalent to PROTEINT2 maintain PROTEINT0 binding equivalent to PROTEINT0 and also bind PROTEINT0 although with low affinity compare with PROTEINT0
+AIMed_d43@7	The result Trk variant recruit binding of PROTEINT0 equivalent to PROTEINT0 maintain PROTEINT1 binding equivalent to PROTEINT2 and also bind PROTEINT0 although with low affinity compare with PROTEINT0
+AIMed_d43@7	The result Trk variant recruit binding of PROTEINT0 equivalent to PROTEINT0 maintain PROTEINT0 binding equivalent to PROTEINT0 and also bind PROTEINT1 although with low affinity compare with PROTEINT2
+AIMed_d92@2	PROTEINT1 bind independently to two transmembrane receptor the PROTEINT2 PROTEINT0 neurotrophin receptor and the PROTEINT0 PROTEINT0 PROTEINT0 which be both co-expresse in the majority of neuronal cell that respond to PROTEINT0
+AIMed_d92@2	PROTEINT1 bind independently to two transmembrane receptor the PROTEINT0 PROTEINT0 neurotrophin receptor and the PROTEINT0 PROTEINT2 PROTEINT0 which be both co-expresse in the majority of neuronal cell that respond to PROTEINT0
+AIMed_d220@1	Interaction between PROTEINT1 and the PROTEINT2 PROTEINT0 receptor Identification of two ligand binding domain in soluble PROTEINT0 by affinity separation and chemical cross-linking
+AIMed_d220@2	The extracellular domain of the human PROTEINT1 PROTEINT0 express in Chinese hamster ovary cell be a highly glycosylate protein possess binding ability for PROTEINT2 PROTEINT0
+AIMed_d220@2	The extracellular domain of the human PROTEINT1 PROTEINT0 express in Chinese hamster ovary cell be a highly glycosylate protein possess binding ability for PROTEINT0 PROTEINT2
+AIMed_d220@12	These result obtain from a variety of experimental technique highlight the importance of two distinct region of the extracellular domain of the PROTEINT0 PROTEINT1 in binding PROTEINT2
+AIMed_d44@1	Characterization of the PROTEINT1 binding domain on the human PROTEINT2 molecule use PROTEINT0 antibody
+AIMed_d44@2	PROTEINT1 and its counter-receptor PROTEINT2 PROTEINT0 ligand PROTEINT0 be member of the PROTEINT0 superfamily and function to regulate lymphocyte survival and differentiation
+AIMed_d44@2	PROTEINT1 and its counter-receptor PROTEINT0 PROTEINT0 ligand PROTEINT2 be member of the PROTEINT0 superfamily and function to regulate lymphocyte survival and differentiation
+AIMed_d44@5	Use a soluble PROTEINT0 PROTEINT0 chimeric protein we assess the ability of PROTEINT0 MAb to inhibit the binding of PROTEINT1 to PROTEINT2 express by the CD30 Karpas 299 cell line
+AIMed_d44@6	PROTEINT1 binding by PROTEINT2 be block by MAb that recognize epitope belong to cluster Group A like Ber-H2 Ber-H8 and HRS-4 as well as cluster Group C like HeFi-1 and M44
+AIMed_d44@7	Cluster Group B antibody include M67 and Ki-1 do not affect PROTEINT1 binding to PROTEINT2
+AIMed_d44@9	Finally we demonstrate that the PROTEINT0 MAb M81 also completely inhibit PROTEINT1 PROTEINT2 interaction
+AIMed_d95@1	Mechanism of CDK activation reveal by the structure of a PROTEINT1 PROTEINT2 complex
+AIMed_d95@2	The crystal structure of the human PROTEINT1 PROTEINT2 PROTEINT0 ATP complex have be determine at 2.3 A resolution
+AIMed_d95@2	The crystal structure of the human PROTEINT1 PROTEINT0 PROTEINT2 ATP complex have be determine at 2.3 A resolution
+AIMed_d137@1	The POU domain of the PROTEINT1 and PROTEINT0 transcription factor mediate specific interaction with PROTEINT2
+AIMed_d137@1	The POU domain of the PROTEINT0 and PROTEINT1 transcription factor mediate specific interaction with PROTEINT2
+AIMed_d137@4	By use several different experimental system we show that PROTEINT1 efficiently associate with PROTEINT2 and PROTEINT0
+AIMed_d137@4	By use several different experimental system we show that PROTEINT1 efficiently associate with PROTEINT0 and PROTEINT2
+AIMed_d137@7	We show that the POU homeodomain of PROTEINT1 and the evolutionarily conserve C-terminal core domain of PROTEINT2 be both require and sufficient for the interaction
+AIMed_d137@8	The PROTEINT1 POU domain which be highly homologous to the PROTEINT0 POU domain likewise mediate interaction with PROTEINT2
+AIMed_d137@9	The interaction can also be observe in vivo as PROTEINT1 can be co-precipitate with PROTEINT2 from co-transfected Cos1 cell and PROTEINT0 co-immunoprecipitate with the endogenous PROTEINT0 from HeLa cell
+AIMed_d137@9	The interaction can also be observe in vivo as PROTEINT0 can be co-precipitate with PROTEINT0 from co-transfected Cos1 cell and PROTEINT1 co-immunoprecipitate with the endogenous PROTEINT2 from HeLa cell
+AIMed_d38@1	Molecular cloning of a novel human CC chemokine PROTEINT1 that be a functional ligand of PROTEINT2
+AIMed_d38@9	PROTEINT1 compete the binding of 125 PROTEINT0 to PROTEINT2 express L1.2 cell with an IC 50 of 13 nM
+AIMed_d38@9	PROTEINT0 compete the binding of 125 PROTEINT1 to PROTEINT2 express L1.2 cell with an IC 50 of 13 nM
+AIMed_d38@11	Collectively PROTEINT1 be yet another functional ligand for PROTEINT2
+AIMed_d38@12	The potency of PROTEINT1 as a PROTEINT2 ligand seem however to be approximately 10-fold less than that of PROTEINT0
+AIMed_d38@12	The potency of PROTEINT0 as a PROTEINT1 ligand seem however to be approximately 10-fold less than that of PROTEINT2
+AIMed_d139@3	The self-association site appear to be form by interaction between helix 1 and 2 of PROTEINT1 repeat 17 of one dimer with helix 3 of PROTEINT2 repeat 1 of the other dimer to form two combined alpha-beta triple-helical segment
+AIMed_d36@1	Molecular determinant of the interaction between the C-terminal domain of Alzheimer' PROTEINT1 and PROTEINT2 alpha-helice
+AIMed_d36@3	We further demonstrate that PROTEINT1 and E3 but not PROTEINT0 can decrease the fusogenic activity of PROTEINT2 29-42 via a direct interaction
+AIMed_d193@1	Physical and functional interaction between the transcriptional inhibitor PROTEINT1 and PROTEINT2 Evidence toward a novel mechanism regulate muscle-specific gene expression
+AIMed_d193@2	We have use an interaction cloning strategy to identify an inhibitory isoform of the PROTEINT0 transcription factor PROTEINT1 that interact with the transcriptional inhibitor PROTEINT2 PROTEINT0
+AIMed_d193@2	We have use an interaction cloning strategy to identify an inhibitory isoform of the PROTEINT0 transcription factor PROTEINT1 that interact with the transcriptional inhibitor PROTEINT0 PROTEINT2
+AIMed_d193@7	Further investigation indicate that the PROTEINT1 PROTEINT2 heterodimer bind to its specific DNA binding site in vitro and the DNA binding be effectively block by PROTEINT0 PROTEINT0
+AIMed_d31@7	Here we demonstrate that PROTEINT1 specifically bind two cellular ligand PROTEINT2 PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 PROTEINT0
+AIMed_d31@7	Here we demonstrate that PROTEINT1 specifically bind two cellular ligand PROTEINT0 PROTEINT2 PROTEINT0 and PROTEINT0 PROTEINT0 PROTEINT0
+AIMed_d31@7	Here we demonstrate that PROTEINT1 specifically bind two cellular ligand PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT2 PROTEINT0 PROTEINT0
+AIMed_d31@7	Here we demonstrate that PROTEINT1 specifically bind two cellular ligand PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT2 PROTEINT0
+AIMed_d31@7	Here we demonstrate that PROTEINT1 specifically bind two cellular ligand PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 PROTEINT2
+AIMed_d31@10	It have be show that PROTEINT0 trigger apoptosis of various tumor cell include HT29 cell that express both PROTEINT0 PROTEINT1 receptor PROTEINT2 and PROTEINT0 PROTEINT0 receptor
+AIMed_d31@11	Our datum suggest that PROTEINT0 inhibit the interaction of PROTEINT1 with PROTEINT2 PROTEINT0 and PROTEINT0 thereby suppress PROTEINT0 mediated HT29 cell death
+AIMed_d31@11	Our datum suggest that PROTEINT0 inhibit the interaction of PROTEINT1 with PROTEINT0 PROTEINT2 and PROTEINT0 thereby suppress PROTEINT0 mediated HT29 cell death
+AIMed_d31@11	Our datum suggest that PROTEINT0 inhibit the interaction of PROTEINT1 with PROTEINT0 PROTEINT0 and PROTEINT2 thereby suppress PROTEINT0 mediated HT29 cell death
+AIMed_d142@1	Evidence for physical interaction between the zinc-finger transcription factor PROTEINT1 and PROTEINT2
+AIMed_d142@8	We find that PROTEINT1 and PROTEINT2 can form a physical complex
+AIMed_d142@9	In addition we identify domain within PROTEINT1 and PROTEINT2 that mediate their interaction with each other
+AIMed_d142@10	The physical interaction between PROTEINT1 and PROTEINT2 may thus form the basis for the functional interplay observe previously
+AIMed_d153@1	Characterization of PROTEINT1 binding to human PROTEINT2 on T cell and its biologic role in immune response
+AIMed_d153@2	PROTEINT1 a T cell activation Ag also know as PROTEINT0 be directly associate with PROTEINT2 PROTEINT0 on the surface of T cell and T cell line
+AIMed_d153@2	PROTEINT1 a T cell activation Ag also know as PROTEINT0 be directly associate with PROTEINT0 PROTEINT2 on the surface of T cell and T cell line
+AIMed_d153@2	PROTEINT0 a T cell activation Ag also know as PROTEINT1 be directly associate with PROTEINT2 PROTEINT0 on the surface of T cell and T cell line
+AIMed_d153@2	PROTEINT0 a T cell activation Ag also know as PROTEINT1 be directly associate with PROTEINT0 PROTEINT2 on the surface of T cell and T cell line
+AIMed_d153@3	In the present study we examine both the binding of PROTEINT1 and PROTEINT2 and the functional consequence of this interaction
+AIMed_d153@4	We find that PROTEINT1 be associate with PROTEINT2 on T cell line lack either PROTEINT0 or PROTEINT0 enzymatic activity indicate that the association between PROTEINT0 and PROTEINT0 do not require enzymatic activity
+AIMed_d153@4	We find that PROTEINT0 be associate with PROTEINT0 on T cell line lack either PROTEINT0 or PROTEINT0 enzymatic activity indicate that the association between PROTEINT1 and PROTEINT2 do not require enzymatic activity
+AIMed_d153@9	These datum suggest that PROTEINT0 on the cell surface be involve in an important immunoregulatory mechanism by which release PROTEINT1 bind to cell surface PROTEINT2 and this complex be capable of reduce the local concentration of adenosine
+AIMed_d182@1	Structure of the PROTEINT1 oncoprotein bind to the PROTEINT2 tumor suppressor transactivation domain
+AIMed_d182@2	The PROTEINT1 oncoprotein be a cellular inhibitor of the PROTEINT2 tumor suppressor in that it can bind the transactivation domain of PROTEINT0 and downregulate its ability to activate transcription
+AIMed_d182@2	The PROTEINT1 oncoprotein be a cellular inhibitor of the PROTEINT0 tumor suppressor in that it can bind the transactivation domain of PROTEINT2 and downregulate its ability to activate transcription
+AIMed_d182@4	The crystal structure of the 109-residue amino-terminal domain of PROTEINT1 bind to a 15-residue transactivation domain peptide of PROTEINT2 reveal that PROTEINT0 have a deep hydrophobic cleft on which the PROTEINT0 peptide bind as an amphipathic alpha helix
+AIMed_d182@4	The crystal structure of the 109-residue amino-terminal domain of PROTEINT0 bind to a 15-residue transactivation domain peptide of PROTEINT0 reveal that PROTEINT1 have a deep hydrophobic cleft on which the PROTEINT2 peptide bind as an amphipathic alpha helix
+AIMed_d182@5	The interface rely on the steric complementarity between the PROTEINT0 cleft and the hydrophobic face of the PROTEINT0 alpha helix and in particular on a triad of PROTEINT1 amino acids-Phe19 Trp23 and Leu26-which insert deep into the PROTEINT2 cleft
+AIMed_d182@6	These same PROTEINT0 residue be also involve in transactivation support the hypothesis that PROTEINT1 inactivate PROTEINT2 by conceal its transactivation domain
+AIMed_d128@4	The PROTEINT1 and PROTEINT0 receptor PROTEINT2 and PROTEINT0 respectively be single-pass transmembrane receptor from class 1 of the haematopoietic receptor superfamily
+AIMed_d128@4	The PROTEINT0 and PROTEINT1 receptor PROTEINT0 and PROTEINT2 respectively be single-pass transmembrane receptor from class 1 of the haematopoietic receptor superfamily
+AIMed_d128@7	In the case of PROTEINT0 activation involve receptor homodimerization in a sequential process the active ternary complex contain one ligand and two receptor molecule be form by association of a receptor molecule to an intermediate 1:1 complex PROTEINT0 do not bind to the PROTEINT0 receptor but PROTEINT1 bind to both the PROTEINT2 and PROTEINT0 and mutagenesis study have show that the receptor-binding site on PROTEINT0 overlap
+AIMed_d128@7	In the case of PROTEINT0 activation involve receptor homodimerization in a sequential process the active ternary complex contain one ligand and two receptor molecule be form by association of a receptor molecule to an intermediate 1:1 complex PROTEINT0 do not bind to the PROTEINT0 receptor but PROTEINT1 bind to both the PROTEINT0 and PROTEINT2 and mutagenesis study have show that the receptor-binding site on PROTEINT0 overlap
+AIMed_d128@8	We present here the crystal structure of the 1:1 complex of PROTEINT1 bind to the extracellular domain of the PROTEINT2
+AIMed_d128@9	Comparison with the PROTEINT1 PROTEINT2 complex reveal how PROTEINT0 can bind to the two distinctly different receptor binding surface
+AIMed_d154@8	Finally we use in vitro translate protein in an immunoprecipitation assay to show that like PROTEINT1 both beta 2 and PROTEINT0 interact with peptide encode the syntrophin-binding region of PROTEINT2 PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT0
+AIMed_d154@8	Finally we use in vitro translate protein in an immunoprecipitation assay to show that like PROTEINT1 both beta 2 and PROTEINT0 interact with peptide encode the syntrophin-binding region of PROTEINT0 PROTEINT2 PROTEINT0 PROTEINT0 and the PROTEINT0
+AIMed_d154@8	Finally we use in vitro translate protein in an immunoprecipitation assay to show that like PROTEINT1 both beta 2 and PROTEINT0 interact with peptide encode the syntrophin-binding region of PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT2 and the PROTEINT0
+AIMed_d154@8	Finally we use in vitro translate protein in an immunoprecipitation assay to show that like PROTEINT1 both beta 2 and PROTEINT0 interact with peptide encode the syntrophin-binding region of PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT2
+AIMed_d154@8	Finally we use in vitro translate protein in an immunoprecipitation assay to show that like PROTEINT0 both beta 2 and PROTEINT1 interact with peptide encode the syntrophin-binding region of PROTEINT2 PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT0
+AIMed_d154@8	Finally we use in vitro translate protein in an immunoprecipitation assay to show that like PROTEINT0 both beta 2 and PROTEINT1 interact with peptide encode the syntrophin-binding region of PROTEINT0 PROTEINT2 PROTEINT0 PROTEINT0 and the PROTEINT0
+AIMed_d154@8	Finally we use in vitro translate protein in an immunoprecipitation assay to show that like PROTEINT0 both beta 2 and PROTEINT1 interact with peptide encode the syntrophin-binding region of PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT2 and the PROTEINT0
+AIMed_d154@8	Finally we use in vitro translate protein in an immunoprecipitation assay to show that like PROTEINT0 both beta 2 and PROTEINT1 interact with peptide encode the syntrophin-binding region of PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT2
+AIMed_d185@1	PROTEINT1 recruitment by two distinct ligand-induced tyrosine-phosphorylated docking site in the PROTEINT2 PROTEINT0 receptor intracellular domain
+AIMed_d185@4	In all cell test PROTEINT1 activate PROTEINT2 and PROTEINT0 and induce the formation of three distinct DNA binding complex that contain different combination of these two transcription factor
+AIMed_d185@4	In all cell test PROTEINT1 activate PROTEINT0 and PROTEINT2 and induce the formation of three distinct DNA binding complex that contain different combination of these two transcription factor
+AIMed_d185@5	PROTEINT1 also activate PROTEINT2 in Ba/F3 cell that stably express the murine PROTEINT0 PROTEINT0
+AIMed_d185@6	Use a structure-function mutagenesis approach two tyrosine residue Tyr427 and Tyr477 in the intracellular domain of the murine PROTEINT0 PROTEINT1 be find to be redundantly require for receptor function and for activation of PROTEINT2 but not for PROTEINT0 or Stat5
+AIMed_d185@9	These datum demonstrate that PROTEINT1 but not PROTEINT0 or PROTEINT0 be directly recruit to the ligand-activated PROTEINT0 PROTEINT2 by bind to specific but redundant receptor intracellular domain sequence contain phosphotyrosine
+AIMed_d126@3	Use immunoprecipitation technique we have determine the rate at which PROTEINT1 and PROTEINT0 PROTEINT0 be release from PROTEINT2 in a form commit to refold to active enzyme
+AIMed_d126@3	Use immunoprecipitation technique we have determine the rate at which PROTEINT0 and PROTEINT1 PROTEINT0 be release from PROTEINT2 in a form commit to refold to active enzyme
+AIMed_d126@3	Use immunoprecipitation technique we have determine the rate at which PROTEINT0 and PROTEINT0 PROTEINT1 be release from PROTEINT2 in a form commit to refold to active enzyme
+AIMed_d126@4	PROTEINT1 and PROTEINT0 be choose as substrate because they exhibit different solution requirement for the chaperonin system and they form stable folding arrest complex with PROTEINT2
+AIMed_d126@4	PROTEINT0 and PROTEINT1 be choose as substrate because they exhibit different solution requirement for the chaperonin system and they form stable folding arrest complex with PROTEINT2
+AIMed_d126@10	This suggest that PROTEINT1 must interact with PROTEINT2 throughout most of its folding reaction before it acquire a folding competent groE independent state
+AIMed_d84@1	Evidence for a differential interaction of PROTEINT0 and the PROTEINT1 PROTEINT0 with the PROTEINT2 PROTEINT0 PROTEINT0 receptor in the yeast two-hybrid system
+AIMed_d84@1	Evidence for a differential interaction of PROTEINT0 and the PROTEINT0 PROTEINT1 with the PROTEINT2 PROTEINT0 PROTEINT0 receptor in the yeast two-hybrid system
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT1 PROTEINT0 and the PROTEINT0 PROTEINT0 with their two know substrate PROTEINT2 and the PROTEINT0 PROTEINT0 PROTEINT0
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT1 PROTEINT0 and the PROTEINT0 PROTEINT0 with their two know substrate PROTEINT0 and the PROTEINT0 PROTEINT2 PROTEINT0
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT1 PROTEINT0 and the PROTEINT0 PROTEINT0 with their two know substrate PROTEINT0 and the PROTEINT0 PROTEINT0 PROTEINT2
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT0 PROTEINT1 and the PROTEINT0 PROTEINT0 with their two know substrate PROTEINT2 and the PROTEINT0 PROTEINT0 PROTEINT0
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT0 PROTEINT1 and the PROTEINT0 PROTEINT0 with their two know substrate PROTEINT0 and the PROTEINT0 PROTEINT2 PROTEINT0
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT0 PROTEINT1 and the PROTEINT0 PROTEINT0 with their two know substrate PROTEINT0 and the PROTEINT0 PROTEINT0 PROTEINT2
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT1 PROTEINT0 with their two know substrate PROTEINT2 and the PROTEINT0 PROTEINT0 PROTEINT0
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT1 PROTEINT0 with their two know substrate PROTEINT0 and the PROTEINT0 PROTEINT2 PROTEINT0
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT1 PROTEINT0 with their two know substrate PROTEINT0 and the PROTEINT0 PROTEINT0 PROTEINT2
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT0 PROTEINT1 with their two know substrate PROTEINT2 and the PROTEINT0 PROTEINT0 PROTEINT0
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT0 PROTEINT1 with their two know substrate PROTEINT0 and the PROTEINT0 PROTEINT2 PROTEINT0
+AIMed_d84@2	Use the yeast two-hybrid system a genetic assay for study protein-protein interaction we have examine and compare the interaction of the PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT0 PROTEINT1 with their two know substrate PROTEINT0 and the PROTEINT0 PROTEINT0 PROTEINT2
+AIMed_d84@4	Our finding can be summarize as follow i the tyrosine kinase activity of the PROTEINT1 be essential for the interaction with PROTEINT2 and PROTEINT0 ii PROTEINT0 and PROTEINT0 bind to the PROTEINT0 in the NPEY-juxtamembrane motif iii contrary to PROTEINT0 PROTEINT0 bind also to the major autophosphorylation site Tyr-1131 1135 and 1136 of the PROTEINT0 and iv the amino-terminal domain of PROTEINT0 be require for its association with the PROTEINT0 and the PROTEINT0
+AIMed_d84@4	Our finding can be summarize as follow i the tyrosine kinase activity of the PROTEINT1 be essential for the interaction with PROTEINT0 and PROTEINT2 ii PROTEINT0 and PROTEINT0 bind to the PROTEINT0 in the NPEY-juxtamembrane motif iii contrary to PROTEINT0 PROTEINT0 bind also to the major autophosphorylation site Tyr-1131 1135 and 1136 of the PROTEINT0 and iv the amino-terminal domain of PROTEINT0 be require for its association with the PROTEINT0 and the PROTEINT0
+AIMed_d84@4	Our finding can be summarize as follow i the tyrosine kinase activity of the PROTEINT0 be essential for the interaction with PROTEINT0 and PROTEINT0 ii PROTEINT1 and PROTEINT0 bind to the PROTEINT2 in the NPEY-juxtamembrane motif iii contrary to PROTEINT0 PROTEINT0 bind also to the major autophosphorylation site Tyr-1131 1135 and 1136 of the PROTEINT0 and iv the amino-terminal domain of PROTEINT0 be require for its association with the PROTEINT0 and the PROTEINT0
+AIMed_d84@4	Our finding can be summarize as follow i the tyrosine kinase activity of the PROTEINT0 be essential for the interaction with PROTEINT0 and PROTEINT0 ii PROTEINT0 and PROTEINT1 bind to the PROTEINT2 in the NPEY-juxtamembrane motif iii contrary to PROTEINT0 PROTEINT0 bind also to the major autophosphorylation site Tyr-1131 1135 and 1136 of the PROTEINT0 and iv the amino-terminal domain of PROTEINT0 be require for its association with the PROTEINT0 and the PROTEINT0
+AIMed_d84@4	Our finding can be summarize as follow i the tyrosine kinase activity of the PROTEINT0 be essential for the interaction with PROTEINT0 and PROTEINT0 ii PROTEINT0 and PROTEINT0 bind to the PROTEINT0 in the NPEY-juxtamembrane motif iii contrary to PROTEINT0 PROTEINT1 bind also to the major autophosphorylation site Tyr-1131 1135 and 1136 of the PROTEINT2 and iv the amino-terminal domain of PROTEINT0 be require for its association with the PROTEINT0 and the PROTEINT0
+AIMed_d84@4	Our finding can be summarize as follow i the tyrosine kinase activity of the PROTEINT0 be essential for the interaction with PROTEINT0 and PROTEINT0 ii PROTEINT0 and PROTEINT0 bind to the PROTEINT0 in the NPEY-juxtamembrane motif iii contrary to PROTEINT0 PROTEINT0 bind also to the major autophosphorylation site Tyr-1131 1135 and 1136 of the PROTEINT0 and iv the amino-terminal domain of PROTEINT1 be require for its association with the PROTEINT2 and the PROTEINT0
+AIMed_d84@4	Our finding can be summarize as follow i the tyrosine kinase activity of the PROTEINT0 be essential for the interaction with PROTEINT0 and PROTEINT0 ii PROTEINT0 and PROTEINT0 bind to the PROTEINT0 in the NPEY-juxtamembrane motif iii contrary to PROTEINT0 PROTEINT0 bind also to the major autophosphorylation site Tyr-1131 1135 and 1136 of the PROTEINT0 and iv the amino-terminal domain of PROTEINT1 be require for its association with the PROTEINT0 and the PROTEINT2
+AIMed_d84@5	We propose that i the PROTEINT1 and the PROTEINT0 share at least in part the same molecular mechanism underlie their interplay with their two substrate PROTEINT2 and PROTEINT0 and ii PROTEINT0 interact with the PROTEINT0 in a fashion that be different from that use by PROTEINT0
+AIMed_d84@5	We propose that i the PROTEINT1 and the PROTEINT0 share at least in part the same molecular mechanism underlie their interplay with their two substrate PROTEINT0 and PROTEINT2 and ii PROTEINT0 interact with the PROTEINT0 in a fashion that be different from that use by PROTEINT0
+AIMed_d84@5	We propose that i the PROTEINT0 and the PROTEINT1 share at least in part the same molecular mechanism underlie their interplay with their two substrate PROTEINT2 and PROTEINT0 and ii PROTEINT0 interact with the PROTEINT0 in a fashion that be different from that use by PROTEINT0
+AIMed_d84@5	We propose that i the PROTEINT0 and the PROTEINT1 share at least in part the same molecular mechanism underlie their interplay with their two substrate PROTEINT0 and PROTEINT2 and ii PROTEINT0 interact with the PROTEINT0 in a fashion that be different from that use by PROTEINT0
+AIMed_d84@5	We propose that i the PROTEINT0 and the PROTEINT0 share at least in part the same molecular mechanism underlie their interplay with their two substrate PROTEINT0 and PROTEINT0 and ii PROTEINT1 interact with the PROTEINT2 in a fashion that be different from that use by PROTEINT0
+AIMed_d84@5	We propose that i the PROTEINT0 and the PROTEINT0 share at least in part the same molecular mechanism underlie their interplay with their two substrate PROTEINT0 and PROTEINT0 and ii PROTEINT0 interact with the PROTEINT1 in a fashion that be different from that use by PROTEINT2
+AIMed_d55@1	Human PROTEINT1 PROTEINT0 be a functional ligand for PROTEINT2 PROTEINT0 and PROTEINT0 and constitutively express by hepatocyte
+AIMed_d55@1	Human PROTEINT1 PROTEINT0 be a functional ligand for PROTEINT0 PROTEINT2 and PROTEINT0 and constitutively express by hepatocyte
+AIMed_d55@1	Human PROTEINT1 PROTEINT0 be a functional ligand for PROTEINT0 PROTEINT0 and PROTEINT2 and constitutively express by hepatocyte
+AIMed_d55@1	Human PROTEINT0 PROTEINT1 be a functional ligand for PROTEINT2 PROTEINT0 and PROTEINT0 and constitutively express by hepatocyte
+AIMed_d55@1	Human PROTEINT0 PROTEINT1 be a functional ligand for PROTEINT0 PROTEINT2 and PROTEINT0 and constitutively express by hepatocyte
+AIMed_d55@1	Human PROTEINT0 PROTEINT1 be a functional ligand for PROTEINT0 PROTEINT0 and PROTEINT2 and constitutively express by hepatocyte
+AIMed_d55@4	At relatively high concentration PROTEINT1 induce calcium mobilization and chemotaxis via PROTEINT2 and PROTEINT0
+AIMed_d55@4	At relatively high concentration PROTEINT1 induce calcium mobilization and chemotaxis via PROTEINT0 and PROTEINT2
+AIMed_d55@5	PROTEINT1 also induce calcium mobilization but marginal chemotaxis via PROTEINT2
+AIMed_d55@6	Consistently PROTEINT1 be find to bind to PROTEINT2 PROTEINT0 and PROTEINT0 with relatively low affinity
+AIMed_d55@6	Consistently PROTEINT1 be find to bind to PROTEINT0 PROTEINT2 and PROTEINT0 with relatively low affinity
+AIMed_d55@6	Consistently PROTEINT1 be find to bind to PROTEINT0 PROTEINT0 and PROTEINT2 with relatively low affinity
+AIMed_d55@7	The binding of PROTEINT1 to PROTEINT2 be much less significant
+AIMed_d55@8	In spite of its binding to PROTEINT1 PROTEINT2 be unable to inhibit infection of an R5-type HIV-1 to activate human peripheral blood mononuclear cell even at high concentration
+AIMed_d55@12	Take together PROTEINT1 be a new low-affinity functional ligand for PROTEINT2 PROTEINT0 and PROTEINT0 and be constitutively express by liver parenchymal cell
+AIMed_d55@12	Take together PROTEINT1 be a new low-affinity functional ligand for PROTEINT0 PROTEINT2 and PROTEINT0 and be constitutively express by liver parenchymal cell
+AIMed_d55@12	Take together PROTEINT1 be a new low-affinity functional ligand for PROTEINT0 PROTEINT0 and PROTEINT2 and be constitutively express by liver parenchymal cell
+AIMed_d29@3	This work show that single and double Ala substitution of His18 and Phe21 in PROTEINT0 reduce up to 77-fold the binding affinity to PROTEINT0 PROTEINT1 receptor subtype A PROTEINT2 and B PROTEINT0 and to the PROTEINT0
+AIMed_d29@3	This work show that single and double Ala substitution of His18 and Phe21 in PROTEINT0 reduce up to 77-fold the binding affinity to PROTEINT0 PROTEINT1 receptor subtype A PROTEINT0 and B PROTEINT2 and to the PROTEINT0
+AIMed_d29@3	This work show that single and double Ala substitution of His18 and Phe21 in PROTEINT0 reduce up to 77-fold the binding affinity to PROTEINT0 PROTEINT1 receptor subtype A PROTEINT0 and B PROTEINT0 and to the PROTEINT2
+AIMed_d29@8	This study demonstrate that PROTEINT1 recognize and activate PROTEINT2 PROTEINT0 and the PROTEINT0 by distinct mechanism
+AIMed_d29@8	This study demonstrate that PROTEINT1 recognize and activate PROTEINT0 PROTEINT2 and the PROTEINT0 by distinct mechanism
+AIMed_d29@8	This study demonstrate that PROTEINT1 recognize and activate PROTEINT0 PROTEINT0 and the PROTEINT2 by distinct mechanism
+AIMed_d121@1	Several hydrophobic amino acid in the PROTEINT1 amino-terminal domain be require for transcriptional activation bind to PROTEINT2 and the adenovirus PROTEINT0 PROTEINT0 55-kD protein
+AIMed_d121@1	Several hydrophobic amino acid in the PROTEINT1 amino-terminal domain be require for transcriptional activation bind to PROTEINT0 and the adenovirus PROTEINT2 PROTEINT0 55-kD protein
+AIMed_d121@3	The acidic amino terminus of the PROTEINT1 protein have be show to contain this trans-activation activity as well as the domain for PROTEINT2 and adenovirus PROTEINT0 PROTEINT0 55-kD protein binding
+AIMed_d121@3	The acidic amino terminus of the PROTEINT1 protein have be show to contain this trans-activation activity as well as the domain for PROTEINT0 and adenovirus PROTEINT2 PROTEINT0 55-kD protein binding
+AIMed_d121@6	Rather the hydrophobic amino acid residue Leu-22 and Trp-23 of human PROTEINT1 be both require for trans-activation activity bind to the adenovirus PROTEINT2 55-kD protein and the human PROTEINT0 PROTEINT0 protein in vitro
+AIMed_d121@6	Rather the hydrophobic amino acid residue Leu-22 and Trp-23 of human PROTEINT0 be both require for trans-activation activity bind to the adenovirus PROTEINT0 55-kD protein and the human PROTEINT1 PROTEINT2 protein in vitro
+AIMed_d121@7	In addition hydrophobic residue Leu-14 and Phe-19 be crucial for the interaction between PROTEINT1 and human PROTEINT2 PROTEINT0
+AIMed_d121@7	In addition hydrophobic residue Leu-14 and Phe-19 be crucial for the interaction between PROTEINT1 and human PROTEINT0 PROTEINT2
+AIMed_d83@2	By rational mutagenesis receptor-specific functional analysis and visualization of complex formation in solution we identify individual amino acid side chain involve specifically in the interaction of PROTEINT1 PROTEINT0 with PROTEINT2 and not with the beta-component PROTEINT0 and PROTEINT0
+AIMed_d83@2	By rational mutagenesis receptor-specific functional analysis and visualization of complex formation in solution we identify individual amino acid side chain involve specifically in the interaction of PROTEINT0 PROTEINT1 with PROTEINT2 and not with the beta-component PROTEINT0 and PROTEINT0
+AIMed_d52@6	We show that the S252W mutation allow the mesenchymal splice form of PROTEINT0 PROTEINT1 to bind and to be activate by the mesenchymally express ligand PROTEINT2 or PROTEINT0 and the epithelial splice form of PROTEINT0 PROTEINT0 to be activate by PROTEINT0 PROTEINT0 and PROTEINT0
+AIMed_d52@6	We show that the S252W mutation allow the mesenchymal splice form of PROTEINT0 PROTEINT1 to bind and to be activate by the mesenchymally express ligand PROTEINT0 or PROTEINT2 and the epithelial splice form of PROTEINT0 PROTEINT0 to be activate by PROTEINT0 PROTEINT0 and PROTEINT0
+AIMed_d52@6	We show that the S252W mutation allow the mesenchymal splice form of PROTEINT0 PROTEINT0 to bind and to be activate by the mesenchymally express ligand PROTEINT0 or PROTEINT0 and the epithelial splice form of PROTEINT0 PROTEINT1 to be activate by PROTEINT2 PROTEINT0 and PROTEINT0
+AIMed_d52@6	We show that the S252W mutation allow the mesenchymal splice form of PROTEINT0 PROTEINT0 to bind and to be activate by the mesenchymally express ligand PROTEINT0 or PROTEINT0 and the epithelial splice form of PROTEINT0 PROTEINT1 to be activate by PROTEINT0 PROTEINT2 and PROTEINT0
+AIMed_d52@6	We show that the S252W mutation allow the mesenchymal splice form of PROTEINT0 PROTEINT0 to bind and to be activate by the mesenchymally express ligand PROTEINT0 or PROTEINT0 and the epithelial splice form of PROTEINT0 PROTEINT1 to be activate by PROTEINT0 PROTEINT0 and PROTEINT2
+AIMed_d168@2	The PROTEINT1 PROTEINT0 PROTEINT2 be a member of a family of cytokine and growth factor receptor that share conserve feature in their extracellular and cytoplasmic domain
+AIMed_d168@3	We have use site-specific mutagenesis within the extracellular domain of the PROTEINT1 to search for amino acid residue involve in PROTEINT2 PROTEINT0 binding
+AIMed_d168@3	We have use site-specific mutagenesis within the extracellular domain of the PROTEINT1 to search for amino acid residue involve in PROTEINT0 PROTEINT2 binding
+AIMed_d168@4	Mutant protein be express in bacteria as soluble PROTEINT1 binding protein PROTEINT2 and characterize for PROTEINT0 binding activity in a number of different assay
+AIMed_d168@5	Substitution of phenylalanine at position 93 Phe93 with alanine F93A mutation result in a drastic reduction in PROTEINT1 binding in the PROTEINT2
+AIMed_d168@8	Furthermore the F93A mutation in full-length PROTEINT1 express in COS cell abolish detectable PROTEINT2 binding
+AIMed_d168@11	These datum indicate that Phe93 be a critical PROTEINT1 binding determinant of the PROTEINT2
+AIMed_d203@3	Three naturally occur ligand for the PROTEINT0 PROTEINT1 PROTEINT0 exist the agonist PROTEINT2 and PROTEINT0 and the PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 ref 2
+AIMed_d203@3	Three naturally occur ligand for the PROTEINT0 PROTEINT0 PROTEINT1 exist the agonist PROTEINT0 and PROTEINT2 and the PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 ref 2
+AIMed_d203@3	Three naturally occur ligand for the PROTEINT0 PROTEINT0 PROTEINT0 exist the agonist PROTEINT0 and PROTEINT0 and the PROTEINT0 PROTEINT1 PROTEINT0 PROTEINT2 ref 2
+AIMed_d203@5	Here we describe the crystal structure at 2.7 A resolution of the soluble extracellular part of PROTEINT1 PROTEINT0 complexe with PROTEINT2
+AIMed_d114@6	We demonstrate that the 53 amino acid encode on exon 74 of PROTEINT1 an alternatively splice exon be necessary and sufficient for interaction with translate PROTEINT2 in our assay
+AIMed_d114@8	In this recombinant expression system the PROTEINT0 relative human PROTEINT0 PROTEINT1 PROTEINT0 or PROTEINT0 and the PROTEINT0 from Torpedo electric organ also bind to translate PROTEINT2
+AIMed_d114@8	In this recombinant expression system the PROTEINT0 relative human PROTEINT0 PROTEINT0 PROTEINT1 or PROTEINT0 and the PROTEINT0 from Torpedo electric organ also bind to translate PROTEINT2
+AIMed_d114@8	In this recombinant expression system the PROTEINT0 relative human PROTEINT0 PROTEINT0 PROTEINT0 or PROTEINT1 and the PROTEINT0 from Torpedo electric organ also bind to translate PROTEINT2
+AIMed_d114@8	In this recombinant expression system the PROTEINT0 relative human PROTEINT0 PROTEINT0 PROTEINT0 or PROTEINT0 and the PROTEINT1 from Torpedo electric organ also bind to translate PROTEINT2
+AIMed_d114@9	We have find a COOH-terminal 37-kD fragment of PROTEINT1 sufficient to interact with translate PROTEINT2 and its homologue suggest that the PROTEINT0 binding site on PROTEINT0 occur on a region that be conserve among the three syntrophin homologue
+AIMed_d114@9	We have find a COOH-terminal 37-kD fragment of PROTEINT0 sufficient to interact with translate PROTEINT0 and its homologue suggest that the PROTEINT1 binding site on PROTEINT2 occur on a region that be conserve among the three syntrophin homologue
+AIMed_d60@1	Activation of PROTEINT0 PROTEINT1 by PROTEINT2 in NIH 3T3 cell and in vitro
+AIMed_d60@3	PROTEINT1 and the protein kinase that activate it PROTEINT2 be constitutively activate in NIH 3T3 cell infect with virus contain either of two oncogenic form p35EC12 p3722W of the PROTEINT0 protein kinase
+AIMed_d60@3	PROTEINT1 and the protein kinase that activate it PROTEINT0 be constitutively activate in NIH 3T3 cell infect with virus contain either of two oncogenic form p35EC12 p3722W of the PROTEINT2 protein kinase
+AIMed_d60@3	PROTEINT0 and the protein kinase that activate it PROTEINT1 be constitutively activate in NIH 3T3 cell infect with virus contain either of two oncogenic form p35EC12 p3722W of the PROTEINT2 protein kinase
+AIMed_d60@4	The PROTEINT1 protein purify from cell infect with EC12 or 22W virus activate PROTEINT0 PROTEINT2 from skeletal muscle in vitro
+AIMed_d60@6	These finding suggest that one function of PROTEINT1 in mitogenic signaling be to phosphorylate and activate PROTEINT0 PROTEINT2
+AIMed_d204@1	The catalytic domain of activate PROTEINT0 PROTEINT1 be absolutely require for interaction with its specific inhibitor PROTEINT2 PROTEINT0
+AIMed_d204@1	The catalytic domain of activate PROTEINT0 PROTEINT1 be absolutely require for interaction with its specific inhibitor PROTEINT0 PROTEINT2
+AIMed_d204@7	Only the activate and not the latent form of wild-type and C-terminal mutant de 248-450 PROTEINT1 protein be able to form complex with PROTEINT2
+AIMed_d204@9	This demonstrate that the C-terminal hemopexin domain of PROTEINT0 in contrast to the correspond region of PROTEINT1 and PROTEINT0 do not interact with PROTEINT2
+AIMed_d204@9	This demonstrate that the C-terminal hemopexin domain of PROTEINT0 in contrast to the correspond region of PROTEINT0 and PROTEINT1 do not interact with PROTEINT2
+AIMed_d204@10	In summary we have show that the integrity of the catalytic domain of PROTEINT1 and its ability to bind Zn2 be absolutely require for complex formation with PROTEINT2 which further underline the importance of this region for proper regulation of enzymatic activity of PROTEINT0
+AIMed_d113@1	Cloning and functional analysis of PROTEINT1 a novel PROTEINT0 PROTEINT2 bind protein with anti-cell death activity
+AIMed_d113@2	Use a protein interaction cloning technique we identify cDNA that encode a novel PROTEINT1 PROTEINT0 term PROTEINT2
+AIMed_d161@1	Use of the two hybrid system to detect the association of the protein-tyrosine-phosphatase PROTEINT1 with another SH2-containing protein PROTEINT2
+AIMed_d161@3	PROTEINT1 associate with the PROTEINT2 PROTEINT0 PROTEINT0 receptor after ligand stimulation and binding of PROTEINT0 to this receptor promote tyrosine phosphorylation of PROTEINT0
+AIMed_d161@5	Use PROTEINT0 as bait and supply an exogenous tyrosine kinase gene to the yeast cell we have find that PROTEINT1 interact with another signaling protein PROTEINT2
+AIMed_d161@7	We demonstrate that PROTEINT1 bind to PROTEINT2 in vitro under condition where the latter be tyrosine-phosphorylated
+AIMed_d166@2	Residue in human PROTEINT1 PROTEINT0 crucial for bind to both the human PROTEINT2 R and PROTEINT0 be identify by analysis of alanine scanning mutant of PROTEINT0 in assay for both receptor binding and bioactivity
+AIMed_d166@2	Residue in human PROTEINT1 PROTEINT0 crucial for bind to both the human PROTEINT0 R and PROTEINT2 be identify by analysis of alanine scanning mutant of PROTEINT0 in assay for both receptor binding and bioactivity
+AIMed_d166@2	Residue in human PROTEINT0 PROTEINT1 crucial for bind to both the human PROTEINT2 R and PROTEINT0 be identify by analysis of alanine scanning mutant of PROTEINT0 in assay for both receptor binding and bioactivity
+AIMed_d166@2	Residue in human PROTEINT0 PROTEINT1 crucial for bind to both the human PROTEINT0 R and PROTEINT2 be identify by analysis of alanine scanning mutant of PROTEINT0 in assay for both receptor binding and bioactivity
+AIMed_d166@3	The region of PROTEINT1 most important for bind to the PROTEINT2 be compose of residue from the amino terminus of the D-helix carboxyl terminus of the B-helix and C-D loop
+AIMed_d166@5	The two residue of PROTEINT1 that contribute the majority of free energy for PROTEINT2 binding Phe-156 and Lys-159 be surround by other residue which have only a moderate impact
+AIMed_d166@7	A second region of PROTEINT1 that include residue from the carboxyl terminus of the D-helix and A-B loop also have a weak influence on PROTEINT2 binding
+AIMed_d166@8	Residue in PROTEINT1 from both the A and C-helice be involve in bind the PROTEINT2 co-receptor
+AIMed_d166@9	Abolition of the PROTEINT1 binding site in PROTEINT2 create antagonist of PROTEINT0 action
+AIMed_d69@1	Activation of PROTEINT1 decrease phosphorylation of PROTEINT2 at site that negatively regulate its DNA-binding activity
+AIMed_d69@2	In rest human epithelial and fibroblastic cell PROTEINT1 be phosphorylate on serine and threonine at five site three of which be phosphorylate in vitro by PROTEINT2 PROTEINT0
+AIMed_d69@2	In rest human epithelial and fibroblastic cell PROTEINT1 be phosphorylate on serine and threonine at five site three of which be phosphorylate in vitro by PROTEINT0 PROTEINT2
+AIMed_d69@4	Activation of PROTEINT1 result in rapid site-specific dephosphorylation of PROTEINT2 at one or more of these three site and be coincident with increase PROTEINT0 binding activity
+AIMed_d69@5	Phosphorylation of recombinant human PROTEINT1 protein in vitro by PROTEINT2 decrease their DNA-binding activity
+AIMed_d69@7	We propose that PROTEINT1 be present in rest cell in a latent phosphorylated form that can be activate by site-specific dephosphorylation in response to PROTEINT2 activation
+AIMed_d89@1	The mitogenic effect of the PROTEINT1 be mediate through cell surface PROTEINT2
+AIMed_d89@11	The present study have show that cell surface PROTEINT1 bind to the PROTEINT2 mediate its mitogenic activity
+AIMed_d186@4	Only weak PROTEINT1 binding activity be find in cell transfecte with only PROTEINT2 however the combination of both PROTEINT0 and PROTEINT0 result in substantial binding activity with a Kd of approximately 400 pM indicate that both chain be essential component of the PROTEINT0 PROTEINT0
+AIMed_d186@5	Whereas PROTEINT1 serve as an alternative accessory protein to the common PROTEINT0 PROTEINT0 for PROTEINT2 signaling it could not replace the function of PROTEINT0 in allow enhance PROTEINT0 binding activity
+AIMed_d150@1	Regulation of the PROTEINT0 relate transcription factor PROTEINT1 by bind to the PROTEINT2 protein
+AIMed_d150@4	In this report it be demonstrate that PROTEINT1 contain a sequence motif that be highly related to the PROTEINT0 binding site of several viral oncoprotein and bind to the pocket region of PROTEINT2 both in vitro and in vivo
+AIMed_d150@6	Co-immunoprecipitation experiment demonstrate an association between PROTEINT1 and PROTEINT2 in rest normal human T cell
+AIMed_d181@1	Structure of the PROTEINT1 tumor suppressor bind to the ankyrin and SH3 domain of PROTEINT2
+AIMed_d181@3	The core domain contain the sequence-specific DNA binding activity and the in vitro PROTEINT1 protein binding activity of PROTEINT2
+AIMed_d181@4	The crystal structure of the PROTEINT1 core domain bind to the PROTEINT2 protein which contain an SH3 Src homology 3 domain and four ankyrin repeat reveal that i the SH3 domain bind the L3 loop of PROTEINT0 in a manner distinct from that of previously characterize SH3-polyproline peptide complex and ii an ankyrin repeat which form an L-shaped structure consist of a beta hairpin and two alpha helix bind the L2 loop of PROTEINT0
+AIMed_d181@5	The structure of the complex show that the PROTEINT1 binding site on the PROTEINT2 core domain consist of evolutionarily conserve region that be frequently mutate in cancer and that it overlap the site of DNA binding
+AIMed_d181@6	The six most frequently observe PROTEINT1 mutation disrupt PROTEINT2 binding in vitro
+AIMed_d181@7	The structure provide evidence that the PROTEINT1 PROTEINT2 complex form in vivo and may have a critical role in the PROTEINT0 pathway of tumor suppression
+AIMed_d80@1	PROTEINT1 a novel death domain-containing protein interact with the death domain of PROTEINT2 and initiate apoptosis
+AIMed_d80@2	Use the cytoplasmic domain of PROTEINT0 in the yeast two-hybrid system we have identify a novel interact protein PROTEINT1 which bind PROTEINT2 and PROTEINT0 PROTEINT0 a mutant of PROTEINT0 possess enhance killing activity but not the functionally inactive mutant PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0
+AIMed_d80@2	Use the cytoplasmic domain of PROTEINT0 in the yeast two-hybrid system we have identify a novel interact protein PROTEINT1 which bind PROTEINT0 and PROTEINT2 PROTEINT0 a mutant of PROTEINT0 possess enhance killing activity but not the functionally inactive mutant PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0
+AIMed_d80@2	Use the cytoplasmic domain of PROTEINT0 in the yeast two-hybrid system we have identify a novel interact protein PROTEINT1 which bind PROTEINT0 and PROTEINT0 PROTEINT2 a mutant of PROTEINT0 possess enhance killing activity but not the functionally inactive mutant PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0
+AIMed_d80@4	A point mutation in PROTEINT1 analogous to the lpr mutation of PROTEINT0 abolish its ability to bind PROTEINT2 suggest a death domain to death domain interaction
+AIMed_d80@5	Overexpression of PROTEINT0 in MCF7 and BJAB cell induce apoptosis which like PROTEINT0 induce apoptosis be block by PROTEINT1 a specific inhibitor of the PROTEINT2 PROTEINT0 convert enzyme
+AIMed_d122@3	In previous study Scott J D Stofko R E McDonald J R Comer J D Vitalis E A and Mangili J 1990 J Biol Chem 265 21561-21566 we have show that dimerization of PROTEINT1 be require for interaction with the cytoskeletal component PROTEINT2
+AIMed_d122@8	Measurement of PROTEINT1 I3A,I5A interaction with the human PROTEINT2 PROTEINT0 by two independent method suggest that mutation of isoleucine 3 and 5 decrease affinity by at least 6-fold
+AIMed_d122@8	Measurement of PROTEINT1 I3A,I5A interaction with the human PROTEINT0 PROTEINT2 by two independent method suggest that mutation of isoleucine 3 and 5 decrease affinity by at least 6-fold
+AIMed_d51@6	Here we report the crystal structure of the PROTEINT1 ectodomain in a dimeric form that be induce by simultaneous binding to PROTEINT2 and a heparin decasaccharide
+AIMed_d51@9	The structure of the PROTEINT1 PROTEINT2 heparin ternary complex provide a structural basis for the essential role of heparan sulphate in FGF signalling
+AIMed_d87@2	Interaction of the PROTEINT0 subunit of PROTEINT1 with the PROTEINT0 PROTEINT2 PROTEINT0 and the PROTEINT0 PROTEINT0 PROTEINT0 be investigate use the two-hybrid system by assess for his3 and lacZ activation in S cerevisiae
+AIMed_d87@2	Interaction of the PROTEINT0 subunit of PROTEINT1 with the PROTEINT0 PROTEINT0 PROTEINT2 and the PROTEINT0 PROTEINT0 PROTEINT0 be investigate use the two-hybrid system by assess for his3 and lacZ activation in S cerevisiae
+AIMed_d87@2	Interaction of the PROTEINT0 subunit of PROTEINT1 with the PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT0 PROTEINT2 PROTEINT0 be investigate use the two-hybrid system by assess for his3 and lacZ activation in S cerevisiae
+AIMed_d87@2	Interaction of the PROTEINT0 subunit of PROTEINT1 with the PROTEINT0 PROTEINT0 PROTEINT0 and the PROTEINT0 PROTEINT0 PROTEINT2 be investigate use the two-hybrid system by assess for his3 and lacZ activation in S cerevisiae
+AIMed_d87@4	The result of his3 activation indicate that PROTEINT1 N C-SH2 and C-SH2 interact with both PROTEINT0 PROTEINT2 and PROTEINT0 PROTEINT0 beta whereas N-SH2 and SH3 N-SH2 interact only with PROTEINT0 PROTEINT0 beta
+AIMed_d87@4	The result of his3 activation indicate that PROTEINT1 N C-SH2 and C-SH2 interact with both PROTEINT0 PROTEINT0 and PROTEINT2 PROTEINT0 beta whereas N-SH2 and SH3 N-SH2 interact only with PROTEINT0 PROTEINT0 beta
+AIMed_d87@5	Interaction of PROTEINT1 and N+C-SH2 with PROTEINT2 PROTEINT0 or PROTEINT0 PROTEINT0 beta PROTEINT0 in which the C-terminal 43 amino acid include the YXXM motif be delete persist
+AIMed_d87@5	Interaction of PROTEINT1 and N+C-SH2 with PROTEINT0 PROTEINT0 or PROTEINT2 PROTEINT0 beta PROTEINT0 in which the C-terminal 43 amino acid include the YXXM motif be delete persist
+AIMed_d87@7	Activation of lacZ upon interaction of PROTEINT1 with PROTEINT2 PROTEINT0 be 4-fold less as compare to PROTEINT0
+AIMed_d87@7	Activation of lacZ upon interaction of PROTEINT1 with PROTEINT0 PROTEINT0 be 4-fold less as compare to PROTEINT2
+AIMed_d87@8	This activation with PROTEINT1 and PROTEINT2 PROTEINT0 beta be 4-fold less as compare to PROTEINT0 and be somewhat increase 2-fold for PROTEINT0 PROTEINT0 beta PROTEINT0 3
+AIMed_d87@8	This activation with PROTEINT1 and PROTEINT0 PROTEINT0 beta be 4-fold less as compare to PROTEINT2 and be somewhat increase 2-fold for PROTEINT0 PROTEINT0 beta PROTEINT0 3
+AIMed_d87@8	This activation with PROTEINT1 and PROTEINT0 PROTEINT0 beta be 4-fold less as compare to PROTEINT0 and be somewhat increase 2-fold for PROTEINT2 PROTEINT0 beta PROTEINT0 3
+AIMed_d87@9	Thus the C-terminal domain in PROTEINT1 appear to exert a negative control on binding of PROTEINT2 thereby provide a possible regulatory mechanism for direct activation of the PROTEINT0 pathway
+AIMed_d125@2	Interaction of the PROTEINT1 protein with itself and other member of the PROTEINT0 family include PROTEINT2 PROTEINT0 PROTEINT0 and PROTEINT0 be explore with a yeast two-hybrid system
+AIMed_d125@2	Interaction of the PROTEINT1 protein with itself and other member of the PROTEINT0 family include PROTEINT0 PROTEINT2 PROTEINT0 and PROTEINT0 be explore with a yeast two-hybrid system
+AIMed_d125@2	Interaction of the PROTEINT1 protein with itself and other member of the PROTEINT0 family include PROTEINT0 PROTEINT0 PROTEINT2 and PROTEINT0 be explore with a yeast two-hybrid system
+AIMed_d125@2	Interaction of the PROTEINT1 protein with itself and other member of the PROTEINT0 family include PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT2 be explore with a yeast two-hybrid system
+AIMed_d125@6	PROTEINT1 also interact with PROTEINT2 and PROTEINT0 and with the dominant inhibitor PROTEINT0 and PROTEINT0
+AIMed_d125@6	PROTEINT1 also interact with PROTEINT0 and PROTEINT2 and with the dominant inhibitor PROTEINT0 and PROTEINT0
+AIMed_d125@6	PROTEINT1 also interact with PROTEINT0 and PROTEINT0 and with the dominant inhibitor PROTEINT2 and PROTEINT0
+AIMed_d125@6	PROTEINT1 also interact with PROTEINT0 and PROTEINT0 and with the dominant inhibitor PROTEINT0 and PROTEINT2
+AIMed_d125@11	The finding suggest a model whereby PROTEINT0 and PROTEINT0 differentially regulate PROTEINT0 function and indicate that requirement for PROTEINT1 PROTEINT2 heterodimerization may be different from those for PROTEINT0 PROTEINT0 homodimerization
+AIMed_d125@11	The finding suggest a model whereby PROTEINT0 and PROTEINT0 differentially regulate PROTEINT0 function and indicate that requirement for PROTEINT0 PROTEINT0 heterodimerization may be different from those for PROTEINT1 PROTEINT2 homodimerization
+AIMed_d56@1	Cloning of PROTEINT1 a ligand for PROTEINT2 on human T cell
+AIMed_d56@7	Express in a murine myeloma PROTEINT1 be identify as a ligand for PROTEINT2 by bind to a soluble PROTEINT0 construct
+AIMed_d56@7	Express in a murine myeloma PROTEINT1 be identify as a ligand for PROTEINT0 by bind to a soluble PROTEINT2 construct
+AIMed_d159@2	The carboxy-terminal region of PROTEINT1 have previously be show to interact directly with PROTEINT2 a cytoplasmic component of the PROTEINT0 glycoprotein complex by in vitro biochemical study such as overlay assay or immunoprecipitation
+AIMed_d207@1	PROTEINT0 prevent PROTEINT1 PROTEINT2 contain PROTEINT0 complexe formation in terminally differentiate myocyte
+AIMed_d207@5	An PROTEINT0 complex contain mainly PROTEINT1 and PROTEINT2 PROTEINT0 PROTEINT0 G0/G1 complex appear when DNA synthesis arrest replace the PROTEINT0 PROTEINT0 contain PROTEINT0 complex of proliferate myoblast PROTEINT0 G1/S complex
+AIMed_d207@5	An PROTEINT0 complex contain mainly PROTEINT1 and PROTEINT0 PROTEINT2 PROTEINT0 G0/G1 complex appear when DNA synthesis arrest replace the PROTEINT0 PROTEINT0 contain PROTEINT0 complex of proliferate myoblast PROTEINT0 G1/S complex
+AIMed_d207@5	An PROTEINT0 complex contain mainly PROTEINT0 and PROTEINT0 PROTEINT0 PROTEINT0 G0/G1 complex appear when DNA synthesis arrest replace the PROTEINT1 PROTEINT2 contain PROTEINT0 complex of proliferate myoblast PROTEINT0 G1/S complex
+AIMed_d207@8	Thus during myogenic differentiation formation of PROTEINT1 and PROTEINT2 PROTEINT0 contain complex be an early event but not enough on its own to prevent the reactivation of DNA synthesis
+AIMed_d207@8	Thus during myogenic differentiation formation of PROTEINT1 and PROTEINT0 PROTEINT2 contain complex be an early event but not enough on its own to prevent the reactivation of DNA synthesis
+AIMed_d207@9	Use a subclone of C3H10T1/2 mouse fibroblast stably express PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 chimerae we find that estrogen direct PROTEINT0 activation prevent the reassociation of PROTEINT1 PROTEINT2 to the PROTEINT0 contain complex follow serum stimulation and this correlate with suppression of PROTEINT0 activity and the inability of cell to re-enter the cell cycle
+AIMed_d63@1	Coassociation of PROTEINT1 PROTEINT0 with PROTEINT2 on the surface of human T lymphocyte
+AIMed_d63@1	Coassociation of PROTEINT0 PROTEINT1 with PROTEINT2 on the surface of human T lymphocyte
+AIMed_d63@4	These finding strongly suggest that PROTEINT0 may be closely associate with the PROTEINT0 protein tyrosine phosphatase on T cell surface and further support the notion that the interaction of PROTEINT1 with PROTEINT2 result in enhance tyrosine kinase activity zeta chain phosphorylation and T cell activation
+AIMed_d110@5	PROTEINT1 be show to interact with the large subunit PROTEINT2 of human PROTEINT0 through its central region and with multiple activators--including PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 adenoviral PROTEINT0 and human immunodeficiency virus-type 1 PROTEINT0 proteins--through a distinct amino-terminal domain
+AIMed_d110@5	PROTEINT1 be show to interact with the large subunit PROTEINT0 of human PROTEINT0 through its central region and with multiple activators--including PROTEINT2 PROTEINT0 PROTEINT0 PROTEINT0 adenoviral PROTEINT0 and human immunodeficiency virus-type 1 PROTEINT0 proteins--through a distinct amino-terminal domain
+AIMed_d110@5	PROTEINT1 be show to interact with the large subunit PROTEINT0 of human PROTEINT0 through its central region and with multiple activators--including PROTEINT0 PROTEINT2 PROTEINT0 PROTEINT0 adenoviral PROTEINT0 and human immunodeficiency virus-type 1 PROTEINT0 proteins--through a distinct amino-terminal domain
+AIMed_d110@5	PROTEINT1 be show to interact with the large subunit PROTEINT0 of human PROTEINT0 through its central region and with multiple activators--including PROTEINT0 PROTEINT0 PROTEINT2 PROTEINT0 adenoviral PROTEINT0 and human immunodeficiency virus-type 1 PROTEINT0 proteins--through a distinct amino-terminal domain
+AIMed_d110@5	PROTEINT1 be show to interact with the large subunit PROTEINT0 of human PROTEINT0 through its central region and with multiple activators--including PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT2 adenoviral PROTEINT0 and human immunodeficiency virus-type 1 PROTEINT0 proteins--through a distinct amino-terminal domain
+AIMed_d110@5	PROTEINT1 be show to interact with the large subunit PROTEINT0 of human PROTEINT0 through its central region and with multiple activators--including PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 adenoviral PROTEINT2 and human immunodeficiency virus-type 1 PROTEINT0 proteins--through a distinct amino-terminal domain
+AIMed_d110@6	The PROTEINT1 interact region of PROTEINT2 be localized to its DNA-binding domain which be distinct from the glutamine-rich activation domain previously show to interact with Drosophila PROTEINT0
+AIMed_d110@6	The PROTEINT0 interact region of PROTEINT1 be localized to its DNA-binding domain which be distinct from the glutamine-rich activation domain previously show to interact with Drosophila PROTEINT2
+AIMed_d200@7	Use epitope-tagging interaction of PROTEINT1 basic-helix-loop-helix protein with the PROTEINT2 protein encode by this novel cDNA be confirm by immunoprecipitation experiment in COS7 cell
+AIMed_d200@11	A cDNA encode part of the PROTEINT1 protein sequence interact with the PROTEINT2 basic-helix-loop-helix only when fuse to a beta-galactosidase tag
+AIMed_d64@5	From Scatchard analysis the Kd: for binding of PROTEINT1 and PROTEINT0 to PROTEINT2 be estimate to 25 pM and 41 pM respectively
+AIMed_d64@5	From Scatchard analysis the Kd: for binding of PROTEINT0 and PROTEINT1 to PROTEINT2 be estimate to 25 pM and 41 pM respectively
+AIMed_d64@6	Thus PROTEINT1 encode a human FGF receptor with high affinity for both PROTEINT2 and PROTEINT0
+AIMed_d64@6	Thus PROTEINT1 encode a human FGF receptor with high affinity for both PROTEINT0 and PROTEINT2
+AIMed_d117@7	Here we show that PROTEINT1 bind to the PROTEINT2 PROTEINT0 which induce activin binding to the type I receptor kinase PROTEINT0 to form PROTEINT0 beta:beta
+AIMed_d117@7	Here we show that PROTEINT1 bind to the PROTEINT0 PROTEINT2 which induce activin binding to the type I receptor kinase PROTEINT0 to form PROTEINT0 beta:beta
+AIMed_d117@9	PROTEINT1 also bind to PROTEINT2 through its beta subunit compete with the binding of activin to PROTEINT0 but fail to form the PROTEINT0
+AIMed_d165@1	Interaction involve the human RNA polymerase II transcription/nucleotide excision repair complex PROTEINT0 the nucleotide excision repair protein PROTEINT1 and PROTEINT0 PROTEINT2
+AIMed_d165@8	Our analysis demonstrate that the PROTEINT1 PROTEINT2 PROTEINT0 and PROTEINT0 protein interact with each other
+AIMed_d165@9	PROTEINT1 protein interact with multiple subunit of PROTEINT0 and with PROTEINT2 protein
+AIMed_d119@1	Nuclear protein PROTEINT1 be a coactivator for the transcription factor PROTEINT2
+AIMed_d119@3	PROTEINT1 be activate through phosphorylation by PROTEINT2 PROTEINT0 but precisely how phosphorylation stimulate PROTEINT0 function be unknown
+AIMed_d119@3	PROTEINT1 be activate through phosphorylation by PROTEINT0 PROTEINT2 but precisely how phosphorylation stimulate PROTEINT0 function be unknown
+AIMed_d119@5	We have previously identify a nuclear protein of M r 265K PROTEINT1 that bind specifically to the PROTEINT0 phosphorylate form of PROTEINT2
+AIMed_d119@5	We have previously identify a nuclear protein of M r 265K PROTEINT0 that bind specifically to the PROTEINT1 phosphorylate form of PROTEINT2
+AIMed_d119@6	We have use fluorescence anisotropy measurement to define the equilibrium binding parameter of the PROTEINT1 PROTEINT2 interaction and report here that PROTEINT0 can activate transcription through a region in its carboxy terminus
+AIMed_d119@7	The activation domain of PROTEINT1 interact with the basal transcription factor PROTEINT0 through a domain that be conserve in the yeast coactivator PROTEINT2 ref 8
+AIMed_d119@8	Consistent with its role as a coactivator PROTEINT1 augment the activity of phosphorylate PROTEINT2 to activate transcription of cAMP-responsive gene
+AIMed_d209@2	Human PROTEINT1 be first characterize as a PROTEINT0 PROTEINT2 binding protein base on the property of its carboxyl-terminal domain
+AIMed_d209@3	We now show that full-length PROTEINT1 interact with activate PROTEINT2 in mammalian cell and define a minimum region of 434 aa require for efficient PROTEINT0 binding
+AIMed_d209@4	PROTEINT1 interact with the effector domain of PROTEINT2 and employ some PROTEINT0 determinant that be common to and other that be distinct from those require for the binding of PROTEINT0 a known PROTEINT0 effector
+AIMed_d209@4	PROTEINT0 interact with the effector domain of PROTEINT0 and employ some PROTEINT0 determinant that be common to and other that be distinct from those require for the binding of PROTEINT1 a known PROTEINT2 effector
+AIMed_d209@5	The same domain of PROTEINT1 that bind PROTEINT2 also interact with 14-3-3 protein extend the similarity between PROTEINT0 and other PROTEINT0 effector
+AIMed_d209@6	When express in mammalian cell the PROTEINT1 binding domain of PROTEINT2 can act as a dominant negative signal transduction blocker
+AIMed_d209@8	This PROTEINT1 sequence show preferential binding to the PROTEINT2 domain in vitro
+AIMed_d209@9	Moreover the amino-terminal domain of PROTEINT1 directly associate with and be tyrosine phosphorylate by PROTEINT2
+AIMed_d162@7	We find that the human PROTEINT1 PROTEINT0 physically interact with PROTEINT2 via its DNA binding domain
+AIMed_d162@7	We find that the human PROTEINT0 PROTEINT1 physically interact with PROTEINT2 via its DNA binding domain
+AIMed_d162@8	As a result of this physical interaction binding of PROTEINT1 to its hormone response element either as homodimer or as a heterodimer with the PROTEINT2 be inhibit by PROTEINT0 in a concentration-dependent manner
+AIMed_d162@9	In transfecte cell wild-type PROTEINT1 repress the hormone-dependent transcriptional activation of PROTEINT2
+AIMed_d218@3	We seek to characterize how PROTEINT1 bind and activate its receptor PROTEINT2
+AIMed_d173@8	PROTEINT0 protein fuse to the Drosophila protein PROTEINT0 PROTEINT0 PROTEINT0 fail to interact with the PROTEINT0 fragment fuse to PROTEINT0 indicate that the observe PROTEINT1 PROTEINT2 interaction be specific
+AIMed_d174@2	The high affinity PROTEINT0 PROTEINT0 signaling complex consist of PROTEINT1 and two membrane-associated receptor component a low affinity but specific PROTEINT0 PROTEINT2 and the affinity converter/signal transduce protein PROTEINT0
+AIMed_d174@3	Monomeric PROTEINT0 and dimeric PROTEINT0 form of Escherichia coli-derived human PROTEINT0 and the extracellular soluble portion of the PROTEINT1 PROTEINT0 PROTEINT2 and PROTEINT0 have be purify in order to investigate the effect of PROTEINT0 dimerization on binding to the receptor complex
+AIMed_d174@4	Although PROTEINT1 have a high binding affinity for immobilize PROTEINT2 as determine by biosensor analysis employ surface plasmon resonance detection PROTEINT0 be more potent than PROTEINT0 in a STAT3 phosphorylation assay
+AIMed_d174@6	The increase binding affinity of PROTEINT1 appear to be due to its ability to cross-link two PROTEINT2 molecule on the biosensor surface
+AIMed_d174@7	Study of the PROTEINT0 ternary complex formation demonstrate that the reduce biological potency of PROTEINT0 result from a decrease ability of the PROTEINT1 PROTEINT2 2 complex to couple with the soluble portion of PROTEINT0
+AIMed_d174@8	These datum imply that PROTEINT0 induce dimerization of PROTEINT0 be not the drive force in promote formation of the hexameric PROTEINT1 PROTEINT2 PROTEINT0 2 complex
+AIMed_d174@9	A model be present whereby the trimeric complex of PROTEINT1 PROTEINT2 and PROTEINT0 form before the functional hexamer
+AIMed_d174@10	Due to its increase affinity for the PROTEINT1 but its decrease ability to couple with PROTEINT0 we suggest that a stable PROTEINT2 dimer may be an efficient PROTEINT0 antagonist
+AIMed_d174@10	Due to its increase affinity for the PROTEINT0 but its decrease ability to couple with PROTEINT1 we suggest that a stable PROTEINT2 dimer may be an efficient PROTEINT0 antagonist
+AIMed_d108@1	PROTEINT1 transcriptional activation mediate by coactivator PROTEINT2 and PROTEINT0
+AIMed_d108@1	PROTEINT1 transcriptional activation mediate by coactivator PROTEINT0 and PROTEINT2
+AIMed_d108@4	Here a direct interaction between the activation domain of PROTEINT1 and two subunit of the PROTEINT0 complex PROTEINT2 and PROTEINT0 be report
+AIMed_d108@4	Here a direct interaction between the activation domain of PROTEINT1 and two subunit of the PROTEINT0 complex PROTEINT0 and PROTEINT2 be report
+AIMed_d108@5	A double point mutation in the activation domain of PROTEINT1 impair the ability of this domain to activate transcription and simultaneously its ability to interact with both PROTEINT2 and PROTEINT0
+AIMed_d108@5	A double point mutation in the activation domain of PROTEINT1 impair the ability of this domain to activate transcription and simultaneously its ability to interact with both PROTEINT0 and PROTEINT2
+AIMed_d108@7	Together these result suggest that PROTEINT1 and PROTEINT0 be important target for transmit activation signal between PROTEINT2 and the initiation complex
+AIMed_d108@7	Together these result suggest that PROTEINT0 and PROTEINT1 be important target for transmit activation signal between PROTEINT2 and the initiation complex
+AIMed_d106@1	PROTEINT1 interaction with PROTEINT2 tie mitogenic signal transduction to cell cycle activation
+AIMed_d106@4	We show here that PROTEINT1 associate with PROTEINT2 in somatic mammalian cell and in meiotic frog oocyte
+AIMed_d106@5	Furthermore PROTEINT1 can be activate in vitro in a PROTEINT2 dependent manner
+AIMed_d211@7	Recombinant PROTEINT1 induce the tyrosine-phosphorylation of PROTEINT2 PROTEINT0 and PROTEINT0 in cell line express all of these ErbB-family receptor
+AIMed_d211@7	Recombinant PROTEINT1 induce the tyrosine-phosphorylation of PROTEINT0 PROTEINT2 and PROTEINT0 in cell line express all of these ErbB-family receptor
+AIMed_d211@7	Recombinant PROTEINT1 induce the tyrosine-phosphorylation of PROTEINT0 PROTEINT0 and PROTEINT2 in cell line express all of these ErbB-family receptor
+AIMed_d211@8	However in cell line with define combination of ErbB PROTEINT1 only activate those with PROTEINT2 and/or PROTEINT0 suggest that signalling by PROTEINT0 be mediate by PROTEINT0 and/or PROTEINT0 receptor
+AIMed_d211@8	However in cell line with define combination of ErbB PROTEINT1 only activate those with PROTEINT0 and/or PROTEINT2 suggest that signalling by PROTEINT0 be mediate by PROTEINT0 and/or PROTEINT0 receptor
+AIMed_d101@1	The bZIP domain of PROTEINT1 and PROTEINT0 mediate a physical association with the PROTEINT2
+AIMed_d101@1	The bZIP domain of PROTEINT0 and PROTEINT1 mediate a physical association with the PROTEINT2
+AIMed_d101@2	PROTEINT1 and PROTEINT2 oncoprotein form a complex that regulate transcription from promoter contain AP-1 binding site
+AIMed_d101@4	The ability of PROTEINT1 and PROTEINT0 protein to interact directly with the PROTEINT2 PROTEINT0 the general transcription factor require for initiate the assembly of transcription complex be investigate
+AIMed_d101@4	The ability of PROTEINT1 and PROTEINT0 protein to interact directly with the PROTEINT0 PROTEINT2 the general transcription factor require for initiate the assembly of transcription complex be investigate
+AIMed_d101@4	The ability of PROTEINT0 and PROTEINT1 protein to interact directly with the PROTEINT2 PROTEINT0 the general transcription factor require for initiate the assembly of transcription complex be investigate
+AIMed_d101@4	The ability of PROTEINT0 and PROTEINT1 protein to interact directly with the PROTEINT0 PROTEINT2 the general transcription factor require for initiate the assembly of transcription complex be investigate
+AIMed_d101@5	Use co-immunoprecipitation and protein-protein association assay we show that both PROTEINT1 and PROTEINT0 bind specifically and stably to PROTEINT2 Mutational analysis demonstrate that both the basic region and leucine zipper domain of PROTEINT0 and PROTEINT0 be necessary and sufficient for stable association with PROTEINT0
+AIMed_d101@5	Use co-immunoprecipitation and protein-protein association assay we show that both PROTEINT0 and PROTEINT1 bind specifically and stably to PROTEINT2 Mutational analysis demonstrate that both the basic region and leucine zipper domain of PROTEINT0 and PROTEINT0 be necessary and sufficient for stable association with PROTEINT0
+AIMed_d101@5	Use co-immunoprecipitation and protein-protein association assay we show that both PROTEINT0 and PROTEINT0 bind specifically and stably to PROTEINT0 Mutational analysis demonstrate that both the basic region and leucine zipper domain of PROTEINT1 and PROTEINT0 be necessary and sufficient for stable association with PROTEINT2
+AIMed_d101@5	Use co-immunoprecipitation and protein-protein association assay we show that both PROTEINT0 and PROTEINT0 bind specifically and stably to PROTEINT0 Mutational analysis demonstrate that both the basic region and leucine zipper domain of PROTEINT0 and PROTEINT1 be necessary and sufficient for stable association with PROTEINT2
+AIMed_d101@6	A 51-residue region from the conserve C-terminal region of PROTEINT1 previously show to be the bind site for the viral activator protein PROTEINT2 interact with PROTEINT0 and PROTEINT0 protein
+AIMed_d101@6	A 51-residue region from the conserve C-terminal region of PROTEINT1 previously show to be the bind site for the viral activator protein PROTEINT0 interact with PROTEINT2 and PROTEINT0 protein
+AIMed_d101@6	A 51-residue region from the conserve C-terminal region of PROTEINT1 previously show to be the bind site for the viral activator protein PROTEINT0 interact with PROTEINT0 and PROTEINT2 protein
+AIMed_d101@7	We propose that PROTEINT1 and PROTEINT0 protein function as transcriptional activator in part by recruit PROTEINT2 to form complex to initiate RNA synthesis
+AIMed_d101@7	We propose that PROTEINT0 and PROTEINT1 protein function as transcriptional activator in part by recruit PROTEINT2 to form complex to initiate RNA synthesis
+AIMed_d216@1	The PROTEINT1 PROTEINT2 complex structural basis for GTPase activation and its loss in oncogenic PROTEINT0 mutant
+AIMed_d216@2	The three-dimensional structure of the complex between human PROTEINT1 bind to guanosine diphosphate and the guanosine triphosphatase GTPase activate domain of the human PROTEINT0 PROTEINT2 PROTEINT0 in the presence of aluminum fluoride be solve at a resolution of 2.5 angstrom
+AIMed_d216@2	The three-dimensional structure of the complex between human PROTEINT1 bind to guanosine diphosphate and the guanosine triphosphatase GTPase activate domain of the human PROTEINT0 PROTEINT0 PROTEINT2 in the presence of aluminum fluoride be solve at a resolution of 2.5 angstrom
+AIMed_d216@5	The switch II region of PROTEINT1 be stabilize by PROTEINT2 thus allow glutamine-61 of PROTEINT0 mutation of which activate the oncogenic potential to participate in catalysis
+AIMed_d72@7	Two line of evidence support the notion that PROTEINT1 and PROTEINT0 have homologous PROTEINT2 bind property first several mutate PROTEINT0 protein that fail to bind to T also do not associate with PROTEINT0 and second both T antigen and T peptide amino acid 101-118 be able to compete with PROTEINT0 for binding to PROTEINT0
+AIMed_d72@7	Two line of evidence support the notion that PROTEINT0 and PROTEINT1 have homologous PROTEINT2 bind property first several mutate PROTEINT0 protein that fail to bind to T also do not associate with PROTEINT0 and second both T antigen and T peptide amino acid 101-118 be able to compete with PROTEINT0 for binding to PROTEINT0
+AIMed_d72@8	The apparent targeting of the PROTEINT1 PROTEINT2 interaction by oncoprotein of DNA tumour virus strongly suggest that formation of this complex be functionally important
+AIMed_d47@1	Crystal structure of the PROTEINT1 PROTEINT2 ectodomain complex
+AIMed_d47@5	Here we report the crystal structure of human dimeric PROTEINT1 in complex with two high affinity PROTEINT0 PROTEINT2 s PROTEINT0
+AIMed_d47@5	Here we report the crystal structure of human dimeric PROTEINT1 in complex with two high affinity PROTEINT0 PROTEINT0 s PROTEINT2
+AIMed_d223@1	Interaction between cell cycle regulator PROTEINT1 and PROTEINT2 mediate repression of HIV-1 gene transcription
+AIMed_d223@3	Some of these extracellular stimulus arrest cell in the G1 phase of the mitotic division cycle and modulate the activity of the tumor suppressor protein PROTEINT1 and its partner PROTEINT2
+AIMed_d223@5	Here we demonstrate that PROTEINT1 may regulate the activity of the HIV-1 long terminal repeat through its ability to bind sequence in the PROTEINT0 enhancer region and to interact with the PROTEINT2 subunit PROTEINT0
+AIMed_d223@5	Here we demonstrate that PROTEINT1 may regulate the activity of the HIV-1 long terminal repeat through its ability to bind sequence in the PROTEINT0 enhancer region and to interact with the PROTEINT0 subunit PROTEINT2
+AIMed_d223@8	Affinity chromatography and co-immunoprecipitation assay provide evidence for direct interaction of PROTEINT1 and PROTEINT2 in the absence of their DNA target sequence
+AIMed_d223@11	The result of this study suggest that PROTEINT1 activity may be regulate by its interaction with the cell cycle regulatory protein PROTEINT2
+AIMed_d134@1	PROTEINT1 be a ligand for the PROTEINT2 PROTEINT0 receptor protein-tyrosine kinase
+AIMed_d134@5	We report here that recombinant PROTEINT1 induce autophosphorylation of PROTEINT2 in intact cell consistent with PROTEINT0 be an authentic ligand for PROTEINT0
+AIMed_d134@5	We report here that recombinant PROTEINT0 induce autophosphorylation of PROTEINT0 in intact cell consistent with PROTEINT1 be an authentic ligand for PROTEINT2
+AIMed_d96@3	It bind homophilically i.e PROTEINT1 on the surface of one cell bind to PROTEINT2 on an appose cell and the bind site lie within the immunoglobulin domain
+AIMed_d96@6	In this article we demonstrate that PROTEINT1 associate with a complex contain PROTEINT0 and PROTEINT2 in mink lung MvLu cell and in rat heart lung and brain tissue
+AIMed_d96@8	In vitro binding study demonstrate that the intracellular segment of PROTEINT1 bind directly to the intracellular domain of PROTEINT2 but not to alpha or PROTEINT0
+AIMed_d199@7	Activate PROTEINT1 predominantly interact with PROTEINT2
+AIMed_d199@19	PROTEINT0 and PROTEINT1 PROTEINT2
+AIMed_d148@1	Two potentially oncogenic cyclin PROTEINT1 and PROTEINT0 share common property of subunit configuration tyrosine phosphorylation and physical association with the PROTEINT2 protein
+AIMed_d148@1	Two potentially oncogenic cyclin PROTEINT0 and PROTEINT1 share common property of subunit configuration tyrosine phosphorylation and physical association with the PROTEINT2 protein
+AIMed_d148@7	Moreover PROTEINT1 be find to be phosphorylate on tyrosine residue in vivo and like PROTEINT0 be readily phosphorylate by PROTEINT2 in vitro
+AIMed_d148@7	Moreover PROTEINT0 be find to be phosphorylate on tyrosine residue in vivo and like PROTEINT1 be readily phosphorylate by PROTEINT2 in vitro
+AIMed_d148@8	In synchronize human osteosarcoma cell PROTEINT1 be induce in early G1 and become associate with PROTEINT2 a Cdk-binding subunit
+AIMed_d148@9	Immunoprecipitation experiment with human osteosarcoma cell and Ewing's sarcoma cell demonstrate that PROTEINT1 be associate with both PROTEINT2 and PROTEINT0 and that PROTEINT0 immune complex exhibit appreciable histone H1 kinase activity
+AIMed_d148@9	Immunoprecipitation experiment with human osteosarcoma cell and Ewing's sarcoma cell demonstrate that PROTEINT1 be associate with both PROTEINT0 and PROTEINT2 and that PROTEINT0 immune complex exhibit appreciable histone H1 kinase activity
+AIMed_d40@4	We have crystallize a complex between human PROTEINT1 and a two-domain extracellular fragment of human PROTEINT2
+AIMed_d224@6	Further study on the interaction of PROTEINT0 with molecule in the endoplasmic reticulum reveal that PROTEINT1 associate with the PROTEINT2 PROTEINT0 and PROTEINT0 and that PROTEINT0 expression be PROTEINT0 dependent and tapasin-dependent
+AIMed_d224@6	Further study on the interaction of PROTEINT0 with molecule in the endoplasmic reticulum reveal that PROTEINT1 associate with the PROTEINT0 PROTEINT2 and PROTEINT0 and that PROTEINT0 expression be PROTEINT0 dependent and tapasin-dependent
+AIMed_d224@6	Further study on the interaction of PROTEINT0 with molecule in the endoplasmic reticulum reveal that PROTEINT1 associate with the PROTEINT0 PROTEINT0 and PROTEINT2 and that PROTEINT0 expression be PROTEINT0 dependent and tapasin-dependent
+AIMed_d224@7	In addition PROTEINT1 dissociate from PROTEINT2 upon binding of MHC class I leader sequence peptide
+AIMed_d133@1	PROTEINT1 a protein kinase stimulate by UV light and PROTEINT0 that bind and phosphorylate the PROTEINT2 activation domain
+AIMed_d133@5	Significantly PROTEINT1 partially activate PROTEINT2 and potentiate the activation cause by UV
+AIMed_d133@6	PROTEINT1 bind to the PROTEINT2 transactivation domain and phosphorylate it on Ser-63 and Ser-73
+AIMed_d91@6	In vitro protein-protein interaction assay reveal that as observe with Drosophila PROTEINT0 PROTEINT1 interact with the C-terminal 39-amino acid activation domain of the acidic transactivator PROTEINT2 PROTEINT0 as well as with the general transcription factor PROTEINT0
+AIMed_d91@6	In vitro protein-protein interaction assay reveal that as observe with Drosophila PROTEINT0 PROTEINT1 interact with the C-terminal 39-amino acid activation domain of the acidic transactivator PROTEINT0 PROTEINT2 as well as with the general transcription factor PROTEINT0
+AIMed_d91@6	In vitro protein-protein interaction assay reveal that as observe with Drosophila PROTEINT0 PROTEINT1 interact with the C-terminal 39-amino acid activation domain of the acidic transactivator PROTEINT0 PROTEINT0 as well as with the general transcription factor PROTEINT2
+AIMed_d32@1	Shared and unique determinant of the PROTEINT0 PROTEINT1 PROTEINT0 be important for bind PROTEINT2 and PROTEINT0 PROTEINT0 mimetic peptide
+AIMed_d32@2	We have show previously that Phe93 in the extracellular domain of the PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT2 be crucial for bind PROTEINT0 Substitution of Phe93 with alanine result in a dramatic decrease in PROTEINT0 binding to the Escherichia coli-expressed extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT0 or PROTEINT0 and no detectable binding to full-length mutant receptor express in COS cell
+AIMed_d32@2	We have show previously that Phe93 in the extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT2 be crucial for bind PROTEINT0 Substitution of Phe93 with alanine result in a dramatic decrease in PROTEINT0 binding to the Escherichia coli-expressed extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT0 or PROTEINT0 and no detectable binding to full-length mutant receptor express in COS cell
+AIMed_d32@2	We have show previously that Phe93 in the extracellular domain of the PROTEINT0 PROTEINT1 PROTEINT0 PROTEINT0 be crucial for bind PROTEINT2 Substitution of Phe93 with alanine result in a dramatic decrease in PROTEINT0 binding to the Escherichia coli-expressed extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT0 or PROTEINT0 and no detectable binding to full-length mutant receptor express in COS cell
+AIMed_d32@2	We have show previously that Phe93 in the extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT1 be crucial for bind PROTEINT2 Substitution of Phe93 with alanine result in a dramatic decrease in PROTEINT0 binding to the Escherichia coli-expressed extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT0 or PROTEINT0 and no detectable binding to full-length mutant receptor express in COS cell
+AIMed_d32@2	We have show previously that Phe93 in the extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 be crucial for bind PROTEINT0 Substitution of Phe93 with alanine result in a dramatic decrease in PROTEINT1 binding to the Escherichia coli-expressed extracellular domain of the PROTEINT2 PROTEINT0 PROTEINT0 or PROTEINT0 and no detectable binding to full-length mutant receptor express in COS cell
+AIMed_d32@2	We have show previously that Phe93 in the extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 be crucial for bind PROTEINT0 Substitution of Phe93 with alanine result in a dramatic decrease in PROTEINT1 binding to the Escherichia coli-expressed extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT2 or PROTEINT0 and no detectable binding to full-length mutant receptor express in COS cell
+AIMed_d32@2	We have show previously that Phe93 in the extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 be crucial for bind PROTEINT0 Substitution of Phe93 with alanine result in a dramatic decrease in PROTEINT1 binding to the Escherichia coli-expressed extracellular domain of the PROTEINT0 PROTEINT0 PROTEINT0 or PROTEINT2 and no detectable binding to full-length mutant receptor express in COS cell
+AIMed_d32@3	Remarkably Phe93 form extensive contact with a peptide ligand in the crystal structure of the PROTEINT1 bind to an PROTEINT0 PROTEINT0 PROTEINT2 suggest that Phe93 be also important for PROTEINT0 binding
+AIMed_d32@3	Remarkably Phe93 form extensive contact with a peptide ligand in the crystal structure of the PROTEINT1 bind to an PROTEINT0 PROTEINT0 PROTEINT0 suggest that Phe93 be also important for PROTEINT2 binding
+AIMed_d32@4	We use alanine substitution of PROTEINT1 residue that contact PROTEINT2 in the crystal structure to investigate the function of these residue in both PROTEINT0 and PROTEINT0 binding
+AIMed_d32@4	We use alanine substitution of PROTEINT1 residue that contact PROTEINT0 in the crystal structure to investigate the function of these residue in both PROTEINT2 and PROTEINT0 binding
+AIMed_d32@4	We use alanine substitution of PROTEINT1 residue that contact PROTEINT0 in the crystal structure to investigate the function of these residue in both PROTEINT0 and PROTEINT2 binding
+AIMed_d32@7	Thus Phe93 and Phe205 be important binding determinant for both PROTEINT1 and PROTEINT0 even though these ligand share no sequence or structural homology suggest that these residue may represent a minimum epitope on the PROTEINT2 for productive ligand binding
+AIMed_d32@7	Thus Phe93 and Phe205 be important binding determinant for both PROTEINT0 and PROTEINT1 even though these ligand share no sequence or structural homology suggest that these residue may represent a minimum epitope on the PROTEINT2 for productive ligand binding
+AIMed_d190@1	Discrete protein interaction with the PROTEINT1 PROTEINT2 complex in PROTEINT0 and PROTEINT0 mediate myeloid cell proliferation
+AIMed_d190@3	In the present study we evaluate tyrosine phosphorylation of PROTEINT0 and the interaction of the PROTEINT1 PROTEINT2 complex with signaling protein upon activation of non-tyrosine PROTEINT0 and tyrosine kinase PROTEINT0 receptor lead to myeloid cell proliferation
+AIMed_d190@4	By use the growth factor dependent M-07e cell line we find that both PROTEINT0 and PROTEINT0 ligand namely PROTEINT1 and PROTEINT0 induce PROTEINT2 tyrosine phosphorylation
+AIMed_d190@4	By use the growth factor dependent M-07e cell line we find that both PROTEINT0 and PROTEINT0 ligand namely PROTEINT0 and PROTEINT1 induce PROTEINT2 tyrosine phosphorylation
+AIMed_d190@5	In these cell the adaptor protein PROTEINT1 constitutively bind a substantial fraction of PROTEINT2 through the N-terminal SH3 domain
+AIMed_d190@6	In vitro experiment show that the stable PROTEINT1 PROTEINT2 complex interact through the PROTEINT0 SH2 domain with the PROTEINT0 activate PROTEINT0
+AIMed_d190@6	In vitro experiment show that the stable PROTEINT0 PROTEINT0 complex interact through the PROTEINT1 SH2 domain with the PROTEINT0 activate PROTEINT2
+AIMed_d190@6	In vitro experiment show that the stable PROTEINT0 PROTEINT0 complex interact through the PROTEINT0 SH2 domain with the PROTEINT1 activate PROTEINT2
+AIMed_d190@7	By contrast stimulation with PROTEINT0 lead to the formation of a PROTEINT1 complex contain PROTEINT2
+AIMed_d190@8	In vitro and in vivo experiment support the hypothesis that PROTEINT0 mediate the association of PROTEINT1 with PROTEINT2
+AIMed_d190@9	Moreover we find that upon PROTEINT0 stimulation the PROTEINT1 PROTEINT2 complex recruit PROTEINT0 probably via PROTEINT0
+AIMed_d190@9	Moreover we find that upon PROTEINT0 stimulation the PROTEINT0 PROTEINT0 complex recruit PROTEINT1 probably via PROTEINT2
+AIMed_d190@10	By contrast the PROTEINT1 exchanger factor PROTEINT2 be not detect in PROTEINT0 immunoprecipitate suggest that PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 be present in different complex
+AIMed_d190@11	Take together our result demonstrate that PROTEINT0 play an important role in couple both tyrosine and non-tyrosine kinase receptor to downstream effector molecule and that different signaling molecule interact with PROTEINT1 PROTEINT2 complex when non-tyrosine or tyrosine kinase receptor be activate
+AIMed_d141@5	PROTEINT0 be a potent tight-binding inhibitor of Cdk and can inhibit the phosphorylation of PROTEINT0 by PROTEINT1 PROTEINT2 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 complex
+AIMed_d141@5	PROTEINT0 be a potent tight-binding inhibitor of Cdk and can inhibit the phosphorylation of PROTEINT0 by PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT2 PROTEINT0 PROTEINT0 and PROTEINT0 PROTEINT0 complex
+AIMed_d141@5	PROTEINT0 be a potent tight-binding inhibitor of Cdk and can inhibit the phosphorylation of PROTEINT0 by PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT2 and PROTEINT0 PROTEINT0 complex
+AIMed_d141@5	PROTEINT0 be a potent tight-binding inhibitor of Cdk and can inhibit the phosphorylation of PROTEINT0 by PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT1 PROTEINT2 complex
+AIMed_d49@4	PROTEINT1 recognize one FGFR isoform know as the PROTEINT2 isoform or PROTEINT0 PROTEINT0 PROTEINT0 whereas PROTEINT0 bind well to PROTEINT0 PROTEINT0 and PROTEINT0 but interact poorly with PROTEINT0
+AIMed_d49@4	PROTEINT1 recognize one FGFR isoform know as the PROTEINT0 isoform or PROTEINT0 PROTEINT2 PROTEINT0 whereas PROTEINT0 bind well to PROTEINT0 PROTEINT0 and PROTEINT0 but interact poorly with PROTEINT0
+AIMed_d49@4	PROTEINT1 recognize one FGFR isoform know as the PROTEINT0 isoform or PROTEINT0 PROTEINT0 PROTEINT2 whereas PROTEINT0 bind well to PROTEINT0 PROTEINT0 and PROTEINT0 but interact poorly with PROTEINT0
+AIMed_d49@4	PROTEINT0 recognize one FGFR isoform know as the PROTEINT0 isoform or PROTEINT0 PROTEINT0 PROTEINT0 whereas PROTEINT1 bind well to PROTEINT2 PROTEINT0 and PROTEINT0 but interact poorly with PROTEINT0
+AIMed_d49@4	PROTEINT0 recognize one FGFR isoform know as the PROTEINT0 isoform or PROTEINT0 PROTEINT0 PROTEINT0 whereas PROTEINT1 bind well to PROTEINT0 PROTEINT2 and PROTEINT0 but interact poorly with PROTEINT0
+AIMed_d49@4	PROTEINT0 recognize one FGFR isoform know as the PROTEINT0 isoform or PROTEINT0 PROTEINT0 PROTEINT0 whereas PROTEINT1 bind well to PROTEINT0 PROTEINT0 and PROTEINT2 but interact poorly with PROTEINT0
+AIMed_d49@4	PROTEINT0 recognize one FGFR isoform know as the PROTEINT0 isoform or PROTEINT0 PROTEINT0 PROTEINT0 whereas PROTEINT1 bind well to PROTEINT0 PROTEINT0 and PROTEINT0 but interact poorly with PROTEINT2
+AIMed_d49@6	PROTEINT1 contain this primary site as well as a region that restrict interaction with PROTEINT2
+AIMed_d49@7	The sequence that confer on PROTEINT1 its specific binding to PROTEINT2 have not be identify
+AIMed_d49@8	By utilize domain swapping and site-directed mutagenesis we have find that the loop connect the beta4-beta5 strand of PROTEINT1 contribute to high affinity receptor binding and be critical for PROTEINT2 recognition
+AIMed_d49@9	Replacement of this loop with the homologous loop from PROTEINT0 dramatically reduce both the affinity of PROTEINT1 for PROTEINT2 and its biological potency but do not result in the ability to bind PROTEINT0
+AIMed_d49@11	The reciprocal loop replacement mutant PROTEINT0 L4/7 retain PROTEINT1 like affinity for PROTEINT2 and for PROTEINT0
+AIMed_d49@11	The reciprocal loop replacement mutant PROTEINT0 L4/7 retain PROTEINT1 like affinity for PROTEINT0 and for PROTEINT2
+AIMed_d98@8	PROTEINT1 which be know to bind 14-3-3 protein have recently be show to associate with PROTEINT2 and to stimulate its phosphatase activity
+AIMed_d98@10	Instead 14-3-3 may facilitate the association of PROTEINT1 with PROTEINT2 in vivo participate in the linkage between mitogenic signaling and the cell cycle machinery
+AIMed_d35@9	Cell surface PROTEINT1 form complex in vivo with actin-binding protein PROTEINT2 PROTEINT0 which be know to form bridge between cell surface receptor and cytoskeleton and mediate cell adhesion and cell motility
+AIMed_d35@9	Cell surface PROTEINT1 form complex in vivo with actin-binding protein PROTEINT0 PROTEINT2 which be know to form bridge between cell surface receptor and cytoskeleton and mediate cell adhesion and cell motility
+AIMed_d197@1	Analysis of the human PROTEINT1 human PROTEINT2 PROTEINT0 receptor binding interface at the amino acid level propose mechanism of interaction
+AIMed_d197@2	The interaction between PROTEINT1 PROTEINT0 and PROTEINT0 PROTEINT2 PROTEINT0 be the initial and most specific step in the PROTEINT0 signaling pathway
+AIMed_d197@2	The interaction between PROTEINT1 PROTEINT0 and PROTEINT0 PROTEINT0 PROTEINT2 be the initial and most specific step in the PROTEINT0 signaling pathway
+AIMed_d197@2	The interaction between PROTEINT0 PROTEINT1 and PROTEINT0 PROTEINT2 PROTEINT0 be the initial and most specific step in the PROTEINT0 signaling pathway
+AIMed_d197@2	The interaction between PROTEINT0 PROTEINT0 and PROTEINT1 PROTEINT0 PROTEINT2 be the initial and most specific step in the PROTEINT0 signaling pathway
+AIMed_d197@4	We study the human PROTEINT1 PROTEINT0 PROTEINT2 binding interface by a combination of molecular modelling and site-directed mutagenesis
+AIMed_d197@4	We study the human PROTEINT0 PROTEINT1 PROTEINT2 binding interface by a combination of molecular modelling and site-directed mutagenesis
+AIMed_d197@7	Follow this hypothesis we alter in PROTEINT1 and PROTEINT2 residue predict to reside in the contact region and to interact with each other
+AIMed_d197@8	We study the capacity of these mutant to form an PROTEINT1 PROTEINT2 complex and their ability to transduce the signal
+AIMed_d208@7	The cloning of member of these gene family and the identification of the protein-interaction motif find within their gene product have initiate the molecular identity of factor PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and TRAF associate with both of the PROTEINT2 and PROTEINT0 form of the TNF receptor and with other member of the TNF receptor superfamily
+AIMed_d208@7	The cloning of member of these gene family and the identification of the protein-interaction motif find within their gene product have initiate the molecular identity of factor PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and TRAF associate with both of the PROTEINT0 and PROTEINT2 form of the TNF receptor and with other member of the TNF receptor superfamily
+AIMed_d208@7	The cloning of member of these gene family and the identification of the protein-interaction motif find within their gene product have initiate the molecular identity of factor PROTEINT0 PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 and TRAF associate with both of the PROTEINT2 and PROTEINT0 form of the TNF receptor and with other member of the TNF receptor superfamily
+AIMed_d208@7	The cloning of member of these gene family and the identification of the protein-interaction motif find within their gene product have initiate the molecular identity of factor PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT0 and TRAF associate with both of the PROTEINT2 and PROTEINT0 form of the TNF receptor and with other member of the TNF receptor superfamily
+AIMed_d208@7	The cloning of member of these gene family and the identification of the protein-interaction motif find within their gene product have initiate the molecular identity of factor PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT0 and TRAF associate with both of the PROTEINT0 and PROTEINT2 form of the TNF receptor and with other member of the TNF receptor superfamily
+AIMed_d208@7	The cloning of member of these gene family and the identification of the protein-interaction motif find within their gene product have initiate the molecular identity of factor PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT0 and TRAF associate with both of the PROTEINT2 and PROTEINT0 form of the TNF receptor and with other member of the TNF receptor superfamily
+AIMed_d208@7	The cloning of member of these gene family and the identification of the protein-interaction motif find within their gene product have initiate the molecular identity of factor PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT0 and TRAF associate with both of the PROTEINT0 and PROTEINT2 form of the TNF receptor and with other member of the TNF receptor superfamily
+AIMed_d208@7	The cloning of member of these gene family and the identification of the protein-interaction motif find within their gene product have initiate the molecular identity of factor PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT1 and TRAF associate with both of the PROTEINT2 and PROTEINT0 form of the TNF receptor and with other member of the TNF receptor superfamily
+AIMed_d208@7	The cloning of member of these gene family and the identification of the protein-interaction motif find within their gene product have initiate the molecular identity of factor PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT1 and TRAF associate with both of the PROTEINT0 and PROTEINT2 form of the TNF receptor and with other member of the TNF receptor superfamily
+AIMed_d163@3	A protein PROTEINT1 PROTEINT0 be identify in a human cell line that bind to a region of the PROTEINT2 PROTEINT0 contain the lysosomal target code
+AIMed_d163@3	A protein PROTEINT1 PROTEINT0 be identify in a human cell line that bind to a region of the PROTEINT0 PROTEINT2 contain the lysosomal target code
+AIMed_d163@3	A protein PROTEINT0 PROTEINT1 be identify in a human cell line that bind to a region of the PROTEINT2 PROTEINT0 contain the lysosomal target code
+AIMed_d163@3	A protein PROTEINT0 PROTEINT1 be identify in a human cell line that bind to a region of the PROTEINT0 PROTEINT2 contain the lysosomal target code
+AIMed_d164@2	The splicing factor U2AF U2 snRNP auxiliary factor be a heterodimer with subunit of 65 and 35 kD PROTEINT1 and PROTEINT2
+AIMed_d118@1	The PROTEINT1 inhibitor of cyclin-dependent kinase control DNA replication by interaction with PROTEINT2
+AIMed_d118@4	In normal human cell but not in many tumour cell PROTEINT1 exist in a quaternary complex with a cyclin a CDK and the PROTEINT2 PROTEINT0
+AIMed_d118@4	In normal human cell but not in many tumour cell PROTEINT1 exist in a quaternary complex with a cyclin a CDK and the PROTEINT0 PROTEINT2
+AIMed_d118@6	Here we use simian virus 40 DNA replication in vitro to show than PROTEINT1 directly inhibit PROTEINT2 dependent DNA replication in the absence of a cyclin/CDK
+AIMed_d118@7	Furthermore PROTEINT1 block the ability of PROTEINT2 to activate PROTEINT0 the principal replicative DNA polymerase
+AIMed_d118@7	Furthermore PROTEINT0 block the ability of PROTEINT1 to activate PROTEINT2 the principal replicative DNA polymerase
+AIMed_d118@8	This regulation result from a direct interaction between PROTEINT1 and PROTEINT2
+AIMed_d201@4	Our finding that PROTEINT1 directly interact with PROTEINT2 PROTEINT0 a common subunit of RNA polymeras imply that PROTEINT0 directly modulate the function of RNA polymerase Cheong J H Yi M Lin Y and Murakami S 1995 EMBO J 14 142-150
+AIMed_d201@4	Our finding that PROTEINT1 directly interact with PROTEINT0 PROTEINT2 a common subunit of RNA polymeras imply that PROTEINT0 directly modulate the function of RNA polymerase Cheong J H Yi M Lin Y and Murakami S 1995 EMBO J 14 142-150
+AIMed_d201@7	Delineation of the binding region of these three protein reveal that PROTEINT1 PROTEINT2 and PROTEINT0 each have two binding region for the other two protein
+AIMed_d201@9	Some PROTEINT1 substitution mutant which have severely impaired transacting activity exhibit reduce binding affinity with either PROTEINT0 or PROTEINT2 in a mutually exclusive manner suggest that PROTEINT0 transactivation require the interaction of both PROTEINT0 and PROTEINT0
+AIMed_d201@9	Some PROTEINT0 substitution mutant which have severely impaired transacting activity exhibit reduce binding affinity with either PROTEINT0 or PROTEINT0 in a mutually exclusive manner suggest that PROTEINT1 transactivation require the interaction of both PROTEINT2 and PROTEINT0
+AIMed_d65@1	Cross-family dimerization of transcription factor PROTEINT1 PROTEINT2 and PROTEINT0 PROTEINT0 alter DNA binding specificity
+AIMed_d65@1	Cross-family dimerization of transcription factor PROTEINT0 PROTEINT0 and PROTEINT1 PROTEINT2 alter DNA binding specificity
+AIMed_d116@1	Activity of RNA polymerase I transcription factor PROTEINT1 block by PROTEINT2 gene product
+AIMed_d116@4	Here we report that 1 there be an accumulation of PROTEINT0 protein in the nucleolus of differentiate U937 cell which correlate with inhibition of rDNA transcription 2 addition of PROTEINT0 to an in vitro transcription system inhibit transcription by RNA polymerase I 3 this inhibition require a functional PROTEINT0 pocket and 4 PROTEINT1 specifically inhibit the activity of the RNA polymerase I transcription factor PROTEINT2 PROTEINT0 in vitro
+AIMed_d116@4	Here we report that 1 there be an accumulation of PROTEINT0 protein in the nucleolus of differentiate U937 cell which correlate with inhibition of rDNA transcription 2 addition of PROTEINT0 to an in vitro transcription system inhibit transcription by RNA polymerase I 3 this inhibition require a functional PROTEINT0 pocket and 4 PROTEINT1 specifically inhibit the activity of the RNA polymerase I transcription factor PROTEINT0 PROTEINT2 in vitro
+AIMed_d116@5	This last observation be confirm by affinity chromatography and immunoprecipitation which demonstrate an interaction between PROTEINT1 and PROTEINT2
+AIMed_d111@3	The prototypic neuronal anchor protein PROTEINT1 have a COOH-terminal 22-residue PROTEINT2 binding tethering site
+AIMed_d111@5	Mutagenesis recombinant protein expression and physicochemical characterization be use to investigate the structural basis for the homodimerization and PROTEINT1 binding activity of PROTEINT2
+AIMed_d111@10	Evidently large hydrophobic side chain of Leu13 and Phe36 play pivotal role in stabilize PROTEINT1 PROTEINT2 interaction
+AIMed_d111@12	Other NH2-terminal residue directly modulate the affinity of PROTEINT1 dimer for the PROTEINT2 tethering site
+AIMed_d111@13	Replacement of Val20-Leu21 with Ala-Ala produce a dimeric PROTEINT1 protein that bind PROTEINT2 approximately 4 as avidly as wild-type PROTEINT0
+AIMed_d124@2	The protein PROTEINT1 a key mediator of mitogenesis and differentiation associate with PROTEINT2 ref 1-3
+AIMed_d57@1	Reconstitution of the multiprotein complex of PROTEINT1 PROTEINT2 and PROTEINT0 in a cell-free system
+AIMed_d57@2	A rabbit reticulocyte lysate system that have be use to reconstitute functional complex between steroid receptor and the 90-kDa heat shock protein PROTEINT0 have be use here to form complex between the PROTEINT1 tyrosine kinase and PROTEINT2
+AIMed_d57@3	Reticulocyte lysate form complex between PROTEINT1 and a temperature-sensitive mutant of Rous sarcoma virus PROTEINT2 which be normally present in cytosol virtually entirely in the multiprotein complex form
+AIMed_d57@4	In addition PROTEINT1 in the lysate complex with wild-type PROTEINT2 of which only a small portion be normally recover in cytosol in the native multiprotein complex and with the cellular homolog PROTEINT0 which have never be recover in cytosol in the form of a native multiprotein complex with PROTEINT0
+AIMed_d57@4	In addition PROTEINT1 in the lysate complex with wild-type PROTEINT0 of which only a small portion be normally recover in cytosol in the native multiprotein complex and with the cellular homolog PROTEINT2 which have never be recover in cytosol in the form of a native multiprotein complex with PROTEINT0
+AIMed_d57@6	The native and reconstitute PROTEINT1 PROTEINT2 complex have similar thermal stability and like steroid receptor heterocomplex they be stabilize by molybdate
+AIMed_d57@7	As previously show with reticulocyte lysate-reconstituted steroid receptor heteroprotein complex the reconstitute PROTEINT1 multiprotein complex contain PROTEINT2 which be a major candidate for provide the protein unfoldase activity require for PROTEINT0 association
+AIMed_d158@2	The death domain of PROTEINT1 PROTEINT0 trigger distinct signaling pathway lead to apoptosis and PROTEINT0 activation through its interaction with the death domain protein PROTEINT2
+AIMed_d158@2	The death domain of PROTEINT0 PROTEINT1 trigger distinct signaling pathway lead to apoptosis and PROTEINT0 activation through its interaction with the death domain protein PROTEINT2
+AIMed_d158@3	Here we show that PROTEINT1 interact strongly with PROTEINT2 another death domain protein that be show previously to associate with PROTEINT0 antigen
+AIMed_d158@3	Here we show that PROTEINT0 interact strongly with PROTEINT1 another death domain protein that be show previously to associate with PROTEINT2 antigen
+AIMed_d189@1	Association of PROTEINT1 with PROTEINT2 PROTEINT0 PROTEINT0 and PROTEINT0 protein in a yeast two-hybrid system
+AIMed_d189@1	Association of PROTEINT1 with PROTEINT0 PROTEINT2 PROTEINT0 and PROTEINT0 protein in a yeast two-hybrid system
+AIMed_d189@1	Association of PROTEINT1 with PROTEINT0 PROTEINT0 PROTEINT2 and PROTEINT0 protein in a yeast two-hybrid system
+AIMed_d189@1	Association of PROTEINT1 with PROTEINT0 PROTEINT0 PROTEINT0 and PROTEINT2 protein in a yeast two-hybrid system
+AIMed_d189@4	Use the human PROTEINT0 protein as the bait in a yeast two-hybrid system we have identify a human homolog of yeast PROTEINT0 designate PROTEINT1 that interact with PROTEINT2 PROTEINT0 PROTEINT0 and a ubiquitin-like protein PROTEINT0
+AIMed_d189@4	Use the human PROTEINT0 protein as the bait in a yeast two-hybrid system we have identify a human homolog of yeast PROTEINT0 designate PROTEINT1 that interact with PROTEINT0 PROTEINT2 PROTEINT0 and a ubiquitin-like protein PROTEINT0
+AIMed_d189@4	Use the human PROTEINT0 protein as the bait in a yeast two-hybrid system we have identify a human homolog of yeast PROTEINT0 designate PROTEINT1 that interact with PROTEINT0 PROTEINT0 PROTEINT2 and a ubiquitin-like protein PROTEINT0
+AIMed_d189@4	Use the human PROTEINT0 protein as the bait in a yeast two-hybrid system we have identify a human homolog of yeast PROTEINT0 designate PROTEINT1 that interact with PROTEINT0 PROTEINT0 PROTEINT0 and a ubiquitin-like protein PROTEINT2
+AIMed_d189@6	The interaction of PROTEINT1 with PROTEINT2 be mediate by PROTEINT0 s self-association region
+AIMed_d123@1	Characterization of an interaction between PROTEINT1 and the PROTEINT2 by use the two-hybrid system
+AIMed_d123@2	PROTEINT1 PROTEINT0 be a major substrate of the PROTEINT2 and have be implicate in PROTEINT0 signaling
+AIMed_d123@2	PROTEINT0 PROTEINT1 be a major substrate of the PROTEINT2 and have be implicate in PROTEINT0 signaling
+AIMed_d123@3	Although PROTEINT1 be think to interact with the PROTEINT0 PROTEINT2 the nature of the interaction have not be define
+AIMed_d123@4	In this study we use the two-hybrid assay of protein-protein interaction in the yeast Saccharomyces cerevisiae to study the interaction between human PROTEINT1 and the PROTEINT0 PROTEINT2
+AIMed_d123@5	We demonstrate that PROTEINT1 form a specific complex with the cytoplasmic domain of the PROTEINT2 when both be express as hybrid protein in yeast cell
+AIMed_d81@1	PROTEINT1 a novel protein contain a death domain that interact with PROTEINT2 PROTEINT0 PROTEINT0 in yeast and cause cell death
+AIMed_d81@1	PROTEINT1 a novel protein contain a death domain that interact with PROTEINT0 PROTEINT2 PROTEINT0 in yeast and cause cell death
+AIMed_d81@1	PROTEINT1 a novel protein contain a death domain that interact with PROTEINT0 PROTEINT0 PROTEINT2 in yeast and cause cell death
+AIMed_d81@3	Use a genetic selection base on protein-protein interaction in yeast we have identify two gene product that associate with the intracellular domain of PROTEINT1 PROTEINT2 itself and a novel 74 kDa protein we have name PROTEINT0 for PROTEINT0
+AIMed_d81@3	Use a genetic selection base on protein-protein interaction in yeast we have identify two gene product that associate with the intracellular domain of PROTEINT1 PROTEINT0 itself and a novel 74 kDa protein we have name PROTEINT2 for PROTEINT0
+AIMed_d81@3	Use a genetic selection base on protein-protein interaction in yeast we have identify two gene product that associate with the intracellular domain of PROTEINT1 PROTEINT0 itself and a novel 74 kDa protein we have name PROTEINT0 for PROTEINT2
+AIMed_d81@4	PROTEINT1 also interact weakly with the PROTEINT0 tumor necrosis factor receptor PROTEINT2 intracellular domain but not with a mutant version of PROTEINT0 correspond to the murine lprcg mutation
+AIMed_d50@3	Here we quantitatively map the complete binding region of PROTEINT1 on PROTEINT2 by 35 individual mutation to alanine and isosteric residue
+AIMed_d50@6	Interestingly the PROTEINT1 binding site overlap the large continuous hydrophobic patch on PROTEINT2
+AIMed_d180@3	PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT0 a PROTEINT2 PROTEINT0 substrate important for the growth and plasticity of neuronal connection have be implicate in vitro in several signal transduction pathway
+AIMed_d180@3	PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT0 a PROTEINT0 PROTEINT2 substrate important for the growth and plasticity of neuronal connection have be implicate in vitro in several signal transduction pathway
+AIMed_d180@3	PROTEINT0 PROTEINT1 PROTEINT0 PROTEINT0 a PROTEINT2 PROTEINT0 substrate important for the growth and plasticity of neuronal connection have be implicate in vitro in several signal transduction pathway
+AIMed_d180@3	PROTEINT0 PROTEINT1 PROTEINT0 PROTEINT0 a PROTEINT0 PROTEINT2 substrate important for the growth and plasticity of neuronal connection have be implicate in vitro in several signal transduction pathway
+AIMed_d180@3	PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT0 a PROTEINT2 PROTEINT0 substrate important for the growth and plasticity of neuronal connection have be implicate in vitro in several signal transduction pathway
+AIMed_d180@3	PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT0 a PROTEINT0 PROTEINT2 substrate important for the growth and plasticity of neuronal connection have be implicate in vitro in several signal transduction pathway
+AIMed_d180@3	PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT1 a PROTEINT2 PROTEINT0 substrate important for the growth and plasticity of neuronal connection have be implicate in vitro in several signal transduction pathway
+AIMed_d180@3	PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT1 a PROTEINT0 PROTEINT2 substrate important for the growth and plasticity of neuronal connection have be implicate in vitro in several signal transduction pathway
+AIMed_d180@4	In the yeast-based cloning system the only strong interaction that be detect between PROTEINT1 and the PROTEINT0 PROTEINT2 PROTEINT0
+AIMed_d180@4	In the yeast-based cloning system the only strong interaction that be detect between PROTEINT1 and the PROTEINT0 PROTEINT0 PROTEINT2
+AIMed_d180@5	PROTEINT1 phosphorylate PROTEINT2 on serine 41
+AIMed_d180@7	Surprisingly the N-terminal third of PROTEINT1 alone bind PROTEINT2 more strongly than do intact PROTEINT0 suggest that the protein' C-terminus may play a role in modulate the interaction with PROTEINT0
+AIMed_d180@7	Surprisingly the N-terminal third of PROTEINT0 alone bind PROTEINT1 more strongly than do intact PROTEINT2 suggest that the protein' C-terminus may play a role in modulate the interaction with PROTEINT0
+AIMed_d180@8	These result along with other recent finding suggest a novel role for the interaction between PROTEINT1 and PROTEINT2
+AIMed_d88@1	Interaction of the protein PROTEINT1 with PROTEINT2 as reveal by the yeast two-hybrid system
+AIMed_d88@8	The specificity of intehraction between PROTEINT1 and PROTEINT2 be confirm by an in vitro binding assay use recombinant protein
+AIMed_d59@3	PROTEINT1 be a muscle-specific HLH protein that bind DNA in vitro as a heterodimer with several widely express HLH protein such as the PROTEINT0 gene product PROTEINT2 and PROTEINT0
+AIMed_d59@3	PROTEINT1 be a muscle-specific HLH protein that bind DNA in vitro as a heterodimer with several widely express HLH protein such as the PROTEINT0 gene product PROTEINT0 and PROTEINT2
+AIMed_d59@6	The result show that PROTEINT1 heterodimerize with PROTEINT2 and PROTEINT0 in vivo but it do not homodimerize to a measurable extent
+AIMed_d59@6	The result show that PROTEINT1 heterodimerize with PROTEINT0 and PROTEINT2 in vivo but it do not homodimerize to a measurable extent
+AIMed_d156@1	PROTEINT1 a kinase associate with the PROTEINT2
+AIMed_d156@2	The pleiotropic biological activity of PROTEINT1 PROTEINT0 be mediate by its type I receptor PROTEINT2
+AIMed_d156@2	The pleiotropic biological activity of PROTEINT0 PROTEINT1 be mediate by its type I receptor PROTEINT2
+AIMed_d156@5	When human embryonic kidney cell cell line 293 over-expressing PROTEINT0 or HeLa cell be expose to PROTEINT0 PROTEINT1 rapidly associate with the PROTEINT2 complex and be phosphorylate
+AIMed_d187@1	Interaction of PROTEINT1 with PROTEINT2 binding and inhibition of amyloid formation
+AIMed_d187@5	PROTEINT1 PROTEINT0 a second major CSF protein form SDS-stable complex with PROTEINT2 and significantly decrease the rate of PROTEINT0 fibril formation
+AIMed_d187@5	PROTEINT0 PROTEINT1 a second major CSF protein form SDS-stable complex with PROTEINT2 and significantly decrease the rate of PROTEINT0 fibril formation
+AIMed_d187@7	Endogenous PROTEINT1 PROTEINT2 complex be detect in human CSF by immunoprecipitation
+AIMed_d187@8	Use site-directed mutagenesis and computer-assisted modelling we identify amino acid residue on the surface of the PROTEINT1 monomer that interact with PROTEINT2
+AIMed_d48@1	PROTEINT1 induce chemotaxis and adhesion by interact with PROTEINT2 and PROTEINT0
+AIMed_d48@1	PROTEINT1 induce chemotaxis and adhesion by interact with PROTEINT0 and PROTEINT2
+AIMed_d48@4	We report chemotaxis and competitive binding study that show PROTEINT1 bind to and activate PROTEINT2 and PROTEINT0 transfecte HEK-293 cell
+AIMed_d48@4	We report chemotaxis and competitive binding study that show PROTEINT1 bind to and activate PROTEINT0 and PROTEINT2 transfecte HEK-293 cell
+AIMed_d99@7	PROTEINT1 protein interact with PROTEINT2 protein and with PROTEINT0 protein a subunit of the human RNA polymerase II transcription factor IIH
+AIMed_d99@7	PROTEINT1 protein interact with PROTEINT0 protein and with PROTEINT2 protein a subunit of the human RNA polymerase II transcription factor IIH
+AIMed_d196@1	PROTEINT1 interact with protein phosphatas PROTEINT2 and PROTEINT0 and disrupt a G2/M cell-cycle checkpoint
+AIMed_d196@1	PROTEINT1 interact with protein phosphatas PROTEINT0 and PROTEINT2 and disrupt a G2/M cell-cycle checkpoint
+AIMed_d196@5	We observe that the protein PROTEINT1 interact with protein PROTEINT0 PROTEINT2 PROTEINT0 as well as PROTEINT0 PROTEINT0 in mammalian cell
+AIMed_d196@5	We observe that the protein PROTEINT1 interact with protein PROTEINT0 PROTEINT0 PROTEINT2 as well as PROTEINT0 PROTEINT0 in mammalian cell
+AIMed_d196@5	We observe that the protein PROTEINT1 interact with protein PROTEINT0 PROTEINT0 PROTEINT0 as well as PROTEINT2 PROTEINT0 in mammalian cell
+AIMed_d196@5	We observe that the protein PROTEINT1 interact with protein PROTEINT0 PROTEINT0 PROTEINT0 as well as PROTEINT0 PROTEINT2 in mammalian cell
+AIMed_d196@9	Thus PROTEINT1 be a cellular oncogene that target PROTEINT2 and PROTEINT0 both of which be target for oncogenic virus and chemical tumour promoter
+AIMed_d196@9	Thus PROTEINT1 be a cellular oncogene that target PROTEINT0 and PROTEINT2 both of which be target for oncogenic virus and chemical tumour promoter
+AIMed_d34@5	We report an interaction between the human PROTEINT1 or PROTEINT0 hydrophilic loop and PROTEINT2 a small GTPase belong to the Ras-related superfamily
+AIMed_d34@5	We report an interaction between the human PROTEINT0 or PROTEINT1 hydrophilic loop and PROTEINT2 a small GTPase belong to the Ras-related superfamily
+AIMed_d34@6	Interaction domain be map to codon 374-400 for PROTEINT1 and to codon 106-179 for PROTEINT2 a region include the fourth GTP-binding domain
+AIMed_d147@1	Characterization of the PROTEINT1 binding protein PROTEINT2 and PROTEINT0
+AIMed_d147@1	Characterization of the PROTEINT1 binding protein PROTEINT0 and PROTEINT2
+AIMed_d147@5	We have now isolate cDNA clone that contain the full-length cod sequence of two other protein PROTEINT1 and PROTEINT0 clone originally by their interaction with PROTEINT2
+AIMed_d147@5	We have now isolate cDNA clone that contain the full-length cod sequence of two other protein PROTEINT0 and PROTEINT1 clone originally by their interaction with PROTEINT2
+AIMed_d147@7	In addition we have be able to identify complex of PROTEINT1 and PROTEINT2 in vivo that be dissociate in the presence of purify human papillomavirus PROTEINT0 protein
+AIMed_d191@11	PROTEINT1 interact with PROTEINT2 and PROTEINT0 with PROTEINT0 receptor
+AIMed_d191@11	PROTEINT0 interact with PROTEINT0 and PROTEINT1 with PROTEINT2 receptor
+AIMed_d33@3	Native PROTEINT1 and PROTEINT2 form a heterodimer in solution of physiological ionic strength with a free-energy change DeltaG degree of 8.3 kcal/mol and a dissociation constant Kd of 0.6 microM at 20 degree C that be ionic strength and temperature-dependent
+AIMed_d33@4	A van't Hoff plot of the change in Kd be linear between 10 and 37 degree C and yield value of DeltaH degree 12.9 kcal/mol and DeltaS degree 15.9 cal mol-1 deg-1 suggest that electrostatic force play a prominent role in the interaction of PROTEINT1 with PROTEINT2
+AIMed_d33@5	Native PROTEINT1 also form a heterodimer with PROTEINT2 and low concentration of polyionic ligand such as protamine and suramin inhibit the interaction
+AIMed_d140@1	PROTEINT1 a human G1 and S phase protein phosphatase that associate with PROTEINT2
+AIMed_d140@3	In yeast PROTEINT1 interact with cyclin-dependent kinase include human PROTEINT2 PROTEINT0 and PROTEINT0 but not with PROTEINT0
+AIMed_d140@3	In yeast PROTEINT1 interact with cyclin-dependent kinase include human PROTEINT0 PROTEINT2 and PROTEINT0 but not with PROTEINT0
+AIMed_d140@3	In yeast PROTEINT1 interact with cyclin-dependent kinase include human PROTEINT0 PROTEINT0 and PROTEINT2 but not with PROTEINT0
+AIMed_d140@4	In HeLa cell PROTEINT1 be express at the G1 to S transition and the protein form stable complex with PROTEINT2
+AIMed_d41@1	Crystal structure of the hereditary haemochromatosis protein PROTEINT1 complexe with PROTEINT2 PROTEINT0 receptor
+AIMed_d41@3	PROTEINT1 bind to the PROTEINT0 PROTEINT2 PROTEINT0 a receptor by which cell acquire iron-loaded PROTEINT0
+AIMed_d41@3	PROTEINT1 bind to the PROTEINT0 PROTEINT0 PROTEINT2 a receptor by which cell acquire iron-loaded PROTEINT0
+AIMed_d41@4	The 2.8 A crystal structure of a complex between the extracellular portion of PROTEINT1 and PROTEINT2 show two PROTEINT0 molecule which grasp each side of a twofold symmetric PROTEINT0 dimer
+AIMed_d41@4	The 2.8 A crystal structure of a complex between the extracellular portion of PROTEINT0 and PROTEINT0 show two PROTEINT1 molecule which grasp each side of a twofold symmetric PROTEINT2 dimer
+AIMed_d41@5	On a cell membrane contain both protein PROTEINT0 would lie down parallel to the membrane such that the PROTEINT1 helix that delineate the counterpart of the MHC peptide-binding groove make extensive contact with helix in the PROTEINT2 dimerization domain
+AIMed_d41@6	The structure of PROTEINT1 alone and complexe with PROTEINT2 differ in their domain arrangement and dimer interface provide a mechanism for communicate binding event between PROTEINT0 chain
+AIMed_d41@7	The PROTEINT1 PROTEINT2 complex suggest a bind site for transferrin on PROTEINT0 and shed light upon the function of PROTEINT0 in regulate iron homeostasis
+AIMed_d90@6	We have characterize the physical and functional interaction between PROTEINT1 and PROTEINT2 a leucine zipper transcription factor implicate in inflammatory response
+AIMed_d90@7	We find that deletion of the carboxyl-terminal 28 amino acid of PROTEINT0 disrupt PROTEINT1 PROTEINT2 physical interaction
+AIMed_d46@4	The binding epitope of PROTEINT1 for PROTEINT2 type I and PROTEINT0 or PROTEINT0 type II be characterize use PROTEINT0 mutant protein for analysis of interaction with receptor ectodomain
+AIMed_d46@4	The binding epitope of PROTEINT1 for PROTEINT0 type I and PROTEINT2 or PROTEINT0 type II be characterize use PROTEINT0 mutant protein for analysis of interaction with receptor ectodomain
+AIMed_d46@4	The binding epitope of PROTEINT1 for PROTEINT0 type I and PROTEINT0 or PROTEINT2 type II be characterize use PROTEINT0 mutant protein for analysis of interaction with receptor ectodomain
+AIMed_d46@5	A large epitope 1 for high-affinity PROTEINT1 binding be detect span the interface of the PROTEINT2 dimer
+AIMed_d222@2	The protein product of PROTEINT1 proto-oncogene be know to interact with several protein include PROTEINT2 PROTEINT0 and PROTEINT0 and be think to regulate signalling by many cell surface receptor
+AIMed_d222@2	The protein product of PROTEINT1 proto-oncogene be know to interact with several protein include PROTEINT0 PROTEINT2 and PROTEINT0 and be think to regulate signalling by many cell surface receptor
+AIMed_d222@2	The protein product of PROTEINT1 proto-oncogene be know to interact with several protein include PROTEINT0 PROTEINT0 and PROTEINT2 and be think to regulate signalling by many cell surface receptor
+AIMed_d222@3	The precise function of PROTEINT0 in these pathway be not clear although a genetic analysis in Caenorhabditis elegan suggest that PROTEINT1 be a negative regulator of the PROTEINT0 PROTEINT2
+AIMed_d222@5	The screen identify interaction involve PROTEINT1 and two 14-3-3 isoform PROTEINT2 human unconventional myosin IC and a recently identify SH3 domain contain protein PROTEINT0
+AIMed_d222@5	The screen identify interaction involve PROTEINT1 and two 14-3-3 isoform PROTEINT0 human unconventional myosin IC and a recently identify SH3 domain contain protein PROTEINT2
+AIMed_d97@5	In transfecte COS-1 cell PROTEINT1 PROTEINT0 and less efficiently PROTEINT0 bind to PROTEINT2
+AIMed_d97@5	In transfecte COS-1 cell PROTEINT0 PROTEINT1 and less efficiently PROTEINT0 bind to PROTEINT2
+AIMed_d97@5	In transfecte COS-1 cell PROTEINT0 PROTEINT0 and less efficiently PROTEINT1 bind to PROTEINT2
+AIMed_d97@7	Binding of PROTEINT1 PROTEINT0 to PROTEINT2 be also observe in nontransfected cell line
+AIMed_d97@7	Binding of PROTEINT0 PROTEINT1 to PROTEINT2 be also observe in nontransfected cell line
+AIMed_d97@8	Moreover a transcriptional activation signal be transduce by PROTEINT1 in the presence of type I receptor after stimulation by PROTEINT2 PROTEINT0
+AIMed_d97@8	Moreover a transcriptional activation signal be transduce by PROTEINT1 in the presence of type I receptor after stimulation by PROTEINT0 PROTEINT2
+AIMed_d135@3	The cell surface form of PROTEINT1 be assemble during biosynthesis as a heteromeric complex with PROTEINT2 PROTEINT0 a type II transmembrane protein that be another member of the TNF ligand family
+AIMed_d135@3	The cell surface form of PROTEINT1 be assemble during biosynthesis as a heteromeric complex with PROTEINT0 PROTEINT2 a type II transmembrane protein that be another member of the TNF ligand family
+AIMed_d135@4	Secrete PROTEINT0 be a homotrimer that bind to distinct TNF receptor of 60 and 80 kilodalton however these receptor do not recognize the major cell surface PROTEINT1 PROTEINT2 complex
+AIMed_d198@2	Mutagenesis of the PROTEINT1 PROTEINT0 PROTEINT2 permit analysis of the contribution that individual amino acid residue make to PROTEINT0 PROTEINT0 binding
+AIMed_d198@3	We employ both random and site-specific mutagenesis to determine the function of amino acid residue in the extracellular domain refer to as PROTEINT1 PROTEINT0 PROTEINT2 of the PROTEINT0
+AIMed_d149@1	The SH2/SH3 domain-containing protein PROTEINT1 interact with tyrosine-phosphorylated PROTEINT2 and PROTEINT0 implication for insulin control of PROTEINT0 signalling
+AIMed_d149@1	The SH2/SH3 domain-containing protein PROTEINT1 interact with tyrosine-phosphorylated PROTEINT0 and PROTEINT2 implication for insulin control of PROTEINT0 signalling
+AIMed_d149@6	The interaction between PROTEINT0 and these two protein require ligand activation of the PROTEINT0 and be mediate by the binding of the SH2 domain of PROTEINT1 to phosphotyrosine on both PROTEINT2 and PROTEINT0
+AIMed_d149@6	The interaction between PROTEINT0 and these two protein require ligand activation of the PROTEINT0 and be mediate by the binding of the SH2 domain of PROTEINT1 to phosphotyrosine on both PROTEINT0 and PROTEINT2
+AIMed_d149@7	Although PROTEINT1 associate with PROTEINT2 and PROTEINT0 it be not tyrosine-phosphorylate after PROTEINT0 stimulation imply that PROTEINT0 be not a substrate for the insulin receptor
+AIMed_d149@7	Although PROTEINT1 associate with PROTEINT0 and PROTEINT2 it be not tyrosine-phosphorylate after PROTEINT0 stimulation imply that PROTEINT0 be not a substrate for the insulin receptor
+AIMed_d149@8	Furthermore we have identify a short sequence motif YV/IN present in PROTEINT1 PROTEINT0 and PROTEINT0 which specifically bind the SH2 domain of PROTEINT2 with high affinity
+AIMed_d149@8	Furthermore we have identify a short sequence motif YV/IN present in PROTEINT0 PROTEINT1 and PROTEINT0 which specifically bind the SH2 domain of PROTEINT2 with high affinity
+AIMed_d149@8	Furthermore we have identify a short sequence motif YV/IN present in PROTEINT0 PROTEINT0 and PROTEINT1 which specifically bind the SH2 domain of PROTEINT2 with high affinity
+AIMed_d149@9	Interestingly both PROTEINT1 and PROTEINT0 can simultaneously bind distinct tyrosine phosphorylated region on the same PROTEINT2 molecule suggest a mechanism whereby PROTEINT0 could provide the core for a large signalling complex
+AIMed_d149@9	Interestingly both PROTEINT0 and PROTEINT1 can simultaneously bind distinct tyrosine phosphorylated region on the same PROTEINT2 molecule suggest a mechanism whereby PROTEINT0 could provide the core for a large signalling complex
+AIMed_d149@10	We propose a model whereby insulin stimulation lead to formation of multiple protein--protein interaction between PROTEINT1 and the two target PROTEINT2 and PROTEINT0
+AIMed_d149@10	We propose a model whereby insulin stimulation lead to formation of multiple protein--protein interaction between PROTEINT1 and the two target PROTEINT0 and PROTEINT2
+AIMed_d100@8	Recombinant PROTEINT1 bind directly to PROTEINT2 both in vitro and in yeast and participate in the formation of the PROTEINT0 complex
+AIMed_d217@1	Characterization of PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT0 PROTEINT2 interaction
+AIMed_d217@1	Characterization of PROTEINT0 PROTEINT1 PROTEINT0 PROTEINT0 PROTEINT2 interaction
+AIMed_d217@1	Characterization of PROTEINT0 PROTEINT0 PROTEINT1 PROTEINT0 PROTEINT2 interaction
+AIMed_d217@2	The death-inducing receptor PROTEINT1 be activate when cross-linke by the type II membrane protein PROTEINT0 PROTEINT2 PROTEINT0
+AIMed_d217@2	The death-inducing receptor PROTEINT1 be activate when cross-linke by the type II membrane protein PROTEINT0 PROTEINT0 PROTEINT2
+AIMed_d217@2	The death-inducing receptor PROTEINT0 be activate when cross-linke by the type II membrane protein PROTEINT1 PROTEINT0 PROTEINT2
+AIMed_d217@4	Base on the structure of the closely related PROTEINT1 PROTEINT2 complex a molecular model of the PROTEINT0 homotrimer bind to three PROTEINT0 molecule be generate use knowledge-based protein modeling method
+AIMed_d217@4	Base on the structure of the closely related PROTEINT0 PROTEINT0 complex a molecular model of the PROTEINT1 homotrimer bind to three PROTEINT2 molecule be generate use knowledge-based protein modeling method
+AIMed_d217@8	Although the cytotoxic activity of mutant Y218D be unaltered mutant Y218R be inactive correlate with the prediction that Tyr-218 of PROTEINT1 interact with a cluster of three basic amino acid side chain of PROTEINT2
+AIMed_d107@1	A direct interaction between PROTEINT1 subunit and the PROTEINT2
+AIMed_d107@3	Use a yeast two-hybrid strategy to identify other protein that interact with and potentially regulate PROTEINT1 we isolate a clone encode the carboxyl-terminal half of the PROTEINT2 of heterotrimeric G-protein
+AIMed_d107@4	In vitro purify PROTEINT1 subunit specifically bind to a GST fusion protein encode amino acid 1-330 of PROTEINT2 PROTEINT0
+AIMed_d107@4	In vitro purify PROTEINT1 subunit specifically bind to a GST fusion protein encode amino acid 1-330 of PROTEINT0 PROTEINT2
+AIMed_d107@6	In competition experiment the carboxyl terminus of PROTEINT0 PROTEINT0 block the binding of PROTEINT1 to PROTEINT2 however the PROTEINT0 bind protein PROTEINT0 and 14-3-3 have no effect
+AIMed_d107@6	In competition experiment the carboxyl terminus of PROTEINT0 PROTEINT0 block the binding of PROTEINT0 to PROTEINT0 however the PROTEINT1 bind protein PROTEINT2 and 14-3-3 have no effect
+AIMed_d107@7	Scatchard analysis of in vitro binding between PROTEINT1 and PROTEINT2 reveal an affinity of interaction Kd 163 36 nM similar to that see between PROTEINT0 and PROTEINT0 Kd 87 24 nM
+AIMed_d107@7	Scatchard analysis of in vitro binding between PROTEINT0 and PROTEINT0 reveal an affinity of interaction Kd 163 36 nM similar to that see between PROTEINT1 and PROTEINT2 Kd 87 24 nM
+AIMed_d107@9	In vivo complex of PROTEINT1 and PROTEINT2 be isolate from human embryonic kidney 293-T cell transfecte with epitope-tagged PROTEINT0
+AIMed_d210@1	Cross-family interaction between the bHLHZip PROTEINT1 and bZip PROTEINT2 protein result in down-regulation of PROTEINT0 activity
+AIMed_d210@4	A bZip protein PROTEINT1 be find to efficiently interact with PROTEINT2
+AIMed_d210@5	PROTEINT1 specifically interact with PROTEINT2 but not with other closely related family member PROTEINT0 PROTEINT0 PROTEINT0 or with PROTEINT0
+AIMed_d210@6	Both the bHLHZip and the N-terminal region of PROTEINT1 be require for efficient interaction with PROTEINT2
+AIMed_d210@7	In vivo association between PROTEINT1 and PROTEINT2 have be demonstrate by co-immunoprecipitation
+AIMed_d210@10	These datum show that PROTEINT1 and PROTEINT2 physically and functionally interact demonstrate that cross-talk occur between factor of distantly related transcription family
+AIMed_d74@2	Two cDNA clone encode a receptor for human PROTEINT1 PROTEINT2 be isolate by expression screening of a library make from human placental mRNA
+AIMed_d74@6	When transfecte into COS cell the clone cDNA direct the expression of a PROTEINT1 show a single class of affinity KD 2 8 nM and specificity for human PROTEINT2 but not PROTEINT0
+AIMed_d175@1	Physical interaction of mammalian PROTEINT1 with PROTEINT2
+AIMed_d175@5	We have detect a specific association of PROTEINT1 with the molecular chaperon PROTEINT2 and a 44-kDa protein that we identify as mammalian PROTEINT0
+AIMed_d175@5	We have detect a specific association of PROTEINT1 with the molecular chaperon PROTEINT0 and a 44-kDa protein that we identify as mammalian PROTEINT2
+AIMed_d175@6	A physical interaction between PROTEINT1 and PROTEINT2 suggest that PROTEINT0 may regulate the mammalian cell cycle through a direct effect on PROTEINT0
+AIMed_d175@6	A physical interaction between PROTEINT0 and PROTEINT0 suggest that PROTEINT1 may regulate the mammalian cell cycle through a direct effect on PROTEINT2
+AIMed_d175@7	Association of PROTEINT1 with both PROTEINT2 and PROTEINT0 may also imply a mechanistic link between the function of PROTEINT0 and PROTEINT0
+AIMed_d175@7	Association of PROTEINT1 with both PROTEINT0 and PROTEINT2 may also imply a mechanistic link between the function of PROTEINT0 and PROTEINT0
+AIMed_d109@1	Crystal structure of the heterodimeric bZIP transcription factor PROTEINT1 PROTEINT2 bind to DNA
+AIMed_d109@2	The PROTEINT1 and PROTEINT2 family of eukaryotic transcription factor heterodimerize to form complex capable of binding 5'-TGAGTCA-3 DNA element
+AIMed_d109@3	We have determine the X-ray crystal structure of a heterodimer of the bZIP region of PROTEINT1 and PROTEINT2 bind to DNA
+AIMed_d109@6	Comparison of the two crystallographically distinct protein-DNA complex show that the coiled-coil be flexibly join to the basic region and that the PROTEINT1 PROTEINT2 heterodimer do not recognize the asymmetric 5'-TGAGTCA-3 recognition element in a unique orientation
+AIMed_d219@1	PROTEINT1 negatively regulate PROTEINT2 activity by interaction with the PROTEINT0 cysteine-rich domain
+AIMed_d219@1	PROTEINT1 negatively regulate PROTEINT0 activity by interaction with the PROTEINT2 cysteine-rich domain
+AIMed_d219@3	We recently report that PROTEINT1 interaction with the PROTEINT0 PROTEINT2 PROTEINT0 residue 139-184 may be require for PROTEINT0 activation
+AIMed_d219@3	We recently report that PROTEINT1 interaction with the PROTEINT0 PROTEINT0 PROTEINT2 residue 139-184 may be require for PROTEINT0 activation
+AIMed_d219@7	In the present study we demonstrate that PROTEINT1 bind directly to the isolate PROTEINT2
+AIMed_d219@8	Moreover mutation of PROTEINT1 residue 143-145 impair binding of 14-3-3 but not PROTEINT2 to the PROTEINT0
+AIMed_d219@8	Moreover mutation of PROTEINT1 residue 143-145 impair binding of 14-3-3 but not PROTEINT0 to the PROTEINT2
+AIMed_d172@1	PROTEINT0 PROTEINT1 a ligand and specific activator of the tyrosine kinase receptor PROTEINT2
+AIMed_d172@3	PROTEINT1 and PROTEINT0 have be show to play key role in vascular development these two receptor bind and be activate by PROTEINT2 PROTEINT0
+AIMed_d172@3	PROTEINT1 and PROTEINT0 have be show to play key role in vascular development these two receptor bind and be activate by PROTEINT0 PROTEINT2
+AIMed_d172@3	PROTEINT0 and PROTEINT1 have be show to play key role in vascular development these two receptor bind and be activate by PROTEINT2 PROTEINT0
+AIMed_d172@3	PROTEINT0 and PROTEINT1 have be show to play key role in vascular development these two receptor bind and be activate by PROTEINT0 PROTEINT2
+AIMed_d172@6	This protein designate PROTEINT0 PROTEINT1 PROTEINT0 specifically bind to the extracellular domain of PROTEINT2 stimulate the tyrosine phosphorylation of PROTEINT0 express in mammalian cell and promote the mitogenesis of human lung endothelial cell
+AIMed_d172@6	This protein designate PROTEINT0 PROTEINT0 PROTEINT1 specifically bind to the extracellular domain of PROTEINT2 stimulate the tyrosine phosphorylation of PROTEINT0 express in mammalian cell and promote the mitogenesis of human lung endothelial cell
