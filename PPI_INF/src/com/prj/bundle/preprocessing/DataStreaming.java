@@ -53,7 +53,7 @@ public class DataStreaming {
 	}
 
 	/**
-	 * 
+	 * Pre-processing of the input files
 	 * @param resultHolder
 	 * @return 
 	 * @throws ParserConfigurationException 
@@ -85,17 +85,13 @@ public class DataStreaming {
 		for(int nodeNm=0; nodeNm <xmlNodeTree.getLength(); nodeNm++){
 			Node xmlNode = xmlNodeTree.item(nodeNm);
 			String f = ((Element)xmlNode).getElementsByTagName("id").item(0).getTextContent();
-			//System.out.println(">>>"+((Element)xmlNode).getElementsByTagName("id").item(0).getTextContent());
-			//if(f.equals("AIMed_d87")){
 			CorpusDictionary workerThread = new CorpusDictionary(xmlNode, resultHolder);
 			//collect entities of various kinds and abstracts
 			Future<Hashtable<String, 
 			LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> taskCollector =
 					threadPoolExecutor.submit(workerThread);
 			resultHolder = taskCollector.get();
-			//}
 		}
-		//System.exit(0);
 		threadPoolExecutor.shutdown();
 		System.out.println("\n Total Execution Time:-"+(System.currentTimeMillis()-beginSysTime)/1000);
 		return(resultHolder);
@@ -109,32 +105,6 @@ public class DataStreaming {
 			DataStreaming streamInstance = new DataStreaming();
 			NormaliseAbstracts normaliseInstance = new NormaliseAbstracts();
 			resultHolder = streamInstance.processDataStream(resultHolder);
-			
-			/**
-			Iterator<Map.Entry<String, TreeMap<Integer, ArrayList<String>>>> t5Itr = 
-					resultHolder.get("Abstract").entrySet().iterator();
-			while(t5Itr.hasNext()){
-				Map.Entry<String, TreeMap<Integer, ArrayList<String>>> t5V = t5Itr.next();
-				//if(t5V.getKey().equals("BioInfer_d613")){
-					System.out.println("\t"+t5V.getKey());
-					Iterator<Map.Entry<Integer, ArrayList<String>>> t6Itr = 
-							t5V.getValue().entrySet().iterator();
-					while(t6Itr.hasNext()){
-						Map.Entry<Integer, ArrayList<String>> t6V = t6Itr.next();
-						System.out.println("\t"+t6V.getKey());
-						if(!t6V.getValue().isEmpty()){
-							HashSet<String> tier1BufferSet = new HashSet<>(t6V.getValue());
-							Iterator<String> t7Itr = tier1BufferSet.iterator();
-							while(t7Itr.hasNext()){
-								String t7V = t7Itr.next();
-								System.out.println("\t"+t7V);
-							}
-						}
-					}
-				//}
-			}
-			System.exit(0);
-			**/
 			normaliseInstance.addCorpusResource(resultHolder);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
