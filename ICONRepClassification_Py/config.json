@@ -1,0 +1,11 @@
+{
+"iconRepresentationPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/InvariantContextAssembly/src/com/prj/bundle/processed/iconEdgeTrainingStream.txt",
+"testInstanceFile":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/DDI_INF/src/com/prj/bundle/processed/instancedOriginalStream.txt",
+"wordEmbeddingPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/ICONRepClassification_Py/src/com/prj/bundle/resource/GoogleNews-vectors-negative300.bin",
+"seedFrame":"3",
+"predictFilePath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/ICONRepClassification_Py/src/com/prj/bundle/resource/predictStream.txt",
+"comment_option-corpusTestInstanceFile":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/DDI_INF_CLASS/src/com/prj/bundle/processed/instancedOriginalTestStream.txt",
+"corpusTestInstanceFile":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/PPI_INF/src/com/prj/bundle/processed/instancedOriginalStream.txt",
+"corpusIconTrainingPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/InvariantContextAssembly_NeuralActivation/src/com/prj/bundle/processed/iconEdgeTrainingStream.txt",
+"corpusIconTestPath":"/home/iasl/Disk_R/Bio_NLP/NeonWorkspace_1.3/InvariantContextAssembly_NeuralActivation/src/com/prj/bundle/processed/iconEdgeTestStream.txt"
+}
