@@ -51,7 +51,7 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 	}
 	
 	/**
-	 * 
+	 * Pocess abstracts using normalized bio-entity tags 
 	 * @param abstractText
 	 * @param docId 
 	 * @param entityLocationMap
@@ -78,7 +78,6 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 					ArrayList<String> tier2BufferList = new ArrayList<>(
 							Arrays.asList(tier1StringValue.split("#")));
 					endIndex = Integer.parseInt(tier2BufferList.get(0));
-					//System.out.println("\t"+currIndex+"\t"+endIndex);
 					String replaceTag = tier2BufferList.get(1);
 					bufferBuilder.append(replaceTag.concat(" "));
 				}
@@ -100,7 +99,6 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 							ArrayList<String> tier4BufferList = new ArrayList<>(
 									Arrays.asList(tier3StringValue.split("#")));
 							lastEndIndex = Integer.parseInt(tier4BufferList.get(0));
-							//System.out.println("\t"+currIndex+"\t"+endIndex);
 							String replaceTag = tier4BufferList.get(1);
 							bufferBuilder.append(replaceTag.concat(" "));
 						}
@@ -119,10 +117,12 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 		}
 		
 		abstractText = tier1BufferBuilder.toString().trim();
-		//System.out.println("\t"+abstractText);
 		return(abstractText);
 	}
 	
+	/**
+	* Update relation tags for bioentities
+	**/
 	private ArrayList<String> replaceRelationId(String abstractBundle, 
 			String docId) {
 
@@ -135,7 +135,6 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 			while(tier1Itr.hasNext()){
 				String bufferString = abstractBundle;
 				Map.Entry<Integer, ArrayList<String>> tier1MapValue = tier1Itr.next();
-				//System.out.println("\t>>"+tier1MapValue);
 				Iterator<String> tier2Itr = tier1MapValue.getValue().iterator();
 				ArrayList<String> tier1BufferList = new ArrayList<>();
 				Matcher genericPatternMatch = Pattern.compile("ArgT\\d+").matcher(bufferString); 
@@ -144,24 +143,12 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 							genericPatternMatch.start(), genericPatternMatch.end());
 					tier1BufferList.add(temp);
 				}
-				//System.out.println("\t>>"+tier1BufferList);
 				int matchIndex = 0;
 				while(tier2Itr.hasNext()){
 					String tier2StringValue = tier2Itr.next();
 					matchIndex = matchIndex + tier1BufferList.stream()
 							.filter((currVal) -> Pattern.compile(tier2StringValue)
 									.matcher(currVal).matches()).collect(Collectors.toList()).size();
-					/**
-					for(int i=0;i<tier1BufferList.size();i++){
-						String tempString = tier1BufferList.get(i);
-						Matcher patternMatcher = Pattern.compile(tier2StringValue).matcher(tempString);
-						if(patternMatcher.find()){
-							matchIndex++;
-							break;
-						}
-					}**/
-					//System.out.println("\t"+tier1BufferList);
-					//System.out.println("\t"+tier2StringValue+"\t"+matchIndex);
 				}
 
 				if(matchIndex == 2){
@@ -181,7 +168,6 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 									argMatch.start(), argMatch.end());
 							tier2BufferMap.put(temp, tier1BufferLList);
 						}
-						//System.out.println("\t"+tier2BufferMap);
 						// replace id
 						if(tier2BufferMap.containsKey(tier2StringValue)){
 							StringBuilder bufferBuilder = new StringBuilder();
@@ -191,14 +177,12 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 							bufferBuilder.append(bufferString.substring(
 									tier2BufferLList.get(1), bufferString.length()));
 							bufferString = bufferBuilder.toString().trim();
-							//System.out.println("\t"+ bufferString);
 						}
 						
 					}
 					if(Pattern.compile("ArgT\\d+").matcher(bufferString).find()){
 						bufferString = bufferString.replaceAll("ArgT\\d+", "PROTEINT");
 					}
-					//System.out.println("\t"+bufferString);
 					tier1BufferResultList.add(bufferString);
 				}
 			}
@@ -207,7 +191,7 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 	}
 	
 	/**
-	 * 
+	 * collective of processed abstracts
 	 * @param subElement
 	 * @param docPos
 	 * @param docId
@@ -226,11 +210,9 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 			if(!abstractBundle.endsWith(".")){
 				abstractBundle = abstractBundle.concat(".");
 			}
-			//System.out.println("\t"+abstractBundle);
 			ArrayList<String> decoyList = 
 					replaceRelationId(abstractBundle, docId);
 			if(!decoyList.isEmpty()){
-				//tier1BufferList.addAll(decoyList);
 				tier1BufferResultMap.put(sentenceIndex, decoyList);
 				totalRelationSize = totalRelationSize+decoyList.size();
 			}
@@ -267,7 +249,7 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 	}
 
 	/**
-	 * 
+	 * update realtion tags for named bioentities in pairs
 	 * @param currentNodeElement
 	 * @param subElement 
 	 * @param string 
@@ -354,7 +336,6 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 			Element currentNodeElement = (Element) currentXmlNode;
 			String docId = 
 					currentNodeElement.getElementsByTagName("id").item(0).getTextContent();
-			//System.out.println(Thread.currentThread().getName()+":- Start - \t"+currentNodeElement.getElementsByTagName("id").item(0).getTextContent());
 			/**
 			 * Take into account annotation tags for entity name retrievals 
 			 */
@@ -389,7 +370,6 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 			subNodeList = currentNodeElement.getElementsByTagName("relation");
 			for(int subNodeNm=0;subNodeNm<subNodeList.getLength();subNodeNm++){
 				 Node subNode = subNodeList.item(subNodeNm);
-				 //System.out.println(">> relation"+subNodeNm);
 				 if(subNode.getNodeType() == Node.ELEMENT_NODE){
 					Element subElement = (Element) subNode;
 					findRelation(docId, subElement);
@@ -415,7 +395,6 @@ LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> {
 			subNodeList = currentNodeElement.getElementsByTagName("passage");
 			for(int subNodeNm=0;subNodeNm<subNodeList.getLength();subNodeNm++){
 				 Node subNode = subNodeList.item(subNodeNm);
-				 //System.out.println(">> passage"+subNodeNm);
 				 if(subNode.getNodeType() == Node.ELEMENT_NODE){
 					 Element subElement = (Element) subNode;
 					 assembleAbstract(subElement, docId);
