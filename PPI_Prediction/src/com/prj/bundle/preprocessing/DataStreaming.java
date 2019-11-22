@@ -65,7 +65,7 @@ public class DataStreaming {
 	}
 
 	/**
-	 * 
+	 * Process Raw Data stream
 	 * @param resultHolder
 	 * @return 
 	 * @throws ParserConfigurationException 
@@ -97,22 +97,21 @@ public class DataStreaming {
 		for(int nodeNm=0; nodeNm <xmlNodeTree.getLength(); nodeNm++){
 			Node xmlNode = xmlNodeTree.item(nodeNm);
 			String f = ((Element)xmlNode).getElementsByTagName("id").item(0).getTextContent();
-			//System.out.println(">>>"+((Element)xmlNode).getElementsByTagName("id").item(0).getTextContent());
-			//if(f.equals("BioInfer_d613")){
 			CorpusDictionary workerThread = new CorpusDictionary(xmlNode, resultHolder);
 			//collect entities of various kinds and abstracts
 			Future<Hashtable<String, 
 			LinkedHashMap<String,TreeMap<Integer, ArrayList<String>>>>> taskCollector =
 					threadPoolExecutor.submit(workerThread);
 			resultHolder = taskCollector.get();
-			//}
 		}
-		//System.exit(0);
 		threadPoolExecutor.shutdown();
 		System.out.println("\n Total Execution Time:-"+(System.currentTimeMillis()-beginSysTime)/1000);
 		return(resultHolder);
 	}
 
+	/**
+	* load prediction file based on the Xg_boost evalauation
+	**/
 	private void loadPredictionFile() throws IOException {
 
 		
@@ -174,7 +173,6 @@ public class DataStreaming {
 						.matcher(tier2BufferList.get(currVal)).find())
 				.collect(Collectors.toList()));
 		
-		//System.out.println("\t ***"+tier3BufferArray+"\t******"+tier4BufferArray);
 		if(tier3BufferArray.equals(tier4BufferArray)){
 			returnValue = true;
 		}
@@ -185,12 +183,10 @@ public class DataStreaming {
 	private int compareInstances(ArrayList<String> bufferList,
 			ArrayList<ArrayList<String>> bufferPredictList) {
 
-		//System.out.println("\n\t compare instance ::"+bufferList);
 		int index=0;
 		Iterator<ArrayList<String>> tier1Itr = bufferPredictList.iterator();
 		while(tier1Itr.hasNext()){
 			ArrayList<String> tier1ListValue = tier1Itr.next();
-			//System.out.println("\t predict instance ::"+tier1ListValue);
 			if(getTriggerIndex(bufferList, tier1ListValue)){
 				return(index);
 			}
@@ -209,6 +205,9 @@ public class DataStreaming {
 		performStats.put(mapKey, statScore);
 	}
 	
+	/**
+	* identify if instances conatin pair mention
+	**/
 	private void identifyPairStatus(TreeMap<Integer, ArrayList<String>> bufferMap, String currDocId) {
 
 		if(predictResultMap.containsKey(currDocId)){
@@ -224,30 +223,24 @@ public class DataStreaming {
 							processArrayList(tier1BufferMap.get(tier1MapValue.getKey()),1);
 					Iterator<ArrayList<String>> tier2Itr = tier1BufferList.iterator();
 					while(tier2Itr.hasNext()){
-						//System.out.println("\t size list>> "+tier2BufferList.size());
 						ArrayList<String> tier2ListValue = tier2Itr.next();
 						int returnValue = compareInstances(tier2ListValue, tier2BufferList);
 						if(returnValue != -1){
-							//System.out.println("\t"+tier2ListValue+"\n"+tier2BufferList.get(returnValue));
 							// match
 							populateStatsMap("TP", 1);
 							tier2BufferList.remove(returnValue);
-							//System.out.println("match >>"+returnValue+"\tafter "+tier2BufferList);
 						}else{
 							// false negative
 							populateStatsMap("FN", 1);
-							//System.out.println("\t 1. FN "+tier2ListValue);
 						}
 					}
 					if(!tier2BufferList.isEmpty()){
 						// false positive
 						populateStatsMap("FP", tier2BufferList.size());
-						//System.out.println("\t 2. FP "+tier2BufferList.size());
 					}
 				}else{
 					// false negative
 					populateStatsMap("FN", tier1MapValue.getValue().size());
-					//System.out.println("\t FN "+tier1MapValue.getValue().size());
 				}
 				tier1BufferMap.remove(tier1MapValue.getKey());
 			}
@@ -265,11 +258,13 @@ public class DataStreaming {
 				Map.Entry<Integer, ArrayList<String>> tier3MapValue = tier3Itr.next();
 				populateStatsMap("FN", tier3MapValue.getValue().size());
 			}
-			//System.out.println("\t not doc FN "+currDocId);
 		}
 		
 	}
 
+	/**
+	* Calculate prediction performance
+	**/
 	private void calculatePredictionPerformance(
 			LinkedHashMap<String, TreeMap<Integer, ArrayList<String>>> bufferMap) {
 		
@@ -333,13 +328,11 @@ public class DataStreaming {
 					resultHolder.get("Abstract").entrySet().iterator();
 			while(t5Itr.hasNext()){
 				Map.Entry<String, TreeMap<Integer, ArrayList<String>>> t5V = t5Itr.next();
-				//System.out.println("\t"+t5V.getKey());
 				//if(t5V.getKey().equals("BioInfer_d613")){
 					Iterator<Map.Entry<Integer, ArrayList<String>>> t6Itr = 
 							t5V.getValue().entrySet().iterator();
 					while(t6Itr.hasNext()){
 						Map.Entry<Integer, ArrayList<String>> t6V = t6Itr.next();
-						//System.out.println("\t"+t6V.getKey());
 						if(!t6V.getValue().isEmpty()){
 							HashSet<String> tier1BufferSet = new HashSet<>(t6V.getValue());
 							Iterator<String> t7Itr = tier1BufferSet.iterator();
